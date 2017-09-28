@@ -1,0 +1,446 @@
+user_id,specialization,specialization_id,total_exp_months,city,city_id,industry,industry_id,company,company_id,salary_lacs,job_title,institute,institute_id,stream,stream_id,course_type,course_type_id
+10000083,Marketing,527.0,68,Nashik,330,Pharma / Biotech,63.0,Lupin Limited,823.0,3.5,marketing executive,MET,,Chemical Engineering,80.0,Full Time,1.0
+10001734,Mechanical,557.0,88,Other Tamil Nadu,365,,,None,,1.5,None,Kalaivanar Nsk Polytechnic College,,Maths - Algebra,50.0,Full Time,1.0
+10000090,BCA /MCA,,37,Pune,249,IT - Software,18.0,Accenture Services Pvt Ltd,,3.5,Test Associate,"oriental Insitute Science & technology,Bhopal",,Chemical Engineering,80.0,Full Time,1.0
+10000161,Communication - Tech. Writing,,169,Kolkata,247,Banking / Financial Services,6.0,"Philips,Samsung.Max Life Insurance",,1.5,Computer Operator/ Data Entry Operator / MIS,c.u,,Maths - Algebra,50.0,Full Time,1.0
+10000200,Electrical,550.0,176,Delhi,406,Engineering / Construction,9.0,Bygging India Ltd.,,12.0,Senior Manager-Electrical projects,ARV INTER COLLEGE,,Philosophy,20.0,Full Time,1.0
+10000225,Other Engineering,562.0,60,Chennai,244,Manufacturing,23.0,Harrow Security Vehicles Llc,,9.0,Supervisor,Bharath University,,Maths - Algebra,50.0,Full Time,1.0
+10000349,Chemistry,536.0,206,Indore,321,Manufacturing,23.0,Unichem Laboratories Ltd,4330.0,6.0,Production Executive,sagar uni.,,Chemical Engineering,80.0,Full Time,1.0
+1000041,Other,506.0,129,Jalandhar,348,Retail,40.0,Pvr Ltd,,6.0,Unit Head,Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+10000417,Biology - Zoology,,168,Patna,272,Medical / Healthcare,13.0,Pfizer Ltd,,,District Manager,Magadh university,,Maths - Algebra,50.0,Full Time,1.0
+10000431,Electronics and Communication Engineering,,0,Delhi,406,Engineering / Construction,9.0,Power Mech Projects Ltd,,,Site Engineer,Ram Jungle Singh Inter College,,Philosophy,20.0,Full Time,1.0
+10000447,Biology,533.0,78,Bangalore,243,Government Department,8.0,"Bangalore University,",,34.0,Guest faculty,Bangalore University,18.0,Dentistry - Orthodontics,110.0,Full Time,1.0
+10001327,Marketing,527.0,0,Other Bihar,271,Fresher (No Industry),52.0,None,,,None,L.N.Mishra college of business management,,Chemical Engineering,80.0,Full Time,1.0
+500eaae8b3b0217ece0071d2,Education,528.0,23,Bhopal,319,Banking / Financial Services,6.0,Moneymakerresearch Pvt Ltd,,3.5,sales marketing,BANSAL INSTITUTE OF SCIENCE &TECH,,Philosophy,20.0,Full Time,1.0
+4fd83dbecc50714e8c00105c,Marketing,527.0,24,Other Kerala,313,Automobile / Auto Ancillaries,4.0,Tvs Mahindra,,2.0,Sr Sales Officer,INSTITUTE OF MANAGEMENT AND TECHNOLOGY,,Chemical Engineering,80.0,Full Time,1.0
+576d7fe8eb64ef0d36002915,Civil,549.0,0,Hyderabad,246,Fresher (No Industry),52.0,None,,,None,GURUNANAK INSTITUIONS,,Maths - Algebra,50.0,Full Time,1.0
+554a41ca80cf2c2668e3c924,Agriculture,530.0,128,Pune,249,BPO / Call Center,20.0,Exl,,6.0,Assistant Training Manager,PKV Akola,,Maths - Algebra,50.0,Full Time,1.0
+10000516,Marketing,527.0,243,Mumbai Region,437,Banking / Financial Services,6.0,Yes Bank Ltd,,16.0,Asst. Vice President,NIM,,Chemical Engineering,80.0,Correspondence,3.0
+10000574,Civil Engineering,,0,Bokaro,300,Fresher (No Industry),52.0,None,,,None,B.I.S.S.S 11D,,Philosophy,20.0,Full Time,1.0
+10000722,Computers,503.0,38,Other Bihar,271,Internet / E-Commerce,69.0,Mahindra & Mahindra Ltd,,1.5,[Company Hidden],C M COLLAGE DARBHANGA,,Philosophy,20.0,Full Time,1.0
+10000733,HR,,111,Mumbai Region,437,Manufacturing,23.0,Yash Engeering Works Pvt Ltd,,4.5,Asst Manager- HR & Admin,Mumbai University,140.0,Philosophy,20.0,Full Time,1.0
+10000760,Hotel Management,566.0,60,Delhi,406,Hotel / Restaurant,15.0,The Oberoi Group,,4.5,Officiating Assistant manager Food & Beverage,"Graphic Era Institute of Technology, Dehradun",,Maths - Algebra,50.0,Full Time,1.0
+10000808,Electrical Engineering,,77,Ahmedabad,285,Telecom / ISP,46.0,Reliance Jio Infocom Ltd,,4.0,Telecom executive,RMS Polytechnic,,Biology,30.0,Full Time,1.0
+10000878,Mechanical,557.0,36,Delhi,406,Power / Energy,64.0,Clyde Bergemann Ind Pvt Ltd,,3.5,Engineer services & Producation engineer,sati polytechnic vidisha (M.P),,Chemical Engineering,80.0,Full Time,1.0
+10000883,Marketing,527.0,20,Delhi,406,BPO / Call Center,20.0,Intelenet Global Services,99.0,2.0,Research Analyst,"Maharishi Dayanand University, Rohtak",130.0,Maths - Algebra,50.0,Full Time,1.0
+10000936,Mechanical,557.0,46,Gwalior,320,FMCG / F&B,11.0,Agro Solvent Plant Pvt Ltd Datia,,2.0,Mechanical Maintenance Engineer,RGPV,,Maths - Algebra,50.0,Full Time,1.0
+10000943,Computers,503.0,41,Mumbai Region,437,IT - Software,18.0,Cognizant,,5.0,Associate,Mumbai University,,Chemical Engineering,80.0,Full Time,1.0
+10000990,Civil Engineering,,89,Other Orrisa,343,Engineering / Construction,9.0,Corsan Corviam Construction S.A,,8.0,Senior Engineer,SRM INSTITUTE OF SCIENCE & TECHNOLOGY,,Maths - Algebra,50.0,Full Time,1.0
+10000994,Commerce,502.0,78,Tiruchirappalli,367,BPO / Call Center,20.0,Capgemini Business Servicies India Pvt Ltd,,1.5,Process Associate,Bharathidasan University,22.0,Philosophy,20.0,Correspondence,3.0
+10001000,Mechanical Engineering,,50,Delhi,406,Manufacturing,23.0,Swiss Lamps Pvt Ltd.,,3.5,quality engineer,BHABHA ENGINEERING RESEARCH INST.,,Maths - Algebra,50.0,Full Time,1.0
+10001153,Computer / IT / Software Engineering,,71,Bhubaneswar,341,IT - Software,18.0,Vedanta Aluminium Ltd,,7.0,IT and Maintenance Professional,BPUT,,Maths - Algebra,50.0,Full Time,1.0
+10001236,Psychiatry,590.0,12,Hyderabad,246,Medical / Healthcare,13.0,"D.D Medical College,Tiruvallur",,8.0,Psychiatrist,"ASRAM Medical college, Eluru",,Chemical Engineering,80.0,Full Time,1.0
+10001299,Electronics and Communication Engineering,,78,Panipat,293,Medical / Healthcare,13.0,X Vision Healthcare,,3.0,costumer  Service Engineer,kurukshetra univercity,,Philosophy,20.0,Correspondence,3.0
+10001460,Civil Engineering,,12,Coimbatore,361,Engineering / Construction,9.0,Evergreen Cad Technologies,,3.0,Structural Design Engineer,REC,,Chemical Engineering,80.0,Full Time,1.0
+10001560,Biochemistry,532.0,72,Gandhinagar,286,Pharma / Biotech,63.0,Virchow Biotech Pvt Ltd,,4.5,Jr. Scientist,Pune University,187.0,Dentistry - Orthodontics,110.0,Full Time,1.0
+10001613,HR/ Industrial Relations,599.0,66,Faridabad,424,Real Estate,38.0,Urbtech India Developers (P) Ltd.,,3.0,Commercial Executive,Aggarwal P.G College,,Chemical Engineering,80.0,Correspondence,3.0
+10001665,Commerce,502.0,132,Hyderabad,246,IT - Software,18.0,Tata Consultancy Services,101.0,12.0,[Company Hidden],Nagarjuna University,143.0,Maths - Algebra,50.0,Full Time,1.0
+10001684,Computers / IT / Software - Science,,120,Other Gujarat,288,Manufacturing,23.0,Rachna Infotech,,4.5,System Administrator,T.N.Rao Institute,,Chemical Engineering,80.0,Full Time,1.0
+10001726,Other,506.0,42,United Arab Emirates,223,Export-Import / Trading,49.0,Forum Group,,6.0,Office & Logistic coordinator in Forum Warehouse Ajman,center for civil aviation traing new delhi,,Biology,30.0,Full Time,1.0
+10001751,Commerce,502.0,156,Mumbai Region,437,Pharma / Biotech,63.0,Khandelwal Lab Pvt Ltd,,4.5,ASST. MANAGER PURCHASE,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10001754,Maths,517.0,0,Lucknow,378,Fresher (No Industry),52.0,None,,,None,DDU Gorakhpur,,Philosophy,20.0,Full Time,1.0
+10001785,Electronics and Communication Engineering,,12,Thiruvanananthapuram,315,Engineering / Construction,9.0,Kerala State Electronics Development Corporation,,1.5,PROJECT ENGINEER,COHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY,,Maths - Algebra,50.0,Full Time,1.0
+10001838,Commerce,502.0,30,Navi Mumbai,522,FMCG / F&B,11.0,Aetos Trading Pvt.Ltd,,2.5,Sr.HR & Admin Executive,IBMRD VVPS FOUNDATION AHMEDNAGAR,,Philosophy,20.0,Full Time,1.0
+10001865,Other,506.0,78,Hyderabad,246,Banking / Financial Services,6.0,Premier Travels,,1.5,Collection Executive,high school,,Philosophy,20.0,Full Time,1.0
+10001870,Commerce,502.0,73,Pune,249,Cement / Building Material,56.0,M B Patil Construction Ltd,,2.5,Accounts Executive. / Accountant,Pune University,187.0,Philosophy,20.0,Full Time,1.0
+10001935,Marketing,527.0,58,Bangalore,243,IT - Software,18.0,Ideal Systems,,5.0,SAP UI5 / FIORI Consultant,Mepco Schlenk engineering college,,Chemical Engineering,80.0,Full Time,1.0
+10001946,Commerce,502.0,36,Delhi,406,Retail,40.0,Biba Apparels Pvt Ltd,,3.5,Assistant Manager Retail Merchandiser,DIMS Institute of Management,,Biology,30.0,Correspondence,3.0
+10002312,Electronics/Telecommunication,551.0,6,Hisar,420,,,None,,,None,"GURU JAMBHESHWAR UNIVERSITY OF SCIENCE & TECHNOLOGY,HISAR",,Maths - Algebra,50.0,Full Time,1.0
+58ba74b053a8cd55f1e2b471,Commerce,502.0,27,Kolkata,247,IT - Software,18.0,Capgemini India Pvt. Ltd,,2.5,Consultant,Maharaja Manindra Chandra College(Calcutta University),,Maths - Algebra,50.0,Full Time,1.0
+586e65b779d58133c8db5690,Mechanical,557.0,168,Coimbatore,361,Manufacturing,23.0,Elgi Equipments Ltd,,18.0,Manager - Technology Development CAC,Machine Design Kerala University,,Chemical Engineering,80.0,Full Time,1.0
+57b5db112c84cd23f50bfbf2,IT-Software,555.0,3,Pune,249,IT - Software,18.0,Ipantech Software,,1.5,Software Devl,Sushala devi bhansali college for enginering,,Maths - Algebra,50.0,Full Time,1.0
+57eb7a953f4bfd5625f81130,Electronics/Telecommunication,551.0,24,Bangalore,243,IT - Software,18.0,Global Techcraft Solutions,,3.5,US IT Recruiter,GSSIT,,Maths - Algebra,50.0,Full Time,1.0
+58d4068579d5813402e0a639,Arts and Humanities,501.0,0,Hyderabad,246,Fresher (No Industry),52.0,None,,,None,aesthetic of interiors academy,,Maths - Algebra,50.0,Part Time,2.0
+4e64d923ccf8a20d550002af,Computers,503.0,24,Hyderabad,246,IT - Software,18.0,Wipro,,3.5,linux adim,g.e.h.u,,Philosophy,20.0,Full Time,1.0
+57fd12e980cf2c06be4b5545,Computers,503.0,0,Chennai,244,Fresher (No Industry),52.0,None,,,None,mary matha matric hr sec school,,Philosophy,20.0,Full Time,1.0
+54bf66de0e702f091804a4f5,Science,507.0,27,Other Uttarakhand,389,Education / Training,10.0,Technoshapes Jabalpur Mp,,1.5,Design Engineer,Premier Institute Of Technology Jabalpur (M.P),,Philosophy,20.0,Full Time,1.0
+57daad412c84cd2232ebc31c,Arts and Humanities,501.0,53,Faizabad,455,Environment / Waste Management,57.0,Sbi Life Insurance Co. Ltd,,2.5,Agency Development Manager,dr.r. m. l.a. faizabad uttar pradsh,,Maths - Algebra,50.0,Full Time,1.0
+10239683,Other,506.0,68,Ranchi,305,Engineering / Construction,9.0,Schenck Process India Ltd.,,2.0,ASST. OFFICER,jseb,,Philosophy,20.0,Full Time,1.0
+57f89e728f64284835f3a7bf,Textile,564.0,0,Bhiwani,475,Fresher (No Industry),52.0,None,,,None,M.D.U,,Maths - Algebra,50.0,Full Time,1.0
+4f7aa3a3ccf8a247ea000d90,IT-Software,555.0,51,Chandigarh,404,Banking / Financial Services,6.0,Union Asset Management Company Pvt. Ltd,,3.0,Customer Service Executive,Punjab Technical University,189.0,Maths - Algebra,50.0,Full Time,1.0
+58ca453979d58124afca7e31,Physics,542.0,12,Chandigarh,404,Education / Training,10.0,Gdc Ramban,,2.5,Lecturer,jammu university,,Chemical Engineering,80.0,Full Time,1.0
+55ffdd22ef499b5f1579a502,Commerce,502.0,96,Pune,249,Banking / Financial Services,6.0,Paysquare Consultancy Ltd,,3.5,Process Trainer,Pune University,187.0,Biology,30.0,Full Time,1.0
+9033607,Finance / Accounting,526.0,132,Hyderabad,246,Automobile / Auto Ancillaries,4.0,Rane Engine Valve Ltd,2553.0,3.5,Senior Executive,Madras university,,Chemical Engineering,80.0,Full Time,1.0
+56909aa0cce9fb103cd92781,Mechanical,557.0,14,Ahmedabad,285,,,None,,1.5,None,K.V. HIMMATNAGARC,,Philosophy,20.0,Full Time,1.0
+10002199,Economics,509.0,63,Saudi Arabia,185,Education / Training,10.0,"Modern International School, Riyadh",,9.0,Teaching Assistant,Calicut University,28.0,Chemical Engineering,80.0,Full Time,1.0
+10002202,Mechanical Engineering,,42,Bangalore,243,IT - Software,18.0,Intel Security Mcafee,,4.0,MDM Consultant,K S RANGASAMY COLLEGE OF TECHNOLOGY,,Maths - Algebra,50.0,Full Time,1.0
+10002217,Civil Engineering,,180,Bharuch,414,Power / Energy,64.0,Lasant & Tubora,,4.5,Civil Forman,west Bengal High Secondary Education,,Philosophy,20.0,Full Time,1.0
+10002245,Electrical,550.0,12,Lucknow,378,,,Automatic Electrical Limited,,2.5,maintainance,"Rajendra college, Chhapra, Bihar",,Philosophy,20.0,Full Time,1.0
+10002319,Pharmacy,529.0,15,Other Maharashtra,331,Medical / Healthcare,13.0,Tata Consultancy Services,101.0,4.0,Drug safety associate,"Shivaji University, Maharasthra",199.0,Chemical Engineering,80.0,Full Time,1.0
+10002326,Commerce,502.0,65,Mumbai Region,437,Manufacturing,23.0,United Rubber Industries Pvt Ltd,,,Executive - Quality Assurance,Shankar Narayan College Arts Commerce & Science,,Philosophy,20.0,Full Time,1.0
+10002328,Electrical,550.0,58,Pune,249,Manufacturing,23.0,Raychem Rpg (P) Ltd,,3.5,PROCESS QUALITY,IEM JEYPUR,,Biology,30.0,Full Time,1.0
+10002377,Science,507.0,51,Lucknow,378,Engineering / Construction,9.0,Rudra Realtech Pvt. Ltd.,,5.0,Assistant Engineer,"SHANTI INSTITUTE OF TECHNOLOGY,MEERUT",,Philosophy,20.0,Full Time,1.0
+10002417,Computers,503.0,29,Agra,371,Power / Energy,64.0,Torrent Power Ltd.,,2.5,[Company Hidden],university,,Biology,30.0,Full Time,1.0
+10002498,Electronics/Telecommunication,551.0,180,Bangalore,243,Media / Dotcom / Entertainment,27.0,Zeicast,,26.0,Content head,"St. Joseph s College, Bangalore",,Maths - Algebra,50.0,Full Time,1.0
+10002575,Education,528.0,91,Pune,249,,,Flora Institute Of Technology,,2.5,Librarian,Y.M. College,,Chemical Engineering,80.0,Full Time,1.0
+10002589,Hindi,514.0,72,Hyderabad,246,Hotel / Restaurant,15.0,Hotel Bramha,,3.5,Front Office Manager,Sandeepani degree college,,Maths - Algebra,50.0,Full Time,1.0
+10002705,Operations Management,,36,Mumbai Region,437,Gifts / Toys / Stationary,12.0,Sai Krupa Latex,,3.5,Assistant Manager,University of Mumbai,,Chemical Engineering,80.0,Full Time,1.0
+10002725,Commerce,502.0,48,Jaipur,353,Medical / Healthcare,13.0,Govt. Medical Department,,1.0,ACCAUNTANTS,UNIVERCITY OF KOTA ,,Chemical Engineering,80.0,Full Time,1.0
+10002744,Electronics/Telecommunication,551.0,86,Hyderabad,246,Manufacturing,23.0,3F Fuji Foods Pvt Ltd,,3.5,IT Administrator,VMR POLYTECHNIC,,Philosophy,20.0,Full Time,1.0
+10002786,Public Administration,,0,Raipur,278,Manufacturing,23.0,Kjslcoal & Power Lmt,,75.0,CEO,Himanchal pradesh university shimla,,Dentistry - Orthodontics,110.0,Correspondence,3.0
+10002819,International Trade,,50,Noida,453,Banking / Financial Services,6.0,B&R Letting,,3.0,Operations Executive,IEC-CET Gr.Noida,,Philosophy,20.0,Full Time,1.0
+10002866,Marketing,527.0,34,Other Bihar,271,Banking / Financial Services,6.0,Idbi Bank,,1.5,SALES MANAGER,AIMT GORAKHPUR,,Chemical Engineering,80.0,Full Time,1.0
+10002869,Maths - Statistics,,16,Kolkata,247,,,Aig,,12.0,Analyst,"Indian Statistical Inst., Kolkatta",95.0,Chemical Engineering,80.0,Full Time,1.0
+10002871,Marketing,527.0,24,Hyderabad,246,Media / Dotcom / Entertainment,27.0,Bharatam Creations,,2.5,Assistant Manager - Film Making,Osmania University,179.0,Chemical Engineering,80.0,Full Time,1.0
+10002920,Commerce,502.0,72,Mumbai Region,437,Manufacturing,23.0,Detriv Instrumentation & Electronics Ltd,,3.0,Front Office Executive,Chetan college of arts &  commerce,,Maths - Algebra,50.0,Full Time,1.0
+10077738,Finance / Accounting,526.0,63,Chennai,244,Banking / Financial Services,6.0,Deutsche Bank,,4.5,Sales Manager,"VT B-SCHOOL,CHENNAI , AVADI",,Chemical Engineering,80.0,Full Time,1.0
+10077758,Chemistry,536.0,0,Vijayawada,400,Medical / Healthcare,13.0,Alcon Healthcare Pvt Ltd,,4.0,Regional Sales Manager,Andhra University,11.0,Philosophy,20.0,Full Time,1.0
+10078142,Finance / Accounting,526.0,84,Hyderabad,246,Medical / Healthcare,13.0,Oyster Medisafe Pvt Ltd,,7.0,Accountant,J N T U,,Chemical Engineering,80.0,Full Time,1.0
+10078419,History,515.0,63,Jaipur,353,Retail,40.0,Crossword Bookstores Ltd,,1.5,cashier and cca(Customer Care associate),Private College,,Maths - Algebra,50.0,Part Time,2.0
+1007842,Finance / Accounting,526.0,54,Pune,249,Banking / Financial Services,6.0,Bny Mellon,,2.0,Operations Executive,Shivaji University,,Chemical Engineering,80.0,Full Time,1.0
+10078460,Hotel Management,566.0,24,Lucknow,378,Hotel / Restaurant,15.0,"Hyatt Hotels (India),The Zon Regency Hotel By The Sea(Malaysia)",,1.0,Waiter / Waitress,NSHM durgapur,,Maths - Algebra,50.0,Full Time,1.0
+10078479,Electronics/Telecommunication,551.0,108,Bangalore,243,IT - Software,18.0,Dell India Pvt Ltd,,7.0,Internal Auditor,Karnataka University,114.0,Maths - Algebra,50.0,Full Time,1.0
+10078503,Arts,,0,Vijayawada,400,Medical / Healthcare,13.0,A.S.R.Academy Of Medical Sciences,,7.0,SENIOR MANAGER (PURCHASE & ADMINISTRATION),V.Raghavendra Rao,,Maths - Algebra,50.0,Full Time,1.0
+10078517,Electrical Engineering,,24,Hyderabad,246,Engineering / Construction,9.0,Nuevo-Sol,,3.5,solar power plant,kakinada institute of engineering and technolig,,Maths - Algebra,50.0,Full Time,1.0
+10078546,General,,7,Delhi,406,Medical / Healthcare,13.0,Vasant Lok Hospital,,4.5,Front Office,UMKAL METRO HEART INT.,,Maths - Algebra,50.0,Full Time,1.0
+10078604,Biology - Microbiology,,32,Bangalore,243,Printing / Packaging,35.0,Mps Ltd,,1.5,Proof Reader,Bangalore University,18.0,Chemical Engineering,80.0,Full Time,1.0
+10079200,Other,506.0,113,Vishakhapatnam,258,Medical / Healthcare,13.0,Hmri,,2.0,Lab Technician,Shanthi School Of DMLT OF APPMB,,Biology,30.0,Full Time,1.0
+10079236,CFA,,65,Uganda,221,Real Estate,38.0,Jomayi Property Consultants Ltd,,40.0,Accountant,Institute of certified public accountants of Uganda,,Biology,30.0,Part Time,2.0
+10079455,HR/ Industrial Relations,599.0,38,Vishakhapatnam,258,BPO / Call Center,20.0,Tech Mahindra,1897.0,2.5,Team Lead Employee Relations,Edith Cowen University,,Chemical Engineering,80.0,Full Time,1.0
+10079533,IT-Software,555.0,7,Hyderabad,246,,,None,,2.5,None,MITS,,Philosophy,20.0,Full Time,1.0
+10079553,Marketing,527.0,76,Delhi,406,Logistics / Courier / Transportation,22.0,Overnite Express Limited,,4.5,Manager Channel&Operations,vbs purvanchal university,,Philosophy,20.0,Full Time,1.0
+10079557,Electrical,550.0,67,Hyderabad,246,Engineering / Construction,9.0,Integrated Cleanroom Technologies Limited,,4.0,Project Engineer,"sri venkatesa perumal college of engineering&tech, puttur",,Maths - Algebra,50.0,Full Time,1.0
+10079567,Education,528.0,72,Delhi,406,Education / Training,10.0,College Of Hospitality Administration,,3.0,Asst. Mgr- Brand & Business,Rajasthan University,191.0,Maths - Algebra,50.0,Full Time,1.0
+10079580,Architecture,525.0,125,Bahrain,17,Aviation / Airline,5.0,Bahrain Airport Company,,32.0,Design Manager - Architect Technical & Development Team,"Kamla Raheja Vidyanidhi Institute for Architecture, Mumbai University",,Maths - Algebra,50.0,Full Time,1.0
+10079605,English,510.0,120,Pune,249,BPO / Call Center,20.0,Amdocs Business Service India,,9.0,GROUP LEADER,Pune University,187.0,Maths - Algebra,50.0,Full Time,1.0
+10079683,Commerce,502.0,66,Delhi,406,Banking / Financial Services,6.0,North East Region Finservices Ltd.,,3.0,Accountant,KUMAUN UNIVERSITY SSJ CAMPUS ALMORA,,Maths - Algebra,50.0,Full Time,1.0
+10079860,Other,506.0,25,Bangalore,243,BPO / Call Center,20.0,Vertex Customer Solution Ltd,,1.5,JOB,G.J.College,,Philosophy,20.0,Full Time,1.0
+10080164,Economics,509.0,60,Bangalore,243,IT - Software,18.0,Ask Staffing,,8.0,Sr. Recruiting Specialist,APSWRS Jr College,,Philosophy,20.0,Full Time,1.0
+10080169,Other,506.0,60,Hyderabad,246,Export-Import / Trading,49.0,Green Company Limited,,2.0,Accounts officer,university,,Biology,30.0,Full Time,1.0
+10080893,Public Administration,,0,Chandigarh,404,Fresher (No Industry),52.0,None,,,None,DAV-10,,Maths - Algebra,50.0,Full Time,1.0
+10081198,Company Secretary,570.0,89,Raipur,278,IT - Hardware / Networking,19.0,Vandana Global Ltd,,1.5,computer hardware& networking,shree nakoda ispat ltd,,Biology,30.0,Full Time,1.0
+10081332,Law,596.0,156,Bangalore,243,KPO / Analytics,61.0,Pierian Services Pvt Ltd,,8.0,Manager - Accounts,Karnataka University,114.0,Maths - Algebra,50.0,Full Time,1.0
+10081460,Finance / Accounting,526.0,86,Hyderabad,246,Banking / Financial Services,6.0,Genpact India Pvt. Ltd,,8.0,Process Developer,Kakatiya university,112.0,Philosophy,20.0,Full Time,1.0
+10081643,Other,506.0,72,Indore,321,Telecom / ISP,46.0,Tata Teleservices Ltd,,2.5,MIS (Markting ) Perpay,,,Philosophy,20.0,Full Time,1.0
+10081650,Other,506.0,41,Pune,249,Education / Training,10.0,Apeejay Institute Of Hospitality,,2.5,Computer Operator,Kolhapur,,Maths - Algebra,50.0,Full Time,1.0
+10081839,Commerce,502.0,0,Mumbai Region,437,Fresher (No Industry),52.0,None,,,None,Mumbai University,140.0,Biology,30.0,Full Time,1.0
+10081877,Commerce,502.0,78,Mumbai Region,437,KPO / Analytics,61.0,Inventurus Knowledge Solutions Pvt Ltd,,2.5,Senior credit balance analyst,Mumbai University,140.0,Maths - Algebra,50.0,Correspondence,3.0
+10081879,HR/ Industrial Relations,599.0,66,Kolkata,247,Manufacturing,23.0,Vishva Electrotech Ltd,,3.0,Asst. HR Manager,Alchemy Leadership School,,Philosophy,20.0,Full Time,1.0
+10081906,IT-Software,555.0,41,Noida,453,IT - Software,18.0,Birlasoft (India) Ltd,,5.0,Salesforce Developer,UP Board,,Philosophy,20.0,Full Time,1.0
+10081933,Economics,509.0,102,Chennai,244,Cement / Building Material,56.0,Sumanth & Co,,3.0,Purchase Manager,Gununanak,,Philosophy,20.0,Full Time,1.0
+10081961,Commerce,502.0,63,Mumbai Region,437,Export-Import / Trading,49.0,Tata International Ltd,,3.0,Jr. Exective Accounts  & Finance,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10082224,Commerce,502.0,66,Mumbai Region,437,Banking / Financial Services,6.0,Kotak Mahindra Bank,,5.0,Team leader / Manager,edit institute,,Chemical Engineering,80.0,Full Time,1.0
+10082239,International Business,601.0,49,Gurugram,423,Chemical / Plastic / Rubber / Glass,7.0,Ppg Asian Paints Ltd,,10.0,Customer Service Executive,Indian Institute of Foreign Trade,,Chemical Engineering,80.0,Part Time,2.0
+10082267,Computer / IT / Software Engineering,,60,Coimbatore,361,IT - Hardware / Networking,19.0,Kpr Garments,,3.5,Hardware and Network Engineer,"Annai Mathammal Sheela Engineering College,Nmakkal.",,Maths - Algebra,50.0,Full Time,1.0
+10082452,Commerce,502.0,216,Chennai,244,Retail,40.0,Master Fire,,8.0,Accountant,M.COM,,Philosophy,20.0,Correspondence,3.0
+10082660,IT-Software,555.0,54,Jaipur,353,IT - Software,18.0,Decurtis Software Solution Pvt. Ltd,,6.0,Software Engineer,Rajasthan technical university,,Philosophy,20.0,Full Time,1.0
+10082695,IT-Software,555.0,0,Kolhapur,328,Fresher (No Industry),52.0,None,,,None,MSBTE,,Chemical Engineering,80.0,Full Time,1.0
+10083171,Finance,,121,Hyderabad,246,KPO / Analytics,61.0,S&P Global Market Intelligence,,6.0,Analyst,Nagarjuna University,143.0,Chemical Engineering,80.0,Full Time,1.0
+10083196,Chemistry,536.0,60,Kota,356,Education / Training,10.0,Meritto Educare Pvt Ltd,,7.0,faculty chemistry ,"MDM college, kota",,Maths - Algebra,50.0,Full Time,1.0
+10083230,Marketing,527.0,279,Nigeria,154,Automobile / Auto Ancillaries,4.0,Modi Motors Agencies Pvt. Ltd,,16.0,General Manager,Institute Of Management Technologies,,Biology,30.0,Full Time,1.0
+10083270,Electrical Engineering,,192,Mumbai Region,437,Real Estate,38.0,Equinox Realty And Infrastructure ( An Essar Group Company),,9.0,Facility Management,,,,,,
+10083385,Commerce,502.0,41,Mumbai Region,437,,,None,,2.0,None,Pillai's college,,Maths - Algebra,50.0,Full Time,1.0
+10083526,Textile,564.0,0,Surat,290,Textile / Garments / Fashion,3.0,Chocolate,,14.0,General Manager (Ecommerce),Sasmira,,Biology,30.0,Full Time,1.0
+10083534,Other,506.0,42,Delhi,406,Retail,40.0,Bindal Appereal Pvt. Ltd.,,2.0,Cashier,Delhi University,41.0,Philosophy,20.0,Full Time,1.0
+10083629,Commerce,502.0,204,Erode,362,,,Biological E Ltd,,9.0,HOD sttores,JODHPUR UNIVERSITY,,Maths - Algebra,50.0,Full Time,1.0
+10083795,Marketing,527.0,64,Kolhapur,328,Consumer Durables / Electronics,14.0,Hafele India Pvt. Ltd,,9.0,Territory Manager,"Shivaji University, Maharasthra",199.0,Maths - Algebra,50.0,Full Time,1.0
+10083896,Mechanical,557.0,86,Aligarh,372,Automobile / Auto Ancillaries,4.0,Minda Corporation Limited,,9.0,Sr. Engg. Design,M.G Polytechnic,,Philosophy,20.0,Full Time,1.0
+10084155,Finance / Accounting,526.0,24,Bellary,432,Banking / Financial Services,6.0,Hanchate & Co.,,1.5,Junior Accountant,"VTU,Belgaum",,Chemical Engineering,80.0,Full Time,1.0
+10084171,Finance / Accounting,526.0,63,Jaipur,353,Real Estate,38.0,Arnav Properties Pvt Ltd,,2.0,Operations Executive/admin,JAYOTI VIDHYAPEETH WOMEN'S UNIVERSITY,,Chemical Engineering,80.0,Full Time,1.0
+10000005,IT-Software,555.0,36,Guntur,254,Education / Training,10.0,Mumtaz Enggneering College,,2.0,system admin,jbrec,,Philosophy,20.0,Full Time,1.0
+1000009,Mechanical,557.0,204,Gurugram,423,Oil & Gas / Petroleum,33.0,Uop India Pvt Ltd,,16.0,[Company Hidden],IMEMUMBAI,,Maths - Algebra,50.0,Part Time,2.0
+10000114,Computers,503.0,0,Muzzafarpur,470,Fresher (No Industry),52.0,None,,,None,VISVESVARAYA TECHNOLOGICAL UNNIVERSITY,,Maths - Algebra,50.0,Full Time,1.0
+10000143,Mechanical,557.0,90,Mumbai Region,437,Engineering / Construction,9.0,Q Railing India Pvt Ltd,,6.0,Estimation Engineer,BHARATI VIDYAPEET COLLEGE OF ENGINEERING,,Maths - Algebra,50.0,Full Time,1.0
+10000270,BCA /MCA,,35,Pune,249,Manufacturing,23.0,Blue Star Ltd,,1.5,Claims Executive,Tilak Maharshtra University Pune,,Philosophy,20.0,Full Time,1.0
+10000309,HR/ Industrial Relations,599.0,36,Kolkata,247,Education / Training,10.0,Advent Education Pvt. Ltd.,,2.0,HR Generalist,INSTITUTE OF ENGINEERING & MANAGEMENT,,Chemical Engineering,80.0,Full Time,1.0
+10000373,HR/ Industrial Relations,599.0,58,Bhiwani,475,Government Department,8.0,Civil Surgeon Office,,20.0,computer application,Haryana Board of school education,,Philosophy,20.0,Full Time,1.0
+10000432,Other Management,603.0,50,Chennai,244,IT - Software,18.0,Confluo E Solutions,,8.0,Senior software engineer,smdpvc hr sec school,,Philosophy,20.0,Full Time,1.0
+10000477,Computers,503.0,36,Mohali,442,IT - Software,18.0,Imark Infotech,,,Front END Developer,H.P.U,,Maths - Algebra,50.0,Full Time,1.0
+1000058,Other,506.0,231,Bangalore,243,IT - Software,18.0,Ibm India,,20.0,Project Staffing Professional (Japanese),Delhi University,41.0,Maths - Algebra,50.0,Part Time,2.0
+10000580,Electrical Engineering,,63,Hyderabad,246,Engineering / Construction,9.0,Ss Projects,,3.5,Site Engineer,"jntu,hyd",,Maths - Algebra,50.0,Full Time,1.0
+10000640,Electrical,550.0,61,Chennai,244,Manufacturing,23.0,Maclellan,,4.5,maintain engg,Anna University,12.0,Maths - Algebra,50.0,Full Time,1.0
+10000667,Instrumentation,554.0,136,Kakinada,459,Oil & Gas / Petroleum,33.0,Ruchi Soya Industries  Limited,,7.0,Asst  Manager Utilities.,REGENCY INSTITUTE OF TECHNOLOGY,,Philosophy,20.0,Full Time,1.0
+1000069,Commerce,502.0,96,Delhi,406,,,Ysf Hotels & Resorts Pvt Ltd,,4.0,"Asst. GR Manager, F & B Cost Controller",Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+10000717,96,,36,Chennai,244,IT - Software,18.0,Tenth Planet Technologies,,4.5,Software Analyst - Android,PSG Coimbatore,186.0,Maths - Algebra,50.0,Full Time,1.0
+10000877,International Trade Management,,133,United Arab Emirates,223,Export-Import / Trading,49.0,World Metals & Alloys Fzc ( Sharjah),,12.0,Logistics Officer,University of Mumbai,,Maths - Algebra,50.0,Full Time,1.0
+10000889,Sociology,523.0,259,Jalandhar,348,FMCG / F&B,11.0,Mother Dairy,,12.0,Assistant Manager,Osmania University,179.0,Maths - Algebra,50.0,Correspondence,3.0
+1000090,Industrial and Production Engineering,,150,Pune,249,Automobile / Auto Ancillaries,4.0,Tomtom India Pvt Ltd.,,20.0,Partner Development Manager,coeOSMANABAD,,Maths - Algebra,50.0,Full Time,1.0
+10000945,Mechanical Engineering,,60,Thrissur,316,Manufacturing,23.0,Steel & Industrial Forgings Ltd,,3.5,Mechanical Design Engineer,Board of Technical Education,,Biology,30.0,Full Time,1.0
+10001038,Other,506.0,108,Saudi Arabia,185,Engineering / Construction,9.0,Akfa Holding ,,7.0,ELECTRICAL SUPERVISOR ,ADARSH VISHWA VIDYALAYA ,,Biology,30.0,Full Time,1.0
+10001041,Commerce,502.0,156,Mumbai Region,437,Retail,40.0,Baggit India Pvt Ltd,,5.0,Sr Project Executive,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10001043,Hotel Management,566.0,192,Mumbai Region,437,Oil & Gas / Petroleum,33.0,Sodexo Pvt .Ltd.,,26.0,[Company Hidden],Bharati Vidyapeeth,,Chemical Engineering,80.0,Full Time,1.0
+10001056,Marketing,527.0,144,Other Andhra Pradesh,257,BPO / Call Center,20.0,Dell,,2.0,Senior Data Entry Executive,Madurai Kamaraj University,128.0,Chemical Engineering,80.0,Correspondence,3.0
+10001141,Computer / IT / Software Engineering,,48,Indore,321,,,None,,3.0,None,"R.G.P.V,University, Bhopal.",,Maths - Algebra,50.0,Full Time,1.0
+10001146,Maths,517.0,68,Hyderabad,246,Medical / Healthcare,13.0,Elico Healthcare Pvt Ltd.,,6.0,Senior Quality Analyst,Andhra University,11.0,Maths - Algebra,50.0,Full Time,1.0
+10001170,IT-Software,555.0,84,Jodhpur,355,,,Maharaja Shree Umaid Mills Ltd,3066.0,3.5,"Computer Hardware,Network Engineer and Technical Support",GOVT. BANGUR SCHOOL PALI,,Philosophy,20.0,Full Time,1.0
+10001210,Electrical Engineering,,120,Chennai,244,Engineering / Construction,9.0,Saudi Electricity Company (Sec),,20.0,Electrical Engineer,asan  memorial college of engineering and tech,,Maths - Algebra,50.0,Full Time,1.0
+10001384,Economics / Econometrics,,112,Mumbai Region,437,Manufacturing,23.0,Spartan Eng Ind.Pvt.Ltd.,,3.5,Sr.Executive accounts,sthye collage,,Maths - Algebra,50.0,Full Time,1.0
+10001389,Commerce,502.0,45,Lucknow,378,Furnishings / Sanitaryware / Electricals,17.0,Midas Electronics Pvt Ltd,,2.0,Customer relationship officer,Shibli National College Azamgarh,,Philosophy,20.0,Full Time,1.0
+10001423,Arts,,72,Noida,453,Manufacturing,23.0,Cogent Glass Limited Affiliated Of Sgd Group,,4.5,Sales coordinator,Ranchi University,192.0,Philosophy,20.0,Full Time,1.0
+10001511,Computers,503.0,53,Ahmedabad,285,IT - Software,18.0,Cloudzon Infoconnect Pvt. Ltd.,,4.0,HR Manager,Oxford Brookes University,,Maths - Algebra,50.0,Full Time,1.0
+10001517,Chemistry,536.0,56,Other Orrisa,343,Consumer Durables / Electronics,14.0,Intertec Group Wll ,,2.5,Store keeper ,Berhampur University,20.0,Maths - Algebra,50.0,Full Time,1.0
+10001558,BCA /MCA,,48,Jalandhar,348,Chemical / Plastic / Rubber / Glass,7.0,Hard Liquor,,2.0,data operator,Punjab Technical University,189.0,Chemical Engineering,80.0,Correspondence,3.0
+10001627,Geography,512.0,0,Kolkata,247,Fresher (No Industry),52.0,None,,,None,calcutta unversity,,Maths - Algebra,50.0,Full Time,1.0
+10001738,Computers,503.0,42,Meerut,380,,,None,,1.5,None,MICI,,Chemical Engineering,80.0,Correspondence,3.0
+1000174,HR/ Industrial Relations,599.0,180,Siliguri,397,FMCG / F&B,11.0,Amalgamated Plantations Pvt Ltd - A Tata Enterprise,,12.0,Dy.Mgr - Operations,Narsee Monjee Institute of Managements Studies,,Chemical Engineering,80.0,Correspondence,3.0
+10002038,Other,506.0,60,Other Haryana,292,Real Estate,38.0,Reliance World,338.0,9.0,CUSTOMER CARE,M.D.U.R,,Maths - Algebra,50.0,Full Time,1.0
+10002060,ALTP,,56,Delhi,406,Aviation / Airline,5.0,Indigo,,8.0,Cabin crew ,FRANKFINN,,Biology,30.0,Full Time,1.0
+10002098,BCA /MCA,,75,Nagpur,329,Banking / Financial Services,6.0,The Muthoot Group,,3.5,Branch Head,Nagpur University,144.0,Maths - Algebra,50.0,Full Time,1.0
+10002153,Marketing,527.0,76,Delhi,406,Advertising / MR / PR / Events,1.0,Kapil Telesystems,,6.0,Senior Marketing Manager,Graphic Era University,,Chemical Engineering,80.0,Full Time,1.0
+4f9f6e3e89c25e639f00150d,International Business,601.0,17,Gurugram,423,Education / Training,10.0,Dot Vision Consultancy,,4.0,Marketing Manager,INSTITUTE OF COMPANY SECRETARY OF INDIA,,Philosophy,20.0,Full Time,1.0
+53a15aaa6cca070b6efee30a,Arts and Humanities,501.0,12,Kota,356,,,Harsh Computer,,,oprator,ajmer board,,Philosophy,20.0,Full Time,1.0
+8323374,Arts and Humanities,501.0,84,Delhi,406,Architecture / Interior Design,54.0,Skets Studio,,7.0,Bim Modeler,Meerut University,135.0,Chemical Engineering,80.0,Correspondence,3.0
+56ed1b80cce9fb0dc990dc18,Arts and Humanities,501.0,61,Jaipur,353,Agriculture / Dairy,2.0,Hindchem Corporation,,3.0,BUSINESS DEVELOPMENT MANAGER,Rajasthan University,,Biology,30.0,Full Time,1.0
+57bd7e4180cf2c4a16c9fea7,IT-Software,555.0,0,Katni,491,Fresher (No Industry),52.0,None,,,None,TRUBA Institute Of Engineering & Information Technology,,Maths - Algebra,50.0,Full Time,1.0
+587e34f179d581711377f943,Other,506.0,36,Mumbai Region,437,Gems / Jewellery,59.0,Suresh Surana & Associates Llp,,1.5,articled assistant,ICAI,,Maths - Algebra,50.0,Part Time,2.0
+55767b435ffdf719bdb01638,HR/ Industrial Relations,599.0,12,Erode,362,Textile / Garments / Fashion,3.0,"Rattika Gmr Textiles , Carona Knit Wear",,2.5,HR Executive,JKK Munirajah college of technology,,Chemical Engineering,80.0,Full Time,1.0
+4eddbdafd81d1a0e5f00373a,Maths,517.0,144,Other Uttar Pradesh,383,IT - Software,18.0,Techmahindra Limited,,,Project Manager,OTHER,,Maths - Algebra,50.0,Full Time,1.0
+53b974e4daffbb43d4e6e710,IT-Software,555.0,0,Belgaum,306,Fresher (No Industry),52.0,None,,,None,jain college,,Maths - Algebra,50.0,Full Time,1.0
+5912bb279a73021e7f82d5df,Mechanical,557.0,108,Nellore,256,Engineering / Construction,9.0,Gmmco Limited,,4.5,senior engineer,Andhra University,11.0,Biology,30.0,Full Time,1.0
+58bd3af079d581441c2f622c,Computers,503.0,51,Bhopal,319,KPO / Analytics,61.0,Gramodyog Sansthan,,2.5,Ngo,Carrer college Bhopal,,Maths - Algebra,50.0,Full Time,1.0
+7882081,HR/ Industrial Relations,599.0,48,Other Maharashtra,331,Oil & Gas / Petroleum,33.0,Fabtech Projects & Engineers Ltd.,,4.0,HR Executive,Akola  University,,Maths - Algebra,50.0,Full Time,1.0
+590428243f4bfd7cdc9264dd,Finance / Accounting,526.0,13,Kochi,310,Banking / Financial Services,6.0,Al Bastaki ( Uae),,2.5,Market Research Analyst,Rvs imsr,,Chemical Engineering,80.0,Part Time,2.0
+9465396,Fine Arts,511.0,120,Delhi,406,,,Self Employed,,7.0,Designer,National Inst. of Fashion Tech.,148.0,Maths - Algebra,50.0,Full Time,1.0
+57e4e2432c84cd14b8d621f7,IT-Software,555.0,0,Hyderabad,246,Fresher (No Industry),52.0,None,,3.5,None,vidhya jyothi institute of technology,,Maths - Algebra,50.0,Full Time,1.0
+9194652,Mechanical,557.0,0,Pune,249,Manufacturing,23.0,Kirloskar Oil Engine Ltd.,,16.0,Sr. Manager Supplier Quality Improvement,"College Of Engg, Karad",,Philosophy,20.0,Full Time,1.0
+53ca2c27b8c5ac7977ab14ce,Nutrition and Food processing,,14,Dharwad,431,Education / Training,10.0,Davangere University. Karnataka,,,food technology guest faculty,S.N.D.T Pune,,Chemical Engineering,80.0,Full Time,1.0
+55fb0c67d6a49206513b4494,Science,507.0,74,Surat,290,Engineering / Construction,9.0,Space Controls/ Under Of Bhel-Edn,,2.5,Store keeper,R.C Inter collage Rawaniya sultanpur U.P,,Philosophy,20.0,Full Time,1.0
+56743fa679d5815061d75aad,Commerce,502.0,126,Mumbai Region,437,Automobile / Auto Ancillaries,4.0,Divine Enterprises,,6.0,Skilled in Sales/Bpo/ Automobiles,Barkatullah University,19.0,Maths - Algebra,50.0,Full Time,1.0
+56deb26ecce9fb3e21b5dec3,Finance / Accounting,526.0,29,Kochi,310,Banking / Financial Services,6.0,Kino Associates,,2.5,Assistant Manager - Audit,"Bharathiar University, Coimbatore",21.0,Philosophy,20.0,Part Time,2.0
+54c9dbaab8c5ac2cbe89c160,IT-Software,555.0,44,Noida,453,Telecom / ISP,46.0,Tata Teleservices Ltd,,3.5,Linux support engineer,vindhya institute of technology & science,,Maths - Algebra,50.0,Full Time,1.0
+526486c14c395b30d4cdc50d,Electronics/Telecommunication,551.0,20,Bangalore,243,IT - Software,18.0,Unisys,,3.5,Senior Technical Support Advisor,CMRIT,,Maths - Algebra,50.0,Full Time,1.0
+620907,Finance / Accounting,526.0,264,Bhubaneswar,341,Engineering / Construction,9.0,Kirloskar Brothers Ltd,2031.0,18.0,Divisional Manager,"TGOU, NAGALAND",,Chemical Engineering,80.0,Correspondence,3.0
+5803a52879d58129f6b2aa21,Science,507.0,9,Kolkata,247,Aviation / Airline,5.0,Air India (Contractual),,1.5,csa,"CENTRAL MODEL SCHOOL, BARRACKPORE",,Philosophy,20.0,Full Time,1.0
+51272b25998b021fc13839d3,Civil,549.0,66,Chennai,244,Engineering / Construction,9.0,Satco International,,3.0,Quantity Surveyor,SRI SOWDAMBIKA POLYTECHNIC SOLLEGE,,Biology,30.0,Full Time,1.0
+4eeb112ad81d1a74360023cb,Commerce,502.0,64,Indore,321,Medical / Healthcare,13.0,Abbott Healthcare,,1.5,Computer Operator,D A V V,,Maths - Algebra,50.0,Full Time,1.0
+3892462,Electronics/Telecommunication,551.0,0,Kanpur,377,Fresher (No Industry),52.0,None,,,None,PSITKANPUR,,Maths - Algebra,50.0,Full Time,1.0
+8378929,Arts and Humanities,501.0,45,Delhi,406,Architecture / Interior Design,54.0,Millionet Impex Pvt Ltd,,3.0,SR . HR Executive,Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+55a37195b75a930679f17e66,Dentistry,565.0,51,Jammu,297,Medical / Healthcare,13.0,Private Clinic,,,dentist,institute of dental sciences sehora jammu,,Maths - Algebra,50.0,Full Time,1.0
+5690b2712cfcc94b63894bc6,Marketing,527.0,240,Delhi,406,Engineering / Construction,9.0,Geodata S.P.A.,,,consultant Geologist,Dr. H. S. GOUR  UNIVERSITY SAGAR (MP) INDIA,,Chemical Engineering,80.0,Full Time,1.0
+4e97ef93d81d1a3c1b001995,Computers,503.0,17,Mumbai Region,437,,,Thyrocare Pvt.Ltd,,2.5,Business Development,"KDSC, pochilima",,Philosophy,20.0,Full Time,1.0
+7327806,Geography,512.0,92,Varanasi,385,Medical / Healthcare,13.0,Kedia House Of Medicines Limited,,2.5,Marketing Communications Exectutive,UP BORD ALLEHABAD,,Maths - Algebra,50.0,Full Time,1.0
+51160838fc3b4969dda513b9,Law,596.0,8,Kolkata,247,Legal,21.0,A.K.Singh & Associates,,1.0,ADVOCATE/COUNSEL,Calcutta University,27.0,Philosophy,20.0,Full Time,1.0
+57053c30f4547f636b092a01,Other Medicine,586.0,0,Delhi,406,Fresher (No Industry),52.0,None,,,None,Nehru Homeopathic Medical College and Hospital,,Maths - Algebra,50.0,Full Time,1.0
+5357963,Microbiology,541.0,153,Hyderabad,246,Medical / Healthcare,13.0,A To Z Speciality Diagnostics,,6.0,Laboratory supervisor,Govt . City College,,Maths - Algebra,50.0,Full Time,1.0
+51569ff053941a6bfa338279,English,510.0,176,Udaipur,358,Power / Energy,64.0,Regen Powertech Pvt Ltd,,4.0,Executive Assistant/Executive Secretary,Dayanand Saraswati University Ajmer Rajasthan,,Philosophy,20.0,Full Time,1.0
+55559963d6a49214273a9281,Mechanical,557.0,12,Chennai,244,,,Nehru Yuva Kendra,,12.0,national youth volunteer,Sri Raaja Raajan college of engineering and technology,,Maths - Algebra,50.0,Full Time,1.0
+56e65d37ef499b23b9fef359,Electrical,550.0,0,Chennai,244,Fresher (No Industry),52.0,None,,,None,Thiagarajar College of Engineering,,Maths - Algebra,50.0,Full Time,1.0
+583804955ffdf76a31eb849a,Physics,542.0,0,Pune,249,Fresher (No Industry),52.0,None,,,None,Pune University,,Chemical Engineering,80.0,Full Time,1.0
+51e66beaa9b16e174190d201,Graphics / Web designing,578.0,57,Delhi,406,Advertising / MR / PR / Events,1.0,Dezign Cook,,4.5,Senior graphic designer,Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+586bde6580cf2c29dab9badc,Computers,503.0,36,Jalandhar,348,IT - Software,18.0,Codefire Technologies Pvt. Ltd,,4.0,Software Test Engineer,"Kanya Maha Vidyalaya, Jalandhar",,Chemical Engineering,80.0,Full Time,1.0
+50e83ba9b3b021650146a781,Marketing,527.0,121,Jammu,297,Banking / Financial Services,6.0,Dhfl Pramerica Life Insurance,,6.0,Assistant Branch Head,jammu university,,Chemical Engineering,80.0,Full Time,1.0
+53dfba4f53941a387280e520,Metallurgy,558.0,0,Jamshedpur,303,Metal / Iron / Steel,28.0,Usha Martin Ltd,1229.0,50.0,"Assistant Vice President, SMS Operations",NIT/REC Durgapur,,Maths - Algebra,50.0,Full Time,1.0
+55a8a801eb64ef782968fc11,Electrical,550.0,20,Bellary,432,Power / Energy,64.0,Btps,,4.0,GAT,SRI CHAITHANYA PU COLLEGE,,Philosophy,20.0,Full Time,1.0
+582198b52c84cd428f41f6de,Other,506.0,0,Kolkata,247,Fresher (No Industry),52.0,None,,,None,dream institute of technology,,Maths - Algebra,50.0,Full Time,1.0
+56f57f7c2c84cd5cdd99e1bf,Commerce,502.0,16,Kolkata,247,Hotel / Restaurant,15.0,The Wind Flower Resorts Spa,,1.5,Front office assistant,Nabadwiup Hindu school,,Philosophy,20.0,Full Time,1.0
+5878a4b72cfcc935a5becdf2,Electronics/Telecommunication,551.0,24,Pune,249,Power / Energy,64.0,Suzlon Energy Limited,950.0,2.5,Junior Engineer,Government polytechnic solapur,,Biology,30.0,Full Time,1.0
+51cd5e50d9a4ed110574d8c4,Chemistry,536.0,183,Kolhapur,328,Manufacturing,23.0,Dalmia Bharat And Sugar Industries Limited ,,9.0,Assistant manager ,DIFAT from NSI kanpur ,,Chemical Engineering,80.0,Full Time,1.0
+5267f762252df45edae3fc7e,Mechanical,557.0,48,Raipur,278,Engineering / Construction,9.0,Samal Equip.Pvt.Ltd.,,6.0,Sales Engineer,vivekanand polytechnic sitasaongi,,Biology,30.0,Full Time,1.0
+573d9ed1b75a93598ee54f75,Computers,503.0,36,Bangalore,243,IT - Software,18.0,Eclick Softwares And Solutions Pvt. Ltd,,1.0,Linux Administrator,DGCA,,Biology,30.0,Full Time,1.0
+557818455ffdf77ded51cdc3,Mechanical,557.0,21,Bangalore,243,Power / Energy,64.0,Arete Consulting Engineers,,3.0,HVAC DESIGN ENGINEER,walchand college of engineering sangli,,Chemical Engineering,80.0,Full Time,1.0
+50f5d80ab3b0217723179084,Science,507.0,50,Mohali,442,,,None,,8.0,None,Kanpur Institute of Technology,,Philosophy,20.0,Full Time,1.0
+56b1cc902c84cd4678efdbca,Arts and Humanities,501.0,24,Kolkata,247,FMCG / F&B,11.0,Diamond Beverages(P) Limited,,2.0,Sales Executive,R.B.U,,Chemical Engineering,80.0,Full Time,1.0
+502765a4d4e56212d200976e,Science,507.0,60,Mumbai City,437,Engineering / Construction,9.0,Zener Electromechanical Llc Dubai,,7.0,Mechanical Draughtsman (MEP Design),Cad Pro Institute Thane,,Philosophy,20.0,Full Time,1.0
+537f330c7dc3ec3d065a27c6,Chemistry,536.0,26,Pune,249,,,Gazon Communications India Limited,,1.5,Senior Operations Executive,Rayat shikshan santha,,Chemical Engineering,80.0,Full Time,1.0
+4fa36576d81d1a5b89005230,IT-Software,555.0,28,Chennai,244,Real Estate,38.0,Vip Housing And Properties,,2.0,customer care relationship management,Anna University,12.0,Maths - Algebra,50.0,Full Time,1.0
+567692e5ef499b586e0d5702,Other,506.0,24,Delhi,406,,,Jaypee Hospital,,2.5,Lab Technician,DIPS,,Maths - Algebra,50.0,Full Time,1.0
+4026062,Pharmacy,529.0,25,Ahmedabad,285,Pharma / Biotech,63.0,Shree Krishna Keshav Laboratory Amraivadi Ahmedabad,,,QA OFFICER,"Rajasthan University Of Health Science,",,Maths - Algebra,50.0,Full Time,1.0
+5633600,Commerce,502.0,96,Mumbai City,437,Manufacturing,23.0,Apex Consumer Appliance Pvt Ltd,,3.5,MIS Executive,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+7513577,Commerce,502.0,84,Ghaziabad,454,Power / Energy,64.0,S.R Turbo Energy Pvt. Ltd.,,2.5,Asst. Manager H.R,MMH COLLEGE GHAZIABAD,,Philosophy,20.0,Correspondence,3.0
+7250827,IT-Software,555.0,83,Mumbai City,437,IT - Software,18.0,Nsdl E-Governance Infrastructure Ltd,,7.0,Assistant Manager,K.J SOMAIYA COLLEGE,,Maths - Algebra,50.0,Full Time,1.0
+55016617bc8a0d5811d3db48,Mechanical,557.0,19,Bangalore,243,Manufacturing,23.0,Kern-Liebers Limited,,3.0,Planning Engineer,AGMR Collage of Engineering and Technology Varur Hubli.,,Maths - Algebra,50.0,Full Time,1.0
+5567701ecce9fb61ec15fb14,Other Engineering,562.0,20,Bangalore,243,IT - Software,18.0,Cognizant Technology Solutions,,4.0,ServiceNow developer,Sunbeam Matriculation Higher Secondary School,,Philosophy,20.0,Full Time,1.0
+4e2d85a5ccf8a2498600035f,Electrical,550.0,204,Pune,249,Manufacturing,23.0,Mahindra Hinoday Industries Limited,,6.0,Electrical Maintenance,Karnataka Institute,,Biology,30.0,Full Time,1.0
+9546214,Electronics/Telecommunication,551.0,72,Kolkata,247,Education / Training,10.0,Vivekanandaa Group,,2.0,Lecturer,dr.sudhir chandra sur degree engg college,,Maths - Algebra,50.0,Full Time,1.0
+55e5b8c44207585a62d16409,Civil,549.0,13,Bangalore,243,Engineering / Construction,9.0,Nagarjuna Construction Company Urban Infrastructure Limited,,2.5,Site engineer,"VTU
+
+	HKBK COLLEGE OF ENGINEERING",,Maths - Algebra,50.0,Full Time,1.0
+53b50ad6350d9db339fc0ada,Commerce,502.0,12,Chennai,244,Banking / Financial Services,6.0,Indusind Bank,,2.0,Banking,subbalakshmi lakshmipathy college of science,,Maths - Algebra,50.0,Full Time,1.0
+548fc8957dc3ec2dfeca9c3b,Computers,503.0,64,Gurugram,423,Internet / E-Commerce,69.0,Pepperfry.Com,,3.0,Logistics Executive,"Maharishi Dayanand University, Rohtak",130.0,Maths - Algebra,50.0,Full Time,1.0
+53a429d446454b5e020ef3bd,Electronics/Telecommunication,551.0,0,Bangalore,243,Fresher (No Industry),52.0,None,,,None,PES POLYTECHNIC,,Biology,30.0,Full Time,1.0
+10522999,Commerce,502.0,223,Delhi,406,Manufacturing,23.0,Monnet Group Of Cos.,,9.0,Asst.Manager Accounts,Delhi University,41.0,Maths - Algebra,50.0,Full Time,1.0
+4f2fd0e9d81d1a5a21003afb,Electronics/Telecommunication,551.0,0,Surat,290,Fresher (No Industry),52.0,None,,,None,R.N.SHETTY.POLYTECHNIC.BELGAUM,,Biology,30.0,Full Time,1.0
+4fb7b11289c25e7e6000039c,Commerce,502.0,43,Pune,249,,,Yash Associates,,4.0,ACCOUNTS EXECUTIVE,ssbs,,Maths - Algebra,50.0,Full Time,1.0
+56d182cc4207586b17a96ef0,Commerce,502.0,14,Delhi,406,Banking / Financial Services,6.0,R.K. & Co.,,1.5,Computer Operator,Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+5743f6c179d5815ca92466e0,Electronics/Telecommunication,551.0,91,Chennai,244,IT - Software,18.0,Accenture India Service Pvt. Ltd,,9.0,CRM Functional Consultant,Kumaraguru College of Technology,,Maths - Algebra,50.0,Full Time,1.0
+55d732852cfcc9169ecbd0d0,Finance / Accounting,526.0,0,Chennai,244,Fresher (No Industry),52.0,None,,1.5,None,,,,,,
+5802f15e79d5816f03611a7b,Instrumentation,554.0,1,Mumbai City,437,,,None,,,None,Vidyavardhini's college of engineering and technology,,Maths - Algebra,50.0,Full Time,1.0
+10002477,Law,596.0,36,Delhi,406,Legal,21.0,Cognizant Technology Solutions,,3.5,legal,"University Law College, Bangalore Univ.",222.0,Maths - Algebra,50.0,Full Time,1.0
+10002548,Commerce,502.0,54,Other Uttar Pradesh,383,Banking / Financial Services,6.0,Sonata Finance Pvt Ltd,,1.5,Accountant,Dr. Rammanohar Lohiya Avadh Visvidhlay,,Philosophy,20.0,Full Time,1.0
+10002553,Finance,,46,Pune,249,IT - Software,18.0,Accenture Sap,,6.0,SAP PM Application Analyst,"PCMRD, pune",,Chemical Engineering,80.0,Full Time,1.0
+10002666,Commerce,502.0,76,Dehradun,386,NGO / Social Work,31.0,Emmanuel Hospital Association,,,Project Lead,lbsna,,Philosophy,20.0,Full Time,1.0
+10002745,Commerce,502.0,192,Ahmedabad,285,,,Nexa Maruti Suzuki,,3.5,Relationship Manager,mohan lal sukahadia university udaipur raj,,Chemical Engineering,80.0,Full Time,1.0
+10002812,Commerce,502.0,108,Indore,321,Agriculture / Dairy,2.0,Adani Wilmar Ltd,,6.0,Internal Audit Services,"DAVV, Indore",39.0,Chemical Engineering,80.0,Full Time,1.0
+10003014,Sociology,523.0,49,Chandigarh,404,Education / Training,10.0,Ptu Head Office,,2.5,SENIOR CONSELLOR,Punjab University,190.0,Chemical Engineering,80.0,Correspondence,3.0
+10003038,Computers,503.0,12,Pune,249,IT - Software,18.0,Growingace Software Solutions Pvt.Ltd,,,Software Developer,New Arts College,,Maths - Algebra,50.0,Full Time,1.0
+10003089,Computer / IT / Software Engineering,,47,Hyderabad,246,IT - Software,18.0,Techwave,,5.0,Senior Software Engineer,prathibha,,Philosophy,20.0,Full Time,1.0
+1000315,Finance / Accounting,526.0,0,Delhi,406,Banking / Financial Services,6.0,Sumitomo Mitsui Banking Corporation,,26.0,VP - Credit & Risk,Pune University,187.0,Chemical Engineering,80.0,Part Time,2.0
+10003172,Food safety certificate,,51,Mumbai Region,437,FMCG / F&B,11.0,Royal Caribbean International,,3.0,Waiter,Mumbai Div. Board,,Philosophy,20.0,Full Time,1.0
+10003186,Mechanical,557.0,205,Gurugram,423,Automobile / Auto Ancillaries,4.0,"Dsc  Auto Engg Works Pvt Ltd,  Imt Manesar",,7.0,WORKS MANAGER,BIHAR TECHNICAL BOARD,,Biology,30.0,Full Time,1.0
+10003205,Computers,503.0,108,Noida,453,Medical / Healthcare,13.0,United Health Group,,4.5,Claim Associate,Delhi University,41.0,Maths - Algebra,50.0,Correspondence,3.0
+10003212,IT-Software,555.0,34,Bangalore,243,IT - Software,18.0,Strumsoft  India Pvt Limited,,3.0,1.7 year of experience on java,Dr.Ambedkar institute of technology,,Maths - Algebra,50.0,Full Time,1.0
+10003217,Commerce,502.0,120,Chennai,244,Retail,40.0,Khazana Jewellery Pvt Ltd (Corporate Office),,4.0,Assistant Manager - Purchase,Pachaiyappas College,,Maths - Algebra,50.0,Full Time,1.0
+10003237,Finance / Accounting,526.0,36,Chennai,244,Banking / Financial Services,6.0,Sundaram Finance Ltd,,2.0,wealth advice service,mohamed sathak collage of arts & science,,Philosophy,20.0,Full Time,1.0
+10003317,Chemistry,536.0,0,Pune,249,Chemical / Plastic / Rubber / Glass,7.0,"Al Jubail Petrochemicals, Saudiarabia",,26.0,Sr. Chemist,M.K. Univeristy,,Chemical Engineering,80.0,Correspondence,3.0
+10003392,Education,528.0,11,Hyderabad,246,Education / Training,10.0,Board Of Intermediate Education,,12.0,Professor/JOINT SECRETARY,BOARD OF INTERMEDIATE EDUCATION,,Dentistry - Orthodontics,110.0,Part Time,2.0
+10003408,Commerce,502.0,180,Mumbai Region,437,Media / Dotcom / Entertainment,27.0,Discovery Communications India,,12.0,Ad Sales - Operations,Mumbai University,140.0,Philosophy,20.0,Part Time,2.0
+10003543,HR/ Industrial Relations,599.0,154,Gurugram,423,IT - Software,18.0,Accenture Services Pvt. Ltd. ,,22.0,SAP HCM Business Architecture Team Lead,"Govt. Girls. Sr. Sec. school, Chandigarh",,Philosophy,20.0,Full Time,1.0
+10003549,Electrical Engineering,,63,Bangalore,243,Manufacturing,23.0,Milliken Chemical & Textile (India) Pvt Ltd,,4.0,operation incharge,karnataka polytechnic mangalore,,Biology,30.0,Full Time,1.0
+10026060,Mechanical,557.0,60,Pune,249,Manufacturing,23.0,Expert Global Sloutions Pvt. Ltd.,,4.5,Design Engineer,Ram Nagar Jr. College of Science and Arts,,Philosophy,20.0,Full Time,1.0
+10026076,Commerce,502.0,38,Indore,321,Manufacturing,23.0,Cipla Ltd,,2.5,Accounts Executive. / Accountant,"DAVV, Indore",39.0,Chemical Engineering,80.0,Full Time,1.0
+10026151,Commerce,502.0,50,Hyderabad,246,IT - Software,18.0,System Soft Technologies,,3.0,HR Assistant,Madurai Kamaraj University,128.0,Philosophy,20.0,Full Time,1.0
+10026373,Computers,503.0,108,Hyderabad,246,Education / Training,10.0,Ashoka Engineering College,,2.5,HR,ATOMIC ENERGY CENTRAL SCHOOL,,Philosophy,20.0,Full Time,1.0
+10026496,Architecture,525.0,19,Aligarh,372,Architecture / Interior Design,54.0,I. M. Design ,,3.0,Assistant architect ,"Jamia Millia Islamia, New Delhi ",,Chemical Engineering,80.0,Full Time,1.0
+10026594,Chemistry - Organic,,192,Mumbai Region,437,Chemical / Plastic / Rubber / Glass,7.0,Swan Chemicals,,5.0,Production Executive,Mumbai University,140.0,Chemical Engineering,80.0,Full Time,1.0
+10026663,Other,506.0,24,Mumbai Region,437,,,None,,2.5,None,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10026725,Computers / IT / Software - Science,,42,Coimbatore,361,IT - Software,18.0,Vwr Lab Products Limited,,3.0,Engineer - Service Desk,sri ramakrishna engineering college,,Maths - Algebra,50.0,Full Time,1.0
+1002676,Computers,503.0,164,Chennai,244,BPO / Call Center,20.0,Hewlett Packard Global Operations,,16.0,Deputy Manager,CBSE,,Philosophy,20.0,Full Time,1.0
+10027276,Biology - Microbiology,,144,Bangalore,243,Medical / Healthcare,13.0,Ge Healthcare,,14.0,Regulatory Affairs Leader,Ballygunge Science College,,Dentistry - Orthodontics,110.0,Full Time,1.0
+10027435,Commerce,502.0,36,Mysore,308,Telecom / ISP,46.0,Any,,2.5,CRO  &  Sales Executive,KSOU,,Philosophy,20.0,Full Time,1.0
+10027443,Civil,549.0,98,Oman,160,Engineering / Construction,9.0,Al Mansoor International Co Llc - Muscat - Oman,,9.0,Project Coordinator,Rajasthan University,191.0,Maths - Algebra,50.0,Part Time,2.0
+10027459,Law,596.0,12,Surat,290,Banking / Financial Services,6.0,Indiabulls Financial Services Ltd,,2.0,Legal Officer,"South Gujarat University, Surat",202.0,Maths - Algebra,50.0,Full Time,1.0
+10027500,Electronics/Telecommunication,551.0,42,Hyderabad,246,Telecom / ISP,46.0,"Tata Consultancy Services(Maclellan Is), Hyderabad",,2.5,(Telephone (EPABX) Administrator),"JNTU, Hyderabad",111.0,Maths - Algebra,50.0,Full Time,1.0
+10027532,History,515.0,0,Ambala,419,Fresher (No Industry),52.0,None,,,None,G.S.S.SCHOOL(JALBERA)AMBALA,,Chemical Engineering,80.0,Full Time,1.0
+10027536,Commerce,502.0,36,Mumbai Region,437,,,None,,1.5,None,k.c.college,,Chemical Engineering,80.0,Full Time,1.0
+1002755,Computer / IT / Software Engineering,,116,Pune,249,IT - Software,18.0,Tata Consultancy Services,101.0,7.0,Software Developer / Programmer / Engineer,Rajeevgandhiuniversity,,Chemical Engineering,80.0,Full Time,1.0
+10027565,Computer / IT / Software Engineering,,39,Chennai,244,IT - Software,18.0,Gislen Software,,6.0,Integration Engineer,narasus sarathy institute of technology,,Maths - Algebra,50.0,Full Time,1.0
+10027635,Metallurgy,558.0,0,Bhopal,319,Oil & Gas / Petroleum,33.0,Indian Oil Corporation Ltd,,32.0,General Manager,"MNIT, Jaipur",,Maths - Algebra,50.0,Full Time,1.0
+10027940,Finance,,73,Lucknow,378,Real Estate,38.0,Dhairya Infrastructure Pvt. Ltd.,,4.0,General Manager,MBA,,Chemical Engineering,80.0,Correspondence,3.0
+1002798,Architecture Engineering,,204,Pune,249,Engineering / Construction,9.0,Suma Shilp Ltd,,12.0,Architect & Project Coordinator,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10028026,Other,506.0,120,Chennai,244,Merchant Navy,25.0,Dredging Corpn. Of India Ltd,3379.0,12.0,dredging & cutter operator,Annamalai University,13.0,Maths - Algebra,50.0,Correspondence,3.0
+1002803,Commerce,502.0,102,Delhi,406,IT - Software,18.0,Mbit Infotech Pvt Ltd,,14.0,Project Manager/Progam Manager/Test Management,Delhi University,41.0,Maths - Algebra,50.0,Full Time,1.0
+10028035,Mechanical,557.0,0,Amritsar,347,Fresher (No Industry),52.0,None,,,None,"radiance polytechnical college ,bhikiwind",,Biology,30.0,Full Time,1.0
+10028160,Commerce,502.0,0,Chennai,244,Manufacturing,23.0,Ashok Leyland John Deere Construction Equipment Company Pvt Ltd,,14.0,DEPUTY MANAGER,Singaram Pillar Hr Sec School,,Philosophy,20.0,Full Time,1.0
+10028308,Mechanical Engineering,,0,Vishakhapatnam,258,Engineering / Construction,9.0,Icons Engineering Services,,20.0,GENERAL MANAGER (OPERATIONS),State Board of Technical Education,,Philosophy,20.0,Full Time,1.0
+10028362,Computers,503.0,96,Gurugram,423,Telecom / ISP,46.0,Aegis Ltd,,3.5,citrix support,IGNOU,68.0,Chemical Engineering,80.0,Correspondence,3.0
+10028371,Electrical,550.0,0,Delhi,406,Engineering / Construction,9.0,Rakeen Contracting,,2.5,MANAGER(M.E.P.),PUSA POLY TECHNIC PUSA CAMPUS,,Biology,30.0,Full Time,1.0
+10028416,Other,506.0,216,Chennai,244,Hotel / Restaurant,15.0,Papa Johns,,14.0,Territory manager,Chennai University,31.0,Philosophy,20.0,Full Time,1.0
+10028513,Other,506.0,81,Mumbai Region,437,Telecom / ISP,46.0,Planet Mobiles Pvt.Ltd.,,4.0,EXECUTIVE SERVICE,abhinav industries,,Philosophy,20.0,Full Time,1.0
+10028728,Hindi,514.0,7,Indore,321,FMCG / F&B,11.0,Avon Beauty Products Pvt Ltd.,,3.5,Beauty trainer,DAVV University,,Maths - Algebra,50.0,Full Time,1.0
+10028773,HR/ Industrial Relations,599.0,42,Hyderabad,246,Engineering / Construction,9.0,Isilica Networks India Pvt. Ltd,,3.0,Hr- Executive,DVR P G College,,Chemical Engineering,80.0,Full Time,1.0
+10028814,Electrical,550.0,139,Bhopal,319,Engineering / Construction,9.0,Mpmkvvcl Bhopal,,2.0,Own contrectorship,Barkatullah University,19.0,Maths - Algebra,50.0,Full Time,1.0
+1002889,Marketing,527.0,240,Faridabad,424,Insurance,60.0,Max Life Insurance Co. Ltd,,20.0,[Company Hidden],Pune University,187.0,Chemical Engineering,80.0,Full Time,1.0
+10028906,IT-Software,555.0,48,Hyderabad,246,Automobile / Auto Ancillaries,4.0,Ashok Leyland Ltd,,4.5,Commercial Officer,samskruti college of engineering and technology,,Maths - Algebra,50.0,Full Time,1.0
+1002891,Marketing,527.0,89,Noida,453,Banking / Financial Services,6.0,Icici Bank Ltd,,6.0,Customer Service Manager,"ICFAI, Hyderabad",65.0,Chemical Engineering,80.0,Correspondence,3.0
+10029061,IT-Software,555.0,26,Bhopal,319,Agriculture / Dairy,2.0,Indian Council Of Agricultural Research Bhopal,,2.0,YOUNG PROFESSIONAL,IET DAVV,,Chemical Engineering,80.0,Full Time,1.0
+10029073,Environmental,553.0,76,Gorakhpur,375,Engineering / Construction,9.0,Bajaj Electricals Ltd,,4.5,"06 Years 04 Months Experience  in Electrical, Civil Mechanical, Solar, plant building  Construction.",RAM DEV INTER COLLAGE NAISARE RAMPUR,,Philosophy,20.0,Full Time,1.0
+10029186,Mechanical,557.0,13,Thrissur,316,Manufacturing,23.0,"Elite Yamuna Roller Flour Mills , Athani, Thrissur",,,production executive,"axis college of engineering&technology, kodakara,thrissur",,Maths - Algebra,50.0,Full Time,1.0
+10029485,Economics,509.0,240,Chennai,244,Oil & Gas / Petroleum,33.0,Kpl,,12.0,Taxation Manager,M.B.A. Finance from University of Madrs,,Philosophy,20.0,Correspondence,3.0
+10029530,Commerce,502.0,97,Delhi,406,Export-Import / Trading,49.0,Rajasthan Iron Traders,,4.0,iron & steel,delhi univercity ,,Maths - Algebra,50.0,Full Time,1.0
+10029561,Commerce,502.0,60,Mumbai Region,437,Logistics / Courier / Transportation,22.0,Elegant Transport Co,,2.0,account assistance,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10029800,Commerce,502.0,60,Delhi,406,IT - Software,18.0,Businessgifts.In,,2.5,Graphic Designer,njoyarts,,Philosophy,20.0,Full Time,1.0
+10029843,Other,506.0,132,Chennai,244,Medical / Healthcare,13.0,Mm Imagine Techonologies,,5.0,Team Manager,Madurai Kamaraj University,128.0,Chemical Engineering,80.0,Full Time,1.0
+10030057,Industrial,,176,Kharagpur,457,Manufacturing,23.0,Manaksia Ltd,1466.0,2.5,senior fitter,youth computer center,,Philosophy,20.0,Part Time,2.0
+10030203,Commerce,502.0,108,Bangalore,243,Gems / Jewellery,59.0, Krishnaiah Chetty And Sons Pvt Ltd.,,6.0,Sr. Finance Executive, Kasturba Gandhi college for Women,,Maths - Algebra,50.0,Full Time,1.0
+10030235,Mechanical Engineering,,24,Vishakhapatnam,258,Power / Energy,64.0,Despl,,1.5,GET,naraya junior college,,Philosophy,20.0,Full Time,1.0
+10030816,Computers,503.0,36,Delhi,406,IT - Software,18.0,Weblink.In Pvt Ltd,,3.0,web Executive,IGNOU,68.0,Philosophy,20.0,Correspondence,3.0
+10030824,Electronics and Communication Engineering,,144,United Arab Emirates,223,Government Department,8.0,Dubai Municipality,,9.0,GIS Consultant,Amravati University,,Maths - Algebra,50.0,Full Time,1.0
+10030834,Arts and Humanities,501.0,54,Guwahati,263,Oil & Gas / Petroleum,33.0,Toshniwal Enterprises Controls Pvt Ltd,,3.5,Manager sales,Guwahati University,,Maths - Algebra,50.0,Full Time,1.0
+10030849,HR,,50,Pune,249,Hotel / Restaurant,15.0,Rotana,,4.5,Guest Service Team Leader,IHRM Kolkata,,Maths - Algebra,50.0,Full Time,1.0
+10031020,Computers,503.0,38,Mumbai Region,437,IT - Software,18.0,Concerto Software Systems Pvt Ltd,,5.0,Software Engineer,KVCT's Alamuri Ratnamala Institute of Engg & Tech,,Maths - Algebra,50.0,Full Time,1.0
+10031248,Mechanical,557.0,72,Chennai,244,Engineering / Construction,9.0,Edac Engg Ltd,,4.0,site engineer,"College of Engg. , Anna University",,Maths - Algebra,50.0,Full Time,1.0
+10031250,IT-Software,555.0,57,Chennai,244,IT - Hardware / Networking,19.0,Aeon System India Pvt Ltd,,2.5,Network Support Engineer/ Desktop support engineer,Kathir college of engineering,,Maths - Algebra,50.0,Full Time,1.0
+1003129,Civil,549.0,288,Saudi Arabia,185,Engineering / Construction,9.0,Aziz Co For Contracting &  Industrial Investment,,14.0,Civil Engineer/Quantity Surveyor,G.J.C KOHIR (A.P)INDIA,,Philosophy,20.0,Full Time,1.0
+1003130,Commerce,502.0,240,Other Uttar Pradesh,383,Education / Training,10.0,"S.D. Public School, Muzaffarnagar.U.P.India.",,8.0,[Company Hidden],Meerut University,135.0,Chemical Engineering,80.0,Full Time,1.0
+10002930,Commerce,502.0,99,Surat,290,Manufacturing,23.0,Vardhman Mettalic Pvt. Ltd.,,3.0,Accounts Executive,SGU,,Chemical Engineering,80.0,Correspondence,3.0
+10003079,Electrical,550.0,25,Other Himachal Pradesh,295,Telecom / ISP,46.0,Tower Vision India Pvt Ltd,,2.5,Technician,HP Board of Technical Education,,Biology,30.0,Full Time,1.0
+10003240,English,510.0,137,Vijayawada,400,Education / Training,10.0,Egmm,,,Soft Skills Trainer,Andhra University,11.0,Chemical Engineering,80.0,Correspondence,3.0
+10003259,Hotel Management,566.0,20,Mumbai Region,437,Hotel / Restaurant,15.0,Speghetti Kitchen-Pan India Food Solution,,4.0,Chef- Commi,ITM IHM,,Maths - Algebra,50.0,Full Time,1.0
+10003285,Commerce,502.0,168,Chennai,244,Automobile / Auto Ancillaries,4.0,Act India ( A Division Of ) Sicagen India Ltd,,1.5,accounts & admin,madras univercity,,Maths - Algebra,50.0,Correspondence,3.0
+10003294,Marketing,527.0,80,Ahmedabad,285,FMCG / F&B,11.0,Flourish Purefoods Pvt. Ltd.,,14.0,Marketing Manager,Jaypee Business School,,Chemical Engineering,80.0,Full Time,1.0
+10003326,Chartered Accountant,568.0,60,Kolkata,247,BPO / Call Center,20.0,Genpact India Pvt Ltd,287.0,6.0,Assistant Manager,Inst. of Chartered Accountants of India,96.0,Maths - Algebra,50.0,Full Time,1.0
+10003329,Computers,503.0,42,Mumbai Region,437,IT - Software,18.0,Nutech Infotech Pvt.Ltd,,2.5,Software support Engineer,Mumbai University,140.0,Chemical Engineering,80.0,Full Time,1.0
+10003339,Marketing,527.0,42,Gulbarga,434,Internet / E-Commerce,69.0,Den Snapdeal,,3.0,BDE,Gulbarga University,60.0,Chemical Engineering,80.0,Full Time,1.0
+10003446,Arts and Humanities,501.0,60,Kurukshetra,422,Metal / Iron / Steel,28.0,Vishwas Overseas,,3.5,Accountant,HARYANA OPEN BOARD,,Philosophy,20.0,Full Time,1.0
+10003505,Marketing,527.0,0,Kolkata,247,FMCG / F&B,11.0,Colgate Palmolive India,,,Sumer intern,Annamalai  UniversityAnnamalai  University,,Maths - Algebra,50.0,Full Time,1.0
+1000388,Marketing,527.0,120,Delhi,406,Retail,40.0,Happily Unmarried Marketing Pvt. Limited,,12.0,Head - Operations,EMPIBUSINESSSCHOOL,,Chemical Engineering,80.0,Full Time,1.0
+10003958,Commerce,502.0,204,Mumbai Region,437,Manufacturing,23.0,Interdril (Asia) Ltd.,,,Sr. Manager - Accounts,Mumbai University,140.0,Maths - Algebra,50.0,Correspondence,3.0
+10003972,Commerce,502.0,24,Mumbai Region,437,IT - Hardware / Networking,19.0,Gini System And Solution,,1.5,Desktop Support Engineer,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10004055,Mechanical Engineering,,30,Other Madhya Pradesh,323,,,None,,2.5,None,IASE UNIVERSITY RAJ.,,Biology,30.0,Full Time,1.0
+10004153,Computers / IT / Software - Science,,0,Noida,453,Fresher (No Industry),52.0,None,,,None,"Dewan v.s. institute of eng. & tech.,Meerut(u.p.t.u)",,Maths - Algebra,50.0,Full Time,1.0
+10004285,Pharmacy,529.0,36,Delhi,406,Pharma / Biotech,63.0,Solrex Pharmaceutical Company,,6.0,Senior Officer Quality Control,"Uttarpradesh Technical university, lucknow",,Chemical Engineering,80.0,Full Time,1.0
+10004292,Mechanical,557.0,71,Gurugram,423,Manufacturing,23.0,Imperial Auto Industries Ltd,,3.5,QA/QC,"Maharishi Dayanand University, Rohtak",130.0,Maths - Algebra,50.0,Full Time,1.0
+10004334,Commerce,502.0,75,Noida,453,Real Estate,38.0,Proplarity Group,,4.5,Sr.Accountant,GOVERMENT INTER COLLEGE,,Philosophy,20.0,Full Time,1.0
+10004336,Science,507.0,120,Pune,249,Industrial Design,16.0,Universal Forces Industries,,6.0,Mechanical Draughtsman,Govt. ITI Karad.,,Philosophy,20.0,Full Time,1.0
+10004443,Computer / IT / Software Engineering,,22,Other Orrisa,343,Pharma / Biotech,63.0,Theorem Clinical Research,,4.0,SAS Programmer,"GIET,GUNUPUR",,Philosophy,20.0,Full Time,1.0
+10004547,Chemistry - Organic,,79,Ahmedabad,285,Banking / Financial Services,6.0,Hdbfs,,6.0,Branch Manager,Gujarat Secondary & Higher Secondary Education Board,,Philosophy,20.0,Full Time,1.0
+10004570,Marketing,527.0,149,Raipur,278,Banking / Financial Services,6.0,Aadhar Housing Finance Ltd,,40.0,Regional Business Head,"Institute of Management and Studies, DAVV Indore",,Chemical Engineering,80.0,Full Time,1.0
+10004582,Hospitality and Hotel Management,,159,United States of America,225,Hotel / Restaurant,15.0,"Novotel & Ibis Hotel, Bangalore ",,20.0,Sous Chef Pastry,Empee Institute of Hotel Management& Catering Tecnoloage,,Biology,30.0,Full Time,1.0
+10004643,Other Medicine,586.0,70,Chennai,244,Medical / Healthcare,13.0,Ministry Of Health,,9.0,Lab technician ,S.D.A  COLLEGE - SURATT- GUJARAT,,Maths - Algebra,50.0,Full Time,1.0
+10004732,Finance / Accounting,526.0,123,Bangalore,243,Banking / Financial Services,6.0,Infosys Bpo,,6.0,Process Specialist,Mysore University,141.0,Chemical Engineering,80.0,Full Time,1.0
+10004739,Biomedical,534.0,67,Bangalore,243,Medical / Healthcare,13.0,Apollo Hospitals Enterprise Ltd,4437.0,4.5,Senior Executive,VTU,,Philosophy,20.0,Full Time,1.0
+10004908,Operations,602.0,157,Pune,249,IT - Software,18.0,Johnson Controls Auto. Ltd,,8.0,Purchase Officer,Pune University,187.0,Chemical Engineering,80.0,Part Time,2.0
+10004972,Commerce,502.0,79,Delhi,406,Automobile / Auto Ancillaries,4.0,Aaa Vehicleades Pvt Ltd ,,6.0,Assistant sales manager ,A N D College,,Philosophy,20.0,Full Time,1.0
+10005019,Computers,503.0,76,Chennai,244,IT - Software,18.0,Sutherland Global Services,80.0,5.0,Senior specialist,GRG Polytechnic college,,Biology,30.0,Full Time,1.0
+10005021,ALTP,,0,Other Uttarakhand,389,Fresher (No Industry),52.0,None,,1.5,None,maples,,Biology,30.0,Full Time,1.0
+10005075,Other,506.0,62,Delhi,406,Security / Detective Services,43.0,Premier Shield Private Limited,,2.0,MIS Executive,Ram Manohr Lohia avadh university Faizabad (U.P),,Maths - Algebra,50.0,Correspondence,3.0
+10005087,Finance / Accounting,526.0,24,Hyderabad,246,,,None,,6.0,None,jbit scool of management,,Chemical Engineering,80.0,Full Time,1.0
+10005188,Marketing,527.0,27,Dharwad,431,Engineering / Construction,9.0,Techno Flow Constructions Pvt Ltd,,,material management,J S S DVH IMSR DHARWAD,,Maths - Algebra,50.0,Full Time,1.0
+10005246,Computers,503.0,28,Tirupati,399,BPO / Call Center,20.0,Haggs It Solutions Pvt Ltd,,2.5,IT SUPPORT ENGINEER,Bhupal Jr.College Tirupathi,,Philosophy,20.0,Full Time,1.0
+1000530,Finance / Accounting,526.0,150,Delhi,406,BPO / Call Center,20.0,Barclays,,14.0,[Company Hidden],SIMSPune,,Chemical Engineering,80.0,Correspondence,3.0
+10005770,Communication,508.0,168,Kolkata,247,Education / Training,10.0,Delhi Public School Joka South Kolkata,,3.5,receptionist,Calcutta University,27.0,Philosophy,20.0,Full Time,1.0
+10005849,Commerce,502.0,0,Nagpur,329,Fresher (No Industry),52.0,None,,,None,SULEMANIYA URDU JR COLLEGE MANORA,,Philosophy,20.0,Full Time,1.0
+10005915,Instrumentation,554.0,59,Delhi,406,IT - Software,18.0,Accenture,76.0,12.0,Teradata Developer,SVM Unnao,,Philosophy,20.0,Full Time,1.0
+10005941,Civil Engineering,,67,Jalgaon,327,Engineering / Construction,9.0,Artizine Interior & Construction,,8.0,project Manager,M.S.B.T.E.,,Biology,30.0,Full Time,1.0
+10005980,Commerce,502.0,42,Mumbai Region,437,Banking / Financial Services,6.0,Radhalaxmi Earthmover Pvt Ltd,,1.5,ACCOUNTANT,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10006004,BCA /MCA,,180,Lucknow,378,Education / Training,10.0,Dayawati Modi Public School,,5.0,PGT Computer Science,IGNOU DELHI,,Chemical Engineering,80.0,Full Time,1.0
+10006066,Electrical,550.0,216,Dehradun,386,Engineering / Construction,9.0,Hindustan Construction Company Ltd,,12.0,TVHE Project,T.E. of U.P.Board,,Biology,30.0,Full Time,1.0
+1000614,Industrial and Production Engineering,,144,Chennai,244,BPO / Call Center,20.0,Tata Consultancy Services,101.0,10.0,BPS Manager,"Bharathiar University, Coimbatore",21.0,Maths - Algebra,50.0,Full Time,1.0
+10006343,Electronics and Communication Engineering,,75,Bangalore,243,Consumer Durables / Electronics,14.0,Ust Global,,7.0,Embedded H/W Design Lead,AVSGHSS Karivellur,,Philosophy,20.0,Full Time,1.0
+10006349,Electronics and Communication Engineering,,120,Mumbai Region,437,IT - Hardware / Networking,19.0,"Hcl Services Ltd, Mumbai",,6.0,Network Engineer- L2,PRMIT& RESEARCH BADNERA AMRAVATI,,Maths - Algebra,50.0,Full Time,1.0
+10006358,Arts and Humanities,501.0,141,Pune,249,Manufacturing,23.0,Decon India Plastics Pvt.Ltd.,,6.0,Sr.Executive Stores & Logistics,Amaravati University,8.0,Biology,30.0,Full Time,1.0
+10006382,Commerce,502.0,84,Pune,249,BPO / Call Center,20.0,Mphasis An Hp Company,,4.5,Unit Manager,Pune University,187.0,Chemical Engineering,80.0,Full Time,1.0
+10006392,BCA /MCA,,35,Pune,249,IT - Software,18.0,Lumedx,,6.0,Test Engineer,Solapur University,,Maths - Algebra,50.0,Full Time,1.0
+10006528,Commerce,502.0,51,Delhi,406,Advertising / MR / PR / Events,1.0,Trident Exhibitions Pvt Ltd,,5.0,Senior Accountant,"CMS college, kerala",,Maths - Algebra,50.0,Full Time,1.0
+10006627,Mechanical Engineering,,76,Chennai,244,Automobile / Auto Ancillaries,4.0,Vibromech Engineering Services Ltd,,3.0,Diploma Mechanical Engineer,"Sri Venkateshwara polythenic College,  vellore",,Biology,30.0,Full Time,1.0
+10006636,Electrical Engineering,,14,Coimbatore,361,Industrial Design,16.0,Applied Data Logix,,1.0,SERVICE ENGR,Sun Poly Technic College,,Biology,30.0,Full Time,1.0
+10006736,Economics,509.0,72,Delhi,406,Telecom / ISP,46.0,Quickdel Logistic Pvt. Ltd,,2.0,MIS Executive,Government Boys Senior Secondary School,,Philosophy,20.0,Full Time,1.0
+10006824,Commerce,502.0,72,Guwahati,263,Chemical / Plastic / Rubber / Glass,7.0,Abpl (Dharampal & Satyapal Group),,2.5,Finance & Accounts Officer,GAUHATI UNIVERSITY,,Maths - Algebra,50.0,Full Time,1.0
+10006921,IT-Software,555.0,35,Chennai,244,BPO / Call Center,20.0,Hewlett Packard,125.0,2.5,associate,db jain college,,Maths - Algebra,50.0,Full Time,1.0
+10006985,Sociology,523.0,180,Mumbai Region,437,Pharma / Biotech,63.0,Nikom Pharma Mktg Pvt Ltd,,3.5,Sr Sales Cordinator,Mumbai University,140.0,Chemical Engineering,80.0,Full Time,1.0
+10031389,Commerce,502.0,169,Delhi,406,,,Swati Trading Co.,,4.5,Accounts,"lalit narayan mithila university, Darbhanga",,Philosophy,20.0,Full Time,1.0
+10031476,Commerce,502.0,30,Thiruvanananthapuram,315,Aviation / Airline,5.0,Bhadra International India Pvt. Ltd,,2.5,Ramp Supervisor,Kerala University,116.0,Maths - Algebra,50.0,Correspondence,3.0
+10031948,Fashion,,24,Bhopal,319,,,None,,4.5,None,international Inst. of Fashion Tech. mumbai,,Biology,30.0,Full Time,1.0
+10032073,Science,507.0,24,Indore,321,Education / Training,10.0,Rrcat,,1.0,Data Entry Operator,Nagpur BOARD,,Philosophy,20.0,Full Time,1.0
+10032111,Computer / IT / Software Engineering,,65,Delhi,406,Advertising / MR / PR / Events,1.0,Pulp Strategy Communications Pvt. Ltd,,6.0,Assistant Manager,"Sanjay Institute Of Engineering And Management, Mathura",,Maths - Algebra,50.0,Full Time,1.0
+10032122,Mechanical Engineering,,252,Hyderabad,246,FMCG / F&B,11.0,Dukes Consumer Care Ltd,,20.0,Maintenance Manager,Dr.B.R.Ambedkar Open Univercity,,Philosophy,20.0,Correspondence,3.0
+10032244,Management,505.0,25,Hisar,420,Education / Training,10.0,Om Group Of Institutions,,1.5,Assistant Librarian,GURU JHAMBESWAR UNIVERSITY (GJU),,Maths - Algebra,50.0,Full Time,1.0
+10032282,Mechanical,557.0,57,Delhi,406,Automobile / Auto Ancillaries,4.0,General Motors,,5.0,Design Engineer at Allegis Group India,MAHAVEER INSTITUTE OF SCIENCE AND TECHNOLOGY,,Maths - Algebra,50.0,Full Time,1.0
+10032317,Other,506.0,0,Hyderabad,246,Fresher (No Industry),52.0,None,,,None,MEGHA INSTITUTE OF ENGINEERING AND TECHNOLOGY,,Chemical Engineering,80.0,Full Time,1.0
+1003233,MIS Management,,221,United Arab Emirates,223,Export-Import / Trading,49.0,Fair Metals Fze,,20.0,Manager - Supply Chain & Logistics,Madurai Kamaraj University,128.0,Chemical Engineering,80.0,Full Time,1.0
+10032371,Computers,503.0,60,Vishakhapatnam,258,,,India Infoline Finance Ltd,,2.5,manager,sri prakash eng college tuni,,Philosophy,20.0,Full Time,1.0
+10032427,Electrical Engineering,,96,Mumbai Region,437,Media / Dotcom / Entertainment,27.0,Pan India Paryatan Pvt Ltd (Essel Group),,14.0,Manager - Digital Marketing,KVG College of Engineering,,Philosophy,20.0,Full Time,1.0
+10032482,Economics,509.0,42,Noida,453,Manufacturing,23.0,Hsppl,,2.5,executive assistant,MJP ROHILKHAND UNIVERSITY BAREILLY,,Maths - Algebra,50.0,Full Time,1.0
+10032490,Agriculture / Dairy Engineering,,76,Faridabad,424,Automobile / Auto Ancillaries,4.0,Vishvas Tractors Limited,,4.5,purchase supply chain,SCRIET C.C.S.U.MEERUT,,Maths - Algebra,50.0,Full Time,1.0
+10032530,Electrical,550.0,85,Other Goa,283,,,Hofincons Infotech,,4.5,sr. engineer,Biju pattanaik institute of technology,,Maths - Algebra,50.0,Full Time,1.0
+10032749,Commerce,502.0,41,Pune,249,Banking / Financial Services,6.0,Global Proserv Ltd,,4.5,Transactions Processing Executive,"Symbiosis College of Arts and Commerce, Pune",216.0,Maths - Algebra,50.0,Full Time,1.0
+10032753,Other,506.0,96,Faizabad,455,FMCG / F&B,11.0,Mohani Tea Leaves Pvt. Ltd.,,4.5,Area sales manager,dr.ram manoher lohiya awadh university,,Maths - Algebra,50.0,Full Time,1.0
+10032820,Computers / IT / Software - Science,,0,Mumbai Region,437,Fresher (No Industry),52.0,None,,,None,"VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY,WADALA",,Maths - Algebra,50.0,Full Time,1.0
+10032846,Other,506.0,90,Baddi,462,Pharma / Biotech,63.0,M/S G.G. Nutritions,,3.0,Accounts Executive,Himachal Pradesh University,,Maths - Algebra,50.0,Full Time,1.0
+10033344,Political Science,519.0,13,Kolkata,247,Gems / Jewellery,59.0,Tanishq,,1.5,associate Retail Sales Officer,Seth Anandram Jaipuria College,,Maths - Algebra,50.0,Full Time,1.0
+10033634,English,510.0,66,Delhi,406,Engineering / Construction,9.0,R.P. Tek India Pvt. Ltd.,,2.5,coordinator,Hcl cdc knpur,,Maths - Algebra,50.0,Full Time,1.0
+1003364,Chartered Accountant,568.0,257,Gurugram,423,Engineering / Construction,9.0,Gulf Four,,75.0,General Manager - Finance & Accounting,Kanpur University,113.0,Maths - Algebra,50.0,Full Time,1.0
+10033671,Electronics and Communication Engineering,,62,Pune,249,Telecom / ISP,46.0,Tata Communications Ltd (Vsnl),,6.0,Senior Customer Service Executive,Anna University,12.0,Maths - Algebra,50.0,Full Time,1.0
+10033700,CA,,34,Kolkata,247,Banking / Financial Services,6.0,Punjab National Bank,620.0,12.0,Manager- Credit,The Aditya Birla Public School,,Philosophy,20.0,Full Time,1.0
+10033725,Marketing,527.0,110,Kolkata,247,Management Consulting / Strategy,24.0,"Icf Consulting Services India Pvt Ltd (Formerly Ghk Development Consultants India Pvt. Ltd.),",,9.0,Project Associate in Project  Management Unit-TASU,Calcutta University,27.0,Maths - Algebra,50.0,Full Time,1.0
+10033773,Management,505.0,24,Delhi,406,Sports / Fitness,45.0,Gym,,3.5,Gym,sikim manipal,,Maths - Algebra,50.0,Correspondence,3.0
+10033936,Electronics and Communication Engineering,,12,Hyderabad,246,Government Department,8.0,Arci,,1.5,Graduate Trainee,RC GOVT GIRLS HR SECONDARY SCHOOL,,Philosophy,20.0,Full Time,1.0
+10034057,Commerce,502.0,72,Ghaziabad,454,Education / Training,10.0,Indirapuram Public School,,2.5,Assistant Accountant,B I E C,,Philosophy,20.0,Full Time,1.0
+10034111,Finance / Accounting,526.0,29,Gorakhpur,375,Manufacturing,23.0,Rakesh Group,,2.5,sales executive,"kamla Nehru Institute of Social Sciences,Sultanpur",,Philosophy,20.0,Full Time,1.0
+10034263,Computers,503.0,36,Delhi,406,Retail,40.0,Tata Retail Enterprises (Trent Ltd.) Westside Store,,2.0,Sales Executive,IACM Delhi,,Biology,30.0,Full Time,1.0
+10034276,Operations,602.0,53,Mumbai Region,437,Telecom / ISP,46.0,"Huawei Telecommunications,Mumbai",,6.0,SCM Executive,"Atharva institite of management studies,malad",,Chemical Engineering,80.0,Full Time,1.0
+10034335,Electronics and Communication Engineering,,72,Coimbatore,361,Medical / Healthcare,13.0,Emergent Medi-Tech(I)Pvt Ltd,,3.5,Customer Support Engineer,sengunthar engineering college,,Maths - Algebra,50.0,Full Time,1.0
+10034359,Computer / IT / Software Engineering,,74,Bangalore,243,BPO / Call Center,20.0,Concentrix Former Ibm Daksh,,4.0,Transactional Quality Lead,vidya vardhaka college for womwn,,Maths - Algebra,50.0,Full Time,1.0
+10034454,Neurology,580.0,84,Ludhiana,349,Education / Training,10.0,"Christian Medical College And Hospital,Ludhiana,Punjab",,6.0,staff nurse,"Christian Medical College, Ludhiana",,Maths - Algebra,50.0,Full Time,1.0
+10034468,IT-Software,555.0,0,Hyderabad,246,Fresher (No Industry),52.0,None,,,None,"JNTU, Hyderabad",111.0,Maths - Algebra,50.0,Full Time,1.0
+10034931,Education,528.0,168,Delhi,406,Education / Training,10.0,Public School,,9.0,TEACHER,MDO,,Chemical Engineering,80.0,Full Time,1.0
+10034950,Commerce,502.0,0,Bhopal,319,Fresher (No Industry),52.0,None,,2.5,None,excellence  in higer education,,Maths - Algebra,50.0,Full Time,1.0
+10034967,Mechanical Engineering,,61,Warangal,260,Education / Training,10.0,Anurag Engineerong College,,3.5,ASSISTANT PROFESSOR,NIT WARANGAL,,Chemical Engineering,80.0,Full Time,1.0
+10035121,Commerce,502.0,81,Kanpur,377,Manufacturing,23.0,Superhouse Ltd,3326.0,1.5,Internal Auditor,up board,,Philosophy,20.0,Full Time,1.0
+10035264,Commerce,502.0,74,Gurugram,423,BPO / Call Center,20.0,Accenture Services Pvt. Ltd.,,4.5,[Company Hidden],Allahabad University,7.0,Maths - Algebra,50.0,Full Time,1.0
+1003527,Management,505.0,89,Ludhiana,349,Hotel / Restaurant,15.0,Pvr Ltd,,3.0,Duty Manager,"ICFAI, Hyderabad",65.0,Maths - Algebra,50.0,Correspondence,3.0
+10035292,Marketing,527.0,168,Kolkata,247,NGO / Social Work,31.0,Cry - Child Rights And You,,7.0,"Manager -Resource Development, East",Manipal University,,Chemical Engineering,80.0,Part Time,2.0
+10035326,IT-Software,555.0,72,Mumbai Region,437,IT - Software,18.0,Datamatics Global Services Ltd,2587.0,8.0,Consultant,Patkar Varde College,,Philosophy,20.0,Full Time,1.0
+10035559,BCA /MCA,,26,Patna,272,,,None,,3.0,None,Sikkim Manipal University,,Biology,30.0,Correspondence,3.0
+10035570,Computer / IT / Software Engineering,,19,Noida,453,IT - Software,18.0,Nexgen Consultancy Pvt Ltd,,2.0,DATABASE DEVELOPER,R P SHARMA INSTITUTE OF TECHNOLOGY,,Maths - Algebra,50.0,Full Time,1.0
+10035585,Mechanical Engineering,,59,Surat,290,Chemical / Plastic / Rubber / Glass,7.0,Cheminova India Ltd In Contract Of Aquatech Services,,2.5,Mechanical Maintenance and utility Supervisior,karnatak state open university,,Maths - Algebra,50.0,Full Time,1.0
+1003561,Finance,,192,Delhi,406,Manufacturing,23.0,Varahi Limited,,12.0,Company Secretary Cum Legal,ICSI,66.0,Maths - Algebra,50.0,Full Time,1.0
+10035645,Marketing,527.0,72,Mumbai Region,437,Banking / Financial Services,6.0,The Bank Of Nova Scotia,,7.0,OFFICER Settlements ( fx and SBLC),NL Dalmia college of management studies,,Chemical Engineering,80.0,Part Time,2.0
+10035849,Operations,602.0,208,Noida,453,Banking / Financial Services,6.0,Hdfc Bank Ltd,,18.0,Senior Manager - Banking Operations,Symbiosis Institute,,Philosophy,20.0,Correspondence,3.0
+10035868,Mechanical Engineering,,72,Delhi,406,Oil & Gas / Petroleum,33.0,Dr. Amin Controllers Pvt. Ltd.,,6.0,Inspection Engineer,Lovely Inst.,,Biology,30.0,Full Time,1.0
+10035957,Commerce,502.0,44,Mumbai Region,437,Banking / Financial Services,6.0,Manba Finance Ltd,,2.0,Accountat,Mumbai University,140.0,Maths - Algebra,50.0,Full Time,1.0
+10035959,Mechanical,557.0,84,Guntur,254,Engineering / Construction,9.0,Jaiprakash Associates Ltd,,5.0,[Company Hidden],RVD Rajasthan University,,Maths - Algebra,50.0,Correspondence,3.0
+10035963,Computer / IT / Software Engineering,,30,Mumbai Region,437,IT - Hardware / Networking,19.0,Cms Infosystems Pvt Ltd,,,SENIOR DESKTOP SUPPORT,Pune univercity,,Maths - Algebra,50.0,Full Time,1.0
+10036052,Commerce,502.0,78,Delhi,406,Banking / Financial Services,6.0,Fairtrade India Securities Ltd,,3.5,Ops Manager,,,,,,
+10036086,Computer / IT / Software Engineering,,24,Delhi,406,IT - Hardware / Networking,19.0,Bbnl,,2.5,NOC Engineer,COER,,Philosophy,20.0,Full Time,1.0
+10036271,Commerce,502.0,84,Lucknow,378,Hotel / Restaurant,15.0,Best Western Plus Hotel Doha Qatar,,9.0,COST CONTROLLER,dr. r.m.l.a.u.fauzabad,,Maths - Algebra,50.0,Full Time,1.0
