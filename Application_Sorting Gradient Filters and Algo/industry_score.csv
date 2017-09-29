@@ -1,0 +1,2901 @@
+user_industry,job_industry,Industry_Score
+- Any -,BPO / Call Center,0.63
+- Any -,IT - Software,0.13
+- Any -,Education / Training,0.05
+- Any -,Pharma / Biotech,0.05
+- Any -,Quality Certification,0.04
+- Any -,Advertising / MR / PR / Events,0.03
+- Any -,Automobile / Auto Ancillaries,0.01
+- Any -,Engineering / Construction,0.01
+- Any -,Export-Import / Trading,0.01
+- Any -,Hotel / Restaurant,0.01
+- Any -,IT - Hardware / Networking,0.01
+- Any -,Recruitment Services,0.01
+Advertising / MR / PR / Events,IT - Software,0.2
+Advertising / MR / PR / Events,Advertising / MR / PR / Events,0.15
+Advertising / MR / PR / Events,BPO / Call Center,0.1
+Advertising / MR / PR / Events,Internet / E-Commerce,0.05
+Advertising / MR / PR / Events,Banking / Financial Services,0.04
+Advertising / MR / PR / Events,Education / Training,0.04
+Advertising / MR / PR / Events,Media / Dotcom / Entertainment,0.03
+Advertising / MR / PR / Events,Manufacturing,0.03
+Advertising / MR / PR / Events,Recruitment Services,0.03
+Advertising / MR / PR / Events,Fresher (No Industry),0.03
+Advertising / MR / PR / Events,Printing / Packaging,0.03
+Advertising / MR / PR / Events,FMCG / F&B,0.03
+Advertising / MR / PR / Events,Automobile / Auto Ancillaries,0.02
+Advertising / MR / PR / Events,Quality Certification,0.02
+Advertising / MR / PR / Events,Medical / Healthcare,0.02
+Advertising / MR / PR / Events,Insurance,0.01
+Advertising / MR / PR / Events,Travel / Tourism,0.01
+Advertising / MR / PR / Events,Pharma / Biotech,0.01
+Advertising / MR / PR / Events,Textile / Garments / Fashion,0.01
+Advertising / MR / PR / Events,Engineering / Construction,0.01
+Advertising / MR / PR / Events,Telecom / ISP,0.01
+Advertising / MR / PR / Events,Paper / Wood,0.01
+Advertising / MR / PR / Events,Consumer Durables / Electronics,0.01
+Advertising / MR / PR / Events,Retail,0.01
+Advertising / MR / PR / Events,Hotel / Restaurant,0.01
+Advertising / MR / PR / Events,Real Estate,0.01
+Advertising / MR / PR / Events,IT - Hardware / Networking,0.01
+Advertising / MR / PR / Events,Management Consulting / Strategy,0.01
+Advertising / MR / PR / Events,Logistics / Courier / Transportation,0
+Advertising / MR / PR / Events,Gems / Jewellery,0
+Advertising / MR / PR / Events,Personal Care / Beauty,0
+Advertising / MR / PR / Events,Architecture / Interior Design,0
+Advertising / MR / PR / Events,Chemical / Plastic / Rubber / Glass,0
+Advertising / MR / PR / Events,Environment / Waste Management,0
+Advertising / MR / PR / Events,Industrial Design,0
+Advertising / MR / PR / Events,NGO / Social Work,0
+Advertising / MR / PR / Events,KPO / Analytics,0
+Advertising / MR / PR / Events,Animation,0
+Advertising / MR / PR / Events,Aviation / Airline,0
+Advertising / MR / PR / Events,Fertilizers / Pesticides,0
+Advertising / MR / PR / Events,Power / Energy,0
+Advertising / MR / PR / Events,M,0
+Advertising / MR / PR / Events,Metal / Iron / Steel,0
+Advertising / MR / PR / Events,Sculpture / Craft,0
+Advertising / MR / PR / Events,Export-Import / Trading,0
+Advertising / MR / PR / Events,Furnishings / Sanitaryware / Electricals,0
+Advertising / MR / PR / Events,Security / Detective Services,0
+Advertising / MR / PR / Events,Agriculture / Dairy,0
+Advertising / MR / PR / Events,Government Department,0
+Advertising / MR / PR / Events,Legal,0
+Advertising / MR / PR / Events,Oil & Gas / Petroleum,0
+Advertising / MR / PR / Events,A,0
+Advertising / MR / PR / Events,Astrology,0
+Advertising / MR / PR / Events,Banking /,0
+Advertising / MR / PR / Events,Cement / Building Material,0
+Advertising / MR / PR / Events,Gifts / Toys / Stationary,0
+Advertising / MR / PR / Events,Secu,0
+Advertising / MR / PR / Events,Sports / Fitness,0
+Advertising / MR / PR / Events,Trav,0
+Agriculture / Dairy,BPO / Call Center,0.2
+Agriculture / Dairy,Manufacturing,0.1
+Agriculture / Dairy,Banking / Financial Services,0.08
+Agriculture / Dairy,FMCG / F&B,0.07
+Agriculture / Dairy,IT - Software,0.07
+Agriculture / Dairy,Fresher (No Industry),0.06
+Agriculture / Dairy,Pharma / Biotech,0.05
+Agriculture / Dairy,Quality Certification,0.04
+Agriculture / Dairy,Agriculture / Dairy,0.03
+Agriculture / Dairy,Recruitment Services,0.02
+Agriculture / Dairy,Education / Training,0.02
+Agriculture / Dairy,Engineering / Construction,0.02
+Agriculture / Dairy,Advertising / MR / PR / Events,0.02
+Agriculture / Dairy,Fertilizers / Pesticides,0.02
+Agriculture / Dairy,Automobile / Auto Ancillaries,0.01
+Agriculture / Dairy,Real Estate,0.01
+Agriculture / Dairy,Management Consulting / Strategy,0.01
+Agriculture / Dairy,Textile / Garments / Fashion,0.01
+Agriculture / Dairy,Internet / E-Commerce,0.01
+Agriculture / Dairy,Logistics / Courier / Transportation,0.01
+Agriculture / Dairy,Medical / Healthcare,0.01
+Agriculture / Dairy,Power / Energy,0.01
+Agriculture / Dairy,Retail,0.01
+Agriculture / Dairy,Export-Import / Trading,0.01
+Agriculture / Dairy,Telecom / ISP,0.01
+Agriculture / Dairy,Chemical / Plastic / Rubber / Glass,0.01
+Agriculture / Dairy,Consumer Durables / Electronics,0.01
+Agriculture / Dairy,Insurance,0.01
+Agriculture / Dairy,Hotel / Restaurant,0.01
+Agriculture / Dairy,Legal,0.01
+Agriculture / Dairy,Paper / Wood,0.01
+Agriculture / Dairy,Travel / Tourism,0.01
+Agriculture / Dairy,Furnishings / Sanitaryware / Electricals,0
+Agriculture / Dairy,Aviation / Airline,0
+Agriculture / Dairy,Metal / Iron / Steel,0
+Agriculture / Dairy,NGO / Social Work,0
+Agriculture / Dairy,Architecture / Interior Design,0
+Agriculture / Dairy,Cement / Building Material,0
+Agriculture / Dairy,Gems / Jewellery,0
+Agriculture / Dairy,IT - Hardware / Networking,0
+Agriculture / Dairy,Media / Dotcom / Entertainment,0
+Agriculture / Dairy,Personal Care / Beauty,0
+Agriculture / Dairy,Sculpture / Craft,0
+Animation,IT - Software,0.31
+Animation,Advertising / MR / PR / Events,0.12
+Animation,Animation,0.09
+Animation,BPO / Call Center,0.08
+Animation,Printing / Packaging,0.06
+Animation,Internet / E-Commerce,0.05
+Animation,Media / Dotcom / Entertainment,0.05
+Animation,Architecture / Interior Design,0.03
+Animation,Recruitment Services,0.03
+Animation,FMCG / F&B,0.03
+Animation,Manufacturing,0.02
+Animation,Textile / Garments / Fashion,0.02
+Animation,Education / Training,0.02
+Animation,Automobile / Auto Ancillaries,0.02
+Animation,Banking / Financial Services,0.01
+Animation,Quality Certification,0.01
+Animation,Chemical / Plastic / Rubber / Glass,0.01
+Animation,IT - Hardware / Networking,0.01
+Animation,Telecom / ISP,0.01
+Animation,Consumer Durables / Electronics,0
+Animation,Engineering / Construction,0
+Animation,Fresher (No Industry),0
+Animation,Gems / Jewellery,0
+Animation,Government Department,0
+Animation,Logistics / Courier / Transportation,0
+Animation,M,0
+Animation,Management Consulting / Strategy,0
+Animation,Pharma / Biotech,0
+Animation,Power / Energy,0
+Architecture / Interior Design,Architecture / Interior Design,0.33
+Architecture / Interior Design,FMCG / F&B,0.19
+Architecture / Interior Design,Engineering / Construction,0.13
+Architecture / Interior Design,Manufacturing,0.05
+Architecture / Interior Design,IT - Software,0.05
+Architecture / Interior Design,BPO / Call Center,0.04
+Architecture / Interior Design,Education / Training,0.02
+Architecture / Interior Design,Advertising / MR / PR / Events,0.02
+Architecture / Interior Design,A,0.02
+Architecture / Interior Design,Banking / Financial Services,0.01
+Architecture / Interior Design,Fresher (No Industry),0.01
+Architecture / Interior Design,Internet / E-Commerce,0.01
+Architecture / Interior Design,Real Estate,0.01
+Architecture / Interior Design,Recruitment Services,0.01
+Architecture / Interior Design,Medical / Healthcare,0.01
+Architecture / Interior Design,Quality Certification,0.01
+Architecture / Interior Design,Management Consulting / Strategy,0.01
+Architecture / Interior Design,Animation,0
+Architecture / Interior Design,Export-Import / Trading,0
+Architecture / Interior Design,IT - Hardware / Networking,0
+Architecture / Interior Design,Insurance,0
+Architecture / Interior Design,Oil & Gas / Petroleum,0
+Architecture / Interior Design,Pharma / Biotech,0
+Architecture / Interior Design,Textile / Garments / Fashion,0
+Architecture / Interior Design,Furnishings / Sanitaryware / Electricals,0
+Architecture / Interior Design,Logistics / Courier / Transportation,0
+Architecture / Interior Design,Printing / Packaging,0
+Architecture / Interior Design,Telecom / ISP,0
+Architecture / Interior Design,Automobile / Auto Ancillaries,0
+Architecture / Interior Design,Consumer Durables / Electronics,0
+Architecture / Interior Design,Fertilizers / Pesticides,0
+Architecture / Interior Design,Hotel / Restaurant,0
+Architecture / Interior Design,Media / Dotcom / Entertainment,0
+Architecture / Interior Design,Power / Energy,0
+Architecture / Interior Design,Retail,0
+Architecture / Interior Design,Chemical / Plastic / Rubber / Glass,0
+Architecture / Interior Design,KPO / Analytics,0
+Architecture / Interior Design,NGO / Social Work,0
+Architecture / Interior Design,Travel / Tourism,0
+Architecture / Interior Design,Cement / Building Material,0
+Architecture / Interior Design,Gems / Jewellery,0
+Architecture / Interior Design,Government Department,0
+Architecture / Interior Design,Legal,0
+Architecture / Interior Design,Metal / Iron / Steel,0
+Architecture / Interior Design,Paper / Wood,0
+Architecture / Interior Design,Sculpture / Craft,0
+Astrology,BPO / Call Center,0.28
+Astrology,Internet / E-Commerce,0.11
+Astrology,Medical / Healthcare,0.11
+Astrology,Engineering / Construction,0.06
+Astrology,IT - Software,0.06
+Astrology,M,0.06
+Astrology,Manufacturing,0.06
+Astrology,Media / Dotcom / Entertainment,0.06
+Astrology,Pharma / Biotech,0.06
+Astrology,Printing / Packaging,0.06
+Astrology,Quality Certification,0.06
+Astrology,Recruitment Services,0.06
+Automobile / Auto Ancillaries,BPO / Call Center,0.15
+Automobile / Auto Ancillaries,Manufacturing,0.14
+Automobile / Auto Ancillaries,Automobile / Auto Ancillaries,0.12
+Automobile / Auto Ancillaries,Fresher (No Industry),0.08
+Automobile / Auto Ancillaries,IT - Software,0.05
+Automobile / Auto Ancillaries,Banking / Financial Services,0.05
+Automobile / Auto Ancillaries,Textile / Garments / Fashion,0.04
+Automobile / Auto Ancillaries,FMCG / F&B,0.03
+Automobile / Auto Ancillaries,Engineering / Construction,0.03
+Automobile / Auto Ancillaries,Recruitment Services,0.03
+Automobile / Auto Ancillaries,Pharma / Biotech,0.02
+Automobile / Auto Ancillaries,Quality Certification,0.02
+Automobile / Auto Ancillaries,Advertising / MR / PR / Events,0.02
+Automobile / Auto Ancillaries,Paper / Wood,0.02
+Automobile / Auto Ancillaries,Internet / E-Commerce,0.02
+Automobile / Auto Ancillaries,Medical / Healthcare,0.01
+Automobile / Auto Ancillaries,Insurance,0.01
+Automobile / Auto Ancillaries,Education / Training,0.01
+Automobile / Auto Ancillaries,Consumer Durables / Electronics,0.01
+Automobile / Auto Ancillaries,Telecom / ISP,0.01
+Automobile / Auto Ancillaries,Hotel / Restaurant,0.01
+Automobile / Auto Ancillaries,Architecture / Interior Design,0.01
+Automobile / Auto Ancillaries,Logistics / Courier / Transportation,0.01
+Automobile / Auto Ancillaries,Retail,0.01
+Automobile / Auto Ancillaries,Real Estate,0.01
+Automobile / Auto Ancillaries,Export-Import / Trading,0.01
+Automobile / Auto Ancillaries,Travel / Tourism,0.01
+Automobile / Auto Ancillaries,Power / Energy,0.01
+Automobile / Auto Ancillaries,Chemical / Plastic / Rubber / Glass,0.01
+Automobile / Auto Ancillaries,Metal / Iron / Steel,0.01
+Automobile / Auto Ancillaries,IT - Hardware / Networking,0
+Automobile / Auto Ancillaries,Printing / Packaging,0
+Automobile / Auto Ancillaries,Cement / Building Material,0
+Automobile / Auto Ancillaries,Personal Care / Beauty,0
+Automobile / Auto Ancillaries,Oil & Gas / Petroleum,0
+Automobile / Auto Ancillaries,Aviation / Airline,0
+Automobile / Auto Ancillaries,KPO / Analytics,0
+Automobile / Auto Ancillaries,Auto,0
+Automobile / Auto Ancillaries,Legal,0
+Automobile / Auto Ancillaries,Management Consulting / Strategy,0
+Automobile / Auto Ancillaries,Fertilizers / Pesticides,0
+Automobile / Auto Ancillaries,Agriculture / Dairy,0
+Automobile / Auto Ancillaries,NGO / Social Work,0
+Automobile / Auto Ancillaries,Furnishings / Sanitaryware / Electricals,0
+Automobile / Auto Ancillaries,Gems / Jewellery,0
+Automobile / Auto Ancillaries,Environment / Waste Management,0
+Automobile / Auto Ancillaries,Government Department,0
+Automobile / Auto Ancillaries,Media / Dotcom / Entertainment,0
+Automobile / Auto Ancillaries,Security / Detective Services,0
+Automobile / Auto Ancillaries,Merchant Navy,0
+Automobile / Auto Ancillaries,Paint,0
+Automobile / Auto Ancillaries,Sculpture / Craft,0
+Automobile / Auto Ancillaries,Mining,0
+Automobile / Auto Ancillaries,Sports / Fitness,0
+Automobile / Auto Ancillaries,Animation,0
+Automobile / Auto Ancillaries,Astrology,0
+Automobile / Auto Ancillaries,Aviation / Airlin,0
+Automobile / Auto Ancillaries,Engineering / Constructio,0
+Automobile / Auto Ancillaries,M,0
+Automobile / Auto Ancillaries,Matrimony,0
+Automobile / Auto Ancillaries,Unskilled Labor / Domestic Help,0
+Aviation / Airline,BPO / Call Center,0.26
+Aviation / Airline,Aviation / Airline,0.1
+Aviation / Airline,IT - Software,0.06
+Aviation / Airline,Hotel / Restaurant,0.06
+Aviation / Airline,Travel / Tourism,0.05
+Aviation / Airline,Banking / Financial Services,0.05
+Aviation / Airline,Manufacturing,0.05
+Aviation / Airline,Engineering / Construction,0.04
+Aviation / Airline,Fresher (No Industry),0.03
+Aviation / Airline,Medical / Healthcare,0.02
+Aviation / Airline,Recruitment Services,0.02
+Aviation / Airline,Advertising / MR / PR / Events,0.02
+Aviation / Airline,Education / Training,0.02
+Aviation / Airline,Pharma / Biotech,0.02
+Aviation / Airline,Textile / Garments / Fashion,0.02
+Aviation / Airline,Automobile / Auto Ancillaries,0.02
+Aviation / Airline,Real Estate,0.02
+Aviation / Airline,FMCG / F&B,0.01
+Aviation / Airline,Internet / E-Commerce,0.01
+Aviation / Airline,Retail,0.01
+Aviation / Airline,IT - Hardware / Networking,0.01
+Aviation / Airline,Telecom / ISP,0.01
+Aviation / Airline,Export-Import / Trading,0.01
+Aviation / Airline,Gems / Jewellery,0.01
+Aviation / Airline,Logistics / Courier / Transportation,0.01
+Aviation / Airline,Security / Detective Services,0.01
+Aviation / Airline,Agriculture / Dairy,0
+Aviation / Airline,Chemical / Plastic / Rubber / Glass,0
+Aviation / Airline,KPO / Analytics,0
+Aviation / Airline,Logistics / Courier / Tra,0
+Aviation / Airline,Media / Dotcom / Entertainment,0
+Aviation / Airline,Architecture / Interior Design,0
+Aviation / Airline,Aviation / Airlin,0
+Aviation / Airline,Consumer Durables / Electronics,0
+Aviation / Airline,Industrial Design,0
+Aviation / Airline,Insurance,0
+Aviation / Airline,Management Consulting / Strategy,0
+Aviation / Airline,Military / Police / Arms & Ammunition,0
+Aviation / Airline,NGO / Social Work,0
+Aviation / Airline,Personal Care / Beauty,0
+Aviation / Airline,Printing / Packaging,0
+Aviation / Airline,Quality Certification,0
+Banking / Financial Services,Banking / Financial Services,0.29
+Banking / Financial Services,BPO / Call Center,0.19
+Banking / Financial Services,IT - Software,0.06
+Banking / Financial Services,Quality Certification,0.05
+Banking / Financial Services,Insurance,0.04
+Banking / Financial Services,Manufacturing,0.04
+Banking / Financial Services,Fresher (No Industry),0.03
+Banking / Financial Services,Internet / E-Commerce,0.02
+Banking / Financial Services,Advertising / MR / PR / Events,0.02
+Banking / Financial Services,Recruitment Services,0.02
+Banking / Financial Services,Pharma / Biotech,0.02
+Banking / Financial Services,FMCG / F&B,0.02
+Banking / Financial Services,Education / Training,0.02
+Banking / Financial Services,Medical / Healthcare,0.01
+Banking / Financial Services,Travel / Tourism,0.01
+Banking / Financial Services,Logistics / Courier / Transportation,0.01
+Banking / Financial Services,Real Estate,0.01
+Banking / Financial Services,Retail,0.01
+Banking / Financial Services,Export-Import / Trading,0.01
+Banking / Financial Services,Telecom / ISP,0.01
+Banking / Financial Services,Engineering / Construction,0.01
+Banking / Financial Services,Automobile / Auto Ancillaries,0.01
+Banking / Financial Services,Consumer Durables / Electronics,0.01
+Banking / Financial Services,Management Consulting / Strategy,0.01
+Banking / Financial Services,IT - Hardware / Networking,0.01
+Banking / Financial Services,Fertilizers / Pesticides,0.01
+Banking / Financial Services,Hotel / Restaurant,0.01
+Banking / Financial Services,KPO / Analytics,0
+Banking / Financial Services,Textile / Garments / Fashion,0
+Banking / Financial Services,Banking /,0
+Banking / Financial Services,Gems / Jewellery,0
+Banking / Financial Services,Power / Energy,0
+Banking / Financial Services,Chemical / Plastic / Rubber / Glass,0
+Banking / Financial Services,Sculpture / Craft,0
+Banking / Financial Services,Government Department,0
+Banking / Financial Services,Legal,0
+Banking / Financial Services,Aviation / Airline,0
+Banking / Financial Services,Paper / Wood,0
+Banking / Financial Services,Media / Dotcom / Entertainment,0
+Banking / Financial Services,NGO / Social Work,0
+Banking / Financial Services,Security / Detective Services,0
+Banking / Financial Services,Metal / Iron / Steel,0
+Banking / Financial Services,Personal Care / Beauty,0
+Banking / Financial Services,Cement / Building Material,0
+Banking / Financial Services,Environment / Waste Management,0
+Banking / Financial Services,Printing / Packaging,0
+Banking / Financial Services,Furnishings / Sanitaryware / Electricals,0
+Banking / Financial Services,Oil & Gas / Petroleum,0
+Banking / Financial Services,Architecture / Interior Design,0
+Banking / Financial Services,Mining,0
+Banking / Financial Services,Agriculture / Dairy,0
+Banking / Financial Services,M,0
+Banking / Financial Services,Sports / Fitness,0
+Banking / Financial Services,Animation,0
+Banking / Financial Services,Logistics / Courier / Tra,0
+Banking / Financial Services,Matrimony,0
+Banking / Financial Services,Paint,0
+Banking / Financial Services,Trav,0
+Banking / Financial Services,BPO / Call Cente,0
+Banking / Financial Services,Engineering / Constructio,0
+Banking / Financial Services,Fresher (No ,0
+BPO / Call Center,BPO / Call Center,0.65
+BPO / Call Center,IT - Software,0.05
+BPO / Call Center,Banking / Financial Services,0.05
+BPO / Call Center,Fresher (No Industry),0.04
+BPO / Call Center,Quality Certification,0.02
+BPO / Call Center,Recruitment Services,0.02
+BPO / Call Center,Medical / Healthcare,0.01
+BPO / Call Center,Education / Training,0.01
+BPO / Call Center,Internet / E-Commerce,0.01
+BPO / Call Center,Pharma / Biotech,0.01
+BPO / Call Center,Manufacturing,0.01
+BPO / Call Center,Advertising / MR / PR / Events,0.01
+BPO / Call Center,KPO / Analytics,0.01
+BPO / Call Center,Aviation / Airline,0.01
+BPO / Call Center,Telecom / ISP,0.01
+BPO / Call Center,FMCG / F&B,0.01
+BPO / Call Center,Travel / Tourism,0.01
+BPO / Call Center,IT - Hardware / Networking,0.01
+BPO / Call Center,Insurance,0
+BPO / Call Center,Hotel / Restaurant,0
+BPO / Call Center,Automobile / Auto Ancillaries,0
+BPO / Call Center,Engineering / Construction,0
+BPO / Call Center,Real Estate,0
+BPO / Call Center,Textile / Garments / Fashion,0
+BPO / Call Center,Logistics / Courier / Transportation,0
+BPO / Call Center,Media / Dotcom / Entertainment,0
+BPO / Call Center,Retail,0
+BPO / Call Center,Management Consulting / Strategy,0
+BPO / Call Center,Consumer Durables / Electronics,0
+BPO / Call Center,Export-Import / Trading,0
+BPO / Call Center,NGO / Social Work,0
+BPO / Call Center,Paper / Wood,0
+BPO / Call Center,Gems / Jewellery,0
+BPO / Call Center,Legal,0
+BPO / Call Center,Fertilizers / Pesticides,0
+BPO / Call Center,Oil & Gas / Petroleum,0
+BPO / Call Center,Sculpture / Craft,0
+BPO / Call Center,Government Department,0
+BPO / Call Center,Personal Care / Beauty,0
+BPO / Call Center,Matrimony,0
+BPO / Call Center,BPO / Call Cente,0
+BPO / Call Center,Cement / Building Material,0
+BPO / Call Center,M,0
+BPO / Call Center,Agriculture / Dairy,0
+BPO / Call Center,Environment / Waste Management,0
+BPO / Call Center,Animation,0
+BPO / Call Center,Chemical / Plastic / Rubber / Glass,0
+BPO / Call Center,Security / Detective Services,0
+BPO / Call Center,A,0
+BPO / Call Center,Architecture / Interior Design,0
+BPO / Call Center,Industrial Design,0
+BPO / Call Center,Mining,0
+BPO / Call Center,Power / Energy,0
+BPO / Call Center,Astrology,0
+BPO / Call Center,Aviation / Airlin,0
+BPO / Call Center,Banking /,0
+BPO / Call Center,Fresher (No ,0
+BPO / Call Center,Furnishings / Sanitaryware / Electricals,0
+BPO / Call Center,Metal / Iron / Steel,0
+BPO / Call Center,Printing / Packaging,0
+BPO / Call Center,Unskilled Labor / Domestic Help,0
+BPO / Call Center,Veterinary Science / Pet Care,0
+Cement / Building Material,BPO / Call Center,0.16
+Cement / Building Material,Engineering / Construction,0.13
+Cement / Building Material,Manufacturing,0.1
+Cement / Building Material,Fresher (No Industry),0.08
+Cement / Building Material,IT - Software,0.06
+Cement / Building Material,Banking / Financial Services,0.05
+Cement / Building Material,Education / Training,0.03
+Cement / Building Material,FMCG / F&B,0.03
+Cement / Building Material,Quality Certification,0.03
+Cement / Building Material,Automobile / Auto Ancillaries,0.03
+Cement / Building Material,Recruitment Services,0.03
+Cement / Building Material,Textile / Garments / Fashion,0.02
+Cement / Building Material,Logistics / Courier / Transportation,0.02
+Cement / Building Material,Cement / Building Material,0.02
+Cement / Building Material,Paper / Wood,0.02
+Cement / Building Material,Advertising / MR / PR / Events,0.02
+Cement / Building Material,Insurance,0.02
+Cement / Building Material,Medical / Healthcare,0.02
+Cement / Building Material,Consumer Durables / Electronics,0.01
+Cement / Building Material,Metal / Iron / Steel,0.01
+Cement / Building Material,Pharma / Biotech,0.01
+Cement / Building Material,Power / Energy,0.01
+Cement / Building Material,Retail,0.01
+Cement / Building Material,Hotel / Restaurant,0.01
+Cement / Building Material,IT - Hardware / Networking,0.01
+Cement / Building Material,Export-Import / Trading,0.01
+Cement / Building Material,Real Estate,0.01
+Cement / Building Material,Telecom / ISP,0.01
+Cement / Building Material,Aviation / Airline,0
+Cement / Building Material,Furnishings / Sanitaryware / Electricals,0
+Cement / Building Material,Internet / E-Commerce,0
+Cement / Building Material,KPO / Analytics,0
+Cement / Building Material,NGO / Social Work,0
+Cement / Building Material,Oil & Gas / Petroleum,0
+Cement / Building Material,Agriculture / Dairy,0
+Cement / Building Material,Animation,0
+Cement / Building Material,Chemical / Plastic / Rubber / Glass,0
+Cement / Building Material,Environment / Waste Management,0
+Cement / Building Material,Legal,0
+Cement / Building Material,Media / Dotcom / Entertainment,0
+Cement / Building Material,Printing / Packaging,0
+Cement / Building Material,Travel / Tourism,0
+Cement / Building Material,Architecture / Interior Design,0
+Cement / Building Material,BPO / Call Cente,0
+Cement / Building Material,Fertilizers / Pesticides,0
+Cement / Building Material,Gems / Jewellery,0
+Cement / Building Material,Industrial Design,0
+Cement / Building Material,Paint,0
+Cement / Building Material,Sculpture / Craft,0
+Cement / Building Material,Security / Detective Services,0
+Chemical / Plastic / Rubber / Glass,Manufacturing,0.15
+Chemical / Plastic / Rubber / Glass,Pharma / Biotech,0.12
+Chemical / Plastic / Rubber / Glass,BPO / Call Center,0.1
+Chemical / Plastic / Rubber / Glass,Fresher (No Industry),0.06
+Chemical / Plastic / Rubber / Glass,Chemical / Plastic / Rubber / Glass,0.05
+Chemical / Plastic / Rubber / Glass,Textile / Garments / Fashion,0.05
+Chemical / Plastic / Rubber / Glass,FMCG / F&B,0.04
+Chemical / Plastic / Rubber / Glass,IT - Software,0.04
+Chemical / Plastic / Rubber / Glass,Engineering / Construction,0.03
+Chemical / Plastic / Rubber / Glass,Automobile / Auto Ancillaries,0.03
+Chemical / Plastic / Rubber / Glass,Banking / Financial Services,0.03
+Chemical / Plastic / Rubber / Glass,Management Consulting / Strategy,0.03
+Chemical / Plastic / Rubber / Glass,Medical / Healthcare,0.02
+Chemical / Plastic / Rubber / Glass,Education / Training,0.02
+Chemical / Plastic / Rubber / Glass,Paper / Wood,0.02
+Chemical / Plastic / Rubber / Glass,Recruitment Services,0.02
+Chemical / Plastic / Rubber / Glass,Fertilizers / Pesticides,0.02
+Chemical / Plastic / Rubber / Glass,Quality Certification,0.02
+Chemical / Plastic / Rubber / Glass,Advertising / MR / PR / Events,0.01
+Chemical / Plastic / Rubber / Glass,Export-Import / Trading,0.01
+Chemical / Plastic / Rubber / Glass,Paint,0.01
+Chemical / Plastic / Rubber / Glass,Telecom / ISP,0.01
+Chemical / Plastic / Rubber / Glass,Logistics / Courier / Transportation,0.01
+Chemical / Plastic / Rubber / Glass,Power / Energy,0.01
+Chemical / Plastic / Rubber / Glass,Cement / Building Material,0.01
+Chemical / Plastic / Rubber / Glass,Printing / Packaging,0.01
+Chemical / Plastic / Rubber / Glass,Internet / E-Commerce,0.01
+Chemical / Plastic / Rubber / Glass,Consumer Durables / Electronics,0.01
+Chemical / Plastic / Rubber / Glass,Real Estate,0.01
+Chemical / Plastic / Rubber / Glass,Architecture / Interior Design,0.01
+Chemical / Plastic / Rubber / Glass,Hotel / Restaurant,0.01
+Chemical / Plastic / Rubber / Glass,Insurance,0.01
+Chemical / Plastic / Rubber / Glass,Metal / Iron / Steel,0.01
+Chemical / Plastic / Rubber / Glass,Oil & Gas / Petroleum,0
+Chemical / Plastic / Rubber / Glass,Environment / Waste Management,0
+Chemical / Plastic / Rubber / Glass,IT - Hardware / Networking,0
+Chemical / Plastic / Rubber / Glass,KPO / Analytics,0
+Chemical / Plastic / Rubber / Glass,Personal Care / Beauty,0
+Chemical / Plastic / Rubber / Glass,Sculpture / Craft,0
+Chemical / Plastic / Rubber / Glass,Travel / Tourism,0
+Chemical / Plastic / Rubber / Glass,Aviation / Airline,0
+Chemical / Plastic / Rubber / Glass,Retail,0
+Chemical / Plastic / Rubber / Glass,Furnishings / Sanitaryware / Electricals,0
+Chemical / Plastic / Rubber / Glass,Gems / Jewellery,0
+Chemical / Plastic / Rubber / Glass,Legal,0
+Chemical / Plastic / Rubber / Glass,Media / Dotcom / Entertainment,0
+Chemical / Plastic / Rubber / Glass,Mining,0
+Chemical / Plastic / Rubber / Glass,Sports / Fitness,0
+Chemical / Plastic / Rubber / Glass,Agriculture / Dairy,0
+Chemical / Plastic / Rubber / Glass,Engineering / Constructio,0
+Chemical / Plastic / Rubber / Glass,Security / Detective Services,0
+Consumer Durables / Electronics,BPO / Call Center,0.13
+Consumer Durables / Electronics,Manufacturing,0.12
+Consumer Durables / Electronics,IT - Software,0.07
+Consumer Durables / Electronics,Banking / Financial Services,0.06
+Consumer Durables / Electronics,Consumer Durables / Electronics,0.05
+Consumer Durables / Electronics,FMCG / F&B,0.05
+Consumer Durables / Electronics,Quality Certification,0.04
+Consumer Durables / Electronics,Advertising / MR / PR / Events,0.03
+Consumer Durables / Electronics,Fresher (No Industry),0.03
+Consumer Durables / Electronics,Education / Training,0.03
+Consumer Durables / Electronics,Medical / Healthcare,0.03
+Consumer Durables / Electronics,Internet / E-Commerce,0.03
+Consumer Durables / Electronics,Paper / Wood,0.03
+Consumer Durables / Electronics,Retail,0.03
+Consumer Durables / Electronics,Insurance,0.02
+Consumer Durables / Electronics,Engineering / Construction,0.02
+Consumer Durables / Electronics,Recruitment Services,0.02
+Consumer Durables / Electronics,Telecom / ISP,0.02
+Consumer Durables / Electronics,Textile / Garments / Fashion,0.02
+Consumer Durables / Electronics,Pharma / Biotech,0.02
+Consumer Durables / Electronics,Automobile / Auto Ancillaries,0.02
+Consumer Durables / Electronics,Logistics / Courier / Transportation,0.01
+Consumer Durables / Electronics,IT - Hardware / Networking,0.01
+Consumer Durables / Electronics,Power / Energy,0.01
+Consumer Durables / Electronics,Real Estate,0.01
+Consumer Durables / Electronics,Furnishings / Sanitaryware / Electricals,0.01
+Consumer Durables / Electronics,KPO / Analytics,0.01
+Consumer Durables / Electronics,Travel / Tourism,0.01
+Consumer Durables / Electronics,Gems / Jewellery,0.01
+Consumer Durables / Electronics,Chemical / Plastic / Rubber / Glass,0.01
+Consumer Durables / Electronics,Aviation / Airline,0
+Consumer Durables / Electronics,Cement / Building Material,0
+Consumer Durables / Electronics,Architecture / Interior Design,0
+Consumer Durables / Electronics,Export-Import / Trading,0
+Consumer Durables / Electronics,Legal,0
+Consumer Durables / Electronics,Printing / Packaging,0
+Consumer Durables / Electronics,Security / Detective Services,0
+Consumer Durables / Electronics,Government Department,0
+Consumer Durables / Electronics,Hotel / Restaurant,0
+Consumer Durables / Electronics,NGO / Social Work,0
+Consumer Durables / Electronics,Oil & Gas / Petroleum,0
+Consumer Durables / Electronics,Animation,0
+Consumer Durables / Electronics,Media / Dotcom / Entertainment,0
+Consumer Durables / Electronics,Metal / Iron / Steel,0
+Consumer Durables / Electronics,Personal Care / Beauty,0
+Consumer Durables / Electronics,Sculpture / Craft,0
+Consumer Durables / Electronics,Astrology,0
+Consumer Durables / Electronics,Aviation / Airlin,0
+Consumer Durables / Electronics,Engineering / Constructio,0
+Consumer Durables / Electronics,Environment / Waste Management,0
+Consumer Durables / Electronics,Fertilizers / Pesticides,0
+Consumer Durables / Electronics,Industrial Design,0
+Consumer Durables / Electronics,Logistics / Courier / Tra,0
+Consumer Durables / Electronics,Management Consulting / Strategy,0
+Consumer Durables / Electronics,Matrimony,0
+Consumer Durables / Electronics,Paint,0
+Consumer Durables / Electronics,Sports / Fitness,0
+Consumer Durables / Electronics,Textile /,0
+Consumer Durables / Electronics,Trav,0
+Education / Training,Education / Training,0.38
+Education / Training,BPO / Call Center,0.21
+Education / Training,IT - Software,0.09
+Education / Training,Banking / Financial Services,0.03
+Education / Training,Recruitment Services,0.03
+Education / Training,Manufacturing,0.03
+Education / Training,Fresher (No Industry),0.03
+Education / Training,Advertising / MR / PR / Events,0.02
+Education / Training,Internet / E-Commerce,0.01
+Education / Training,Medical / Healthcare,0.01
+Education / Training,Pharma / Biotech,0.01
+Education / Training,Engineering / Construction,0.01
+Education / Training,Quality Certification,0.01
+Education / Training,FMCG / F&B,0.01
+Education / Training,Hotel / Restaurant,0.01
+Education / Training,Insurance,0.01
+Education / Training,Telecom / ISP,0.01
+Education / Training,Automobile / Auto Ancillaries,0.01
+Education / Training,IT - Hardware / Networking,0.01
+Education / Training,Media / Dotcom / Entertainment,0.01
+Education / Training,Travel / Tourism,0.01
+Education / Training,Textile / Garments / Fashion,0.01
+Education / Training,Management Consulting / Strategy,0.01
+Education / Training,Retail,0
+Education / Training,KPO / Analytics,0
+Education / Training,Logistics / Courier / Transportation,0
+Education / Training,Aviation / Airline,0
+Education / Training,Legal,0
+Education / Training,Printing / Packaging,0
+Education / Training,Real Estate,0
+Education / Training,Export-Import / Trading,0
+Education / Training,Paper / Wood,0
+Education / Training,Consumer Durables / Electronics,0
+Education / Training,NGO / Social Work,0
+Education / Training,Education / Trai,0
+Education / Training,Architecture / Interior Design,0
+Education / Training,Metal / Iron / Steel,0
+Education / Training,Personal Care / Beauty,0
+Education / Training,Power / Energy,0
+Education / Training,Government Department,0
+Education / Training,Gems / Jewellery,0
+Education / Training,Fertilizers / Pesticides,0
+Education / Training,Sculpture / Craft,0
+Education / Training,Agriculture / Dairy,0
+Education / Training,Oil & Gas / Petroleum,0
+Education / Training,Animation,0
+Education / Training,M,0
+Education / Training,Cement / Building Material,0
+Education / Training,Security / Detective Services,0
+Education / Training,Sports / Fitness,0
+Education / Training,Chemical / Plastic / Rubber / Glass,0
+Education / Training,Environment / Waste Management,0
+Education / Training,Furnishings / Sanitaryware / Electricals,0
+Education / Training,BPO / Call Cente,0
+Education / Training,Gifts / Toys / Stationary,0
+Education / Training,Mining,0
+Education / Training,Printing / Packa,0
+Education / Training,Trav,0
+Education / Training,A,0
+Education / Training,Banking /,0
+Education / Training,Fresher (No ,0
+Education / Training,Industrial Design,0
+Education / Training,Logistics / Courier / Tra,0
+Education / Training,Matrimony,0
+Education / Training,Merchant Navy,0
+Engineering / Construction,Engineering / Construction,0.35
+Engineering / Construction,Manufacturing,0.11
+Engineering / Construction,BPO / Call Center,0.09
+Engineering / Construction,IT - Software,0.07
+Engineering / Construction,Fresher (No Industry),0.04
+Engineering / Construction,Recruitment Services,0.03
+Engineering / Construction,Banking / Financial Services,0.02
+Engineering / Construction,Education / Training,0.02
+Engineering / Construction,Power / Energy,0.02
+Engineering / Construction,Automobile / Auto Ancillaries,0.02
+Engineering / Construction,Architecture / Interior Design,0.02
+Engineering / Construction,FMCG / F&B,0.02
+Engineering / Construction,Medical / Healthcare,0.02
+Engineering / Construction,Telecom / ISP,0.02
+Engineering / Construction,Oil & Gas / Petroleum,0.01
+Engineering / Construction,Pharma / Biotech,0.01
+Engineering / Construction,Cement / Building Material,0.01
+Engineering / Construction,Real Estate,0.01
+Engineering / Construction,Textile / Garments / Fashion,0.01
+Engineering / Construction,Advertising / MR / PR / Events,0.01
+Engineering / Construction,Consumer Durables / Electronics,0.01
+Engineering / Construction,Paper / Wood,0.01
+Engineering / Construction,Logistics / Courier / Transportation,0.01
+Engineering / Construction,Internet / E-Commerce,0.01
+Engineering / Construction,Hotel / Restaurant,0.01
+Engineering / Construction,IT - Hardware / Networking,0.01
+Engineering / Construction,Aviation / Airline,0
+Engineering / Construction,Quality Certification,0
+Engineering / Construction,Printing / Packaging,0
+Engineering / Construction,Export-Import / Trading,0
+Engineering / Construction,KPO / Analytics,0
+Engineering / Construction,Retail,0
+Engineering / Construction,Insurance,0
+Engineering / Construction,Management Consulting / Strategy,0
+Engineering / Construction,Travel / Tourism,0
+Engineering / Construction,Chemical / Plastic / Rubber / Glass,0
+Engineering / Construction,Metal / Iron / Steel,0
+Engineering / Construction,Environment / Waste Management,0
+Engineering / Construction,Legal,0
+Engineering / Construction,Industrial Design,0
+Engineering / Construction,Furnishings / Sanitaryware / Electricals,0
+Engineering / Construction,Gems / Jewellery,0
+Engineering / Construction,Security / Detective Services,0
+Engineering / Construction,Fertilizers / Pesticides,0
+Engineering / Construction,Media / Dotcom / Entertainment,0
+Engineering / Construction,Government Department,0
+Engineering / Construction,Agriculture / Dairy,0
+Engineering / Construction,Personal Care / Beauty,0
+Engineering / Construction,Engineering / Constructio,0
+Engineering / Construction,Unskilled Labor / Domestic Help,0
+Engineering / Construction,Animation,0
+Engineering / Construction,A,0
+Engineering / Construction,Mining,0
+Engineering / Construction,NGO / Social Work,0
+Engineering / Construction,Auto,0
+Engineering / Construction,Paint,0
+Engineering / Construction,Sculpture / Craft,0
+Engineering / Construction,Astrology,0
+Engineering / Construction,Banking /,0
+Engineering / Construction,Chemical / Plast,0
+Engineering / Construction,Fresher (No ,0
+Engineering / Construction,M,0
+Engineering / Construction,Powe,0
+Environment / Waste Management,BPO / Call Center,0.19
+Environment / Waste Management,Engineering / Construction,0.1
+Environment / Waste Management,Fresher (No Industry),0.08
+Environment / Waste Management,Manufacturing,0.07
+Environment / Waste Management,Banking / Financial Services,0.05
+Environment / Waste Management,FMCG / F&B,0.05
+Environment / Waste Management,Environment / Waste Management,0.04
+Environment / Waste Management,IT - Software,0.04
+Environment / Waste Management,Pharma / Biotech,0.03
+Environment / Waste Management,Chemical / Plastic / Rubber / Glass,0.03
+Environment / Waste Management,Insurance,0.03
+Environment / Waste Management,Advertising / MR / PR / Events,0.02
+Environment / Waste Management,Recruitment Services,0.02
+Environment / Waste Management,Automobile / Auto Ancillaries,0.02
+Environment / Waste Management,Medical / Healthcare,0.02
+Environment / Waste Management,Telecom / ISP,0.02
+Environment / Waste Management,Education / Training,0.01
+Environment / Waste Management,Hotel / Restaurant,0.01
+Environment / Waste Management,Internet / E-Commerce,0.01
+Environment / Waste Management,Logistics / Courier / Transportation,0.01
+Environment / Waste Management,Quality Certification,0.01
+Environment / Waste Management,Paper / Wood,0.01
+Environment / Waste Management,Printing / Packaging,0.01
+Environment / Waste Management,Textile / Garments / Fashion,0.01
+Environment / Waste Management,Architecture / Interior Design,0
+Environment / Waste Management,Aviation / Airline,0
+Environment / Waste Management,Cement / Building Material,0
+Environment / Waste Management,Export-Import / Trading,0
+Environment / Waste Management,Fertilizers / Pesticides,0
+Environment / Waste Management,Management Consulting / Strategy,0
+Environment / Waste Management,Oil & Gas / Petroleum,0
+Environment / Waste Management,Personal Care / Beauty,0
+Environment / Waste Management,Power / Energy,0
+Environment / Waste Management,Real Estate,0
+Environment / Waste Management,Sports / Fitness,0
+Environment / Waste Management,Travel / Tourism,0
+Export-Import / Trading,Fresher (No Industry),0.16
+Export-Import / Trading,BPO / Call Center,0.13
+Export-Import / Trading,Manufacturing,0.09
+Export-Import / Trading,Textile / Garments / Fashion,0.09
+Export-Import / Trading,Export-Import / Trading,0.06
+Export-Import / Trading,FMCG / F&B,0.05
+Export-Import / Trading,IT - Software,0.04
+Export-Import / Trading,Banking / Financial Services,0.04
+Export-Import / Trading,Internet / E-Commerce,0.04
+Export-Import / Trading,Pharma / Biotech,0.03
+Export-Import / Trading,Logistics / Courier / Transportation,0.02
+Export-Import / Trading,Medical / Healthcare,0.02
+Export-Import / Trading,Education / Training,0.02
+Export-Import / Trading,Recruitment Services,0.02
+Export-Import / Trading,Retail,0.01
+Export-Import / Trading,Advertising / MR / PR / Events,0.01
+Export-Import / Trading,Automobile / Auto Ancillaries,0.01
+Export-Import / Trading,Quality Certification,0.01
+Export-Import / Trading,Real Estate,0.01
+Export-Import / Trading,Engineering / Construction,0.01
+Export-Import / Trading,Telecom / ISP,0.01
+Export-Import / Trading,Paper / Wood,0.01
+Export-Import / Trading,Fertilizers / Pesticides,0.01
+Export-Import / Trading,IT - Hardware / Networking,0.01
+Export-Import / Trading,Travel / Tourism,0.01
+Export-Import / Trading,Chemical / Plastic / Rubber / Glass,0.01
+Export-Import / Trading,Hotel / Restaurant,0.01
+Export-Import / Trading,Aviation / Airline,0.01
+Export-Import / Trading,Metal / Iron / Steel,0.01
+Export-Import / Trading,Oil & Gas / Petroleum,0
+Export-Import / Trading,Insurance,0
+Export-Import / Trading,KPO / Analytics,0
+Export-Import / Trading,Agriculture / Dairy,0
+Export-Import / Trading,Media / Dotcom / Entertainment,0
+Export-Import / Trading,Printing / Packaging,0
+Export-Import / Trading,Architecture / Interior Design,0
+Export-Import / Trading,Consumer Durables / Electronics,0
+Export-Import / Trading,Gems / Jewellery,0
+Export-Import / Trading,Management Consulting / Strategy,0
+Export-Import / Trading,Paint,0
+Export-Import / Trading,Cement / Building Material,0
+Export-Import / Trading,Furnishings / Sanitaryware / Electricals,0
+Export-Import / Trading,Power / Energy,0
+Export-Import / Trading,Animation,0
+Export-Import / Trading,Environment / Waste Management,0
+Export-Import / Trading,Legal,0
+Export-Import / Trading,Personal Care / Beauty,0
+Export-Import / Trading,Government Department,0
+Export-Import / Trading,Sculpture / Craft,0
+Export-Import / Trading,Security / Detective Services,0
+Export-Import / Trading,Gifts / Toys / Stationary,0
+Export-Import / Trading,Industrial Design,0
+Export-Import / Trading,Matrimony,0
+Export-Import / Trading,Mining,0
+Export-Import / Trading,NGO / Social Work,0
+Export-Import / Trading,Sports / Fitness,0
+Fertilizers / Pesticides,BPO / Call Center,0.14
+Fertilizers / Pesticides,Manufacturing,0.12
+Fertilizers / Pesticides,Pharma / Biotech,0.09
+Fertilizers / Pesticides,Banking / Financial Services,0.08
+Fertilizers / Pesticides,IT - Software,0.07
+Fertilizers / Pesticides,Fresher (No Industry),0.05
+Fertilizers / Pesticides,FMCG / F&B,0.05
+Fertilizers / Pesticides,Engineering / Construction,0.03
+Fertilizers / Pesticides,Education / Training,0.03
+Fertilizers / Pesticides,Power / Energy,0.03
+Fertilizers / Pesticides,Textile / Garments / Fashion,0.03
+Fertilizers / Pesticides,Fertilizers / Pesticides,0.02
+Fertilizers / Pesticides,Management Consulting / Strategy,0.02
+Fertilizers / Pesticides,Paint,0.02
+Fertilizers / Pesticides,Quality Certification,0.02
+Fertilizers / Pesticides,Advertising / MR / PR / Events,0.01
+Fertilizers / Pesticides,Automobile / Auto Ancillaries,0.01
+Fertilizers / Pesticides,Insurance,0.01
+Fertilizers / Pesticides,Paper / Wood,0.01
+Fertilizers / Pesticides,Real Estate,0.01
+Fertilizers / Pesticides,Recruitment Services,0.01
+Fertilizers / Pesticides,Agriculture / Dairy,0.01
+Fertilizers / Pesticides,Hotel / Restaurant,0.01
+Fertilizers / Pesticides,Medical / Healthcare,0.01
+Fertilizers / Pesticides,Travel / Tourism,0.01
+Fertilizers / Pesticides,Chemical / Plastic / Rubber / Glass,0
+Fertilizers / Pesticides,Consumer Durables / Electronics,0
+Fertilizers / Pesticides,Environment / Waste Management,0
+Fertilizers / Pesticides,Internet / E-Commerce,0
+Fertilizers / Pesticides,IT - Hardware / Networking,0
+Fertilizers / Pesticides,KPO / Analytics,0
+Fertilizers / Pesticides,Legal,0
+Fertilizers / Pesticides,Logistics / Courier / Transportation,0
+Fertilizers / Pesticides,Printing / Packaging,0
+Fertilizers / Pesticides,Telecom / ISP,0
+FMCG / F&B,FMCG / F&B,0.21
+FMCG / F&B,BPO / Call Center,0.09
+FMCG / F&B,Manufacturing,0.08
+FMCG / F&B,IT - Software,0.06
+FMCG / F&B,Quality Certification,0.06
+FMCG / F&B,Fresher (No Industry),0.05
+FMCG / F&B,Banking / Financial Services,0.04
+FMCG / F&B,Pharma / Biotech,0.04
+FMCG / F&B,Advertising / MR / PR / Events,0.03
+FMCG / F&B,Hotel / Restaurant,0.03
+FMCG / F&B,Internet / E-Commerce,0.02
+FMCG / F&B,Recruitment Services,0.02
+FMCG / F&B,Insurance,0.02
+FMCG / F&B,Paper / Wood,0.02
+FMCG / F&B,Education / Training,0.02
+FMCG / F&B,Automobile / Auto Ancillaries,0.02
+FMCG / F&B,Retail,0.02
+FMCG / F&B,Engineering / Construction,0.02
+FMCG / F&B,Textile / Garments / Fashion,0.02
+FMCG / F&B,Medical / Healthcare,0.02
+FMCG / F&B,Logistics / Courier / Transportation,0.01
+FMCG / F&B,Consumer Durables / Electronics,0.01
+FMCG / F&B,Telecom / ISP,0.01
+FMCG / F&B,Real Estate,0.01
+FMCG / F&B,Travel / Tourism,0.01
+FMCG / F&B,Cement / Building Material,0
+FMCG / F&B,Export-Import / Trading,0
+FMCG / F&B,Management Consulting / Strategy,0
+FMCG / F&B,Oil & Gas / Petroleum,0
+FMCG / F&B,Power / Energy,0
+FMCG / F&B,IT - Hardware / Networking,0
+FMCG / F&B,Media / Dotcom / Entertainment,0
+FMCG / F&B,Chemical / Plastic / Rubber / Glass,0
+FMCG / F&B,Agriculture / Dairy,0
+FMCG / F&B,KPO / Analytics,0
+FMCG / F&B,Gems / Jewellery,0
+FMCG / F&B,Furnishings / Sanitaryware / Electricals,0
+FMCG / F&B,Legal,0
+FMCG / F&B,Environment / Waste Management,0
+FMCG / F&B,Printing / Packaging,0
+FMCG / F&B,Aviation / Airline,0
+FMCG / F&B,NGO / Social Work,0
+FMCG / F&B,Sculpture / Craft,0
+FMCG / F&B,Security / Detective Services,0
+FMCG / F&B,Architecture / Interior Design,0
+FMCG / F&B,Fertilizers / Pesticides,0
+FMCG / F&B,Metal / Iron / Steel,0
+FMCG / F&B,Banking /,0
+FMCG / F&B,Gifts / Toys / Stationary,0
+FMCG / F&B,Government Department,0
+FMCG / F&B,Paint,0
+FMCG / F&B,Personal Care / Beauty,0
+FMCG / F&B,Animation,0
+FMCG / F&B,Engineering / Constructio,0
+FMCG / F&B,Industrial Design,0
+FMCG / F&B,M,0
+FMCG / F&B,Matrimony,0
+FMCG / F&B,Mining,0
+FMCG / F&B,Trav,0
+Fresher (No Industry),BPO / Call Center,0.29
+Fresher (No Industry),IT - Software,0.23
+Fresher (No Industry),Fresher (No Industry),0.07
+Fresher (No Industry),Banking / Financial Services,0.06
+Fresher (No Industry),Manufacturing,0.04
+Fresher (No Industry),Education / Training,0.03
+Fresher (No Industry),Engineering / Construction,0.03
+Fresher (No Industry),Recruitment Services,0.03
+Fresher (No Industry),Telecom / ISP,0.03
+Fresher (No Industry),Internet / E-Commerce,0.02
+Fresher (No Industry),Aviation / Airline,0.01
+Fresher (No Industry),Medical / Healthcare,0.01
+Fresher (No Industry),Pharma / Biotech,0.01
+Fresher (No Industry),IT - Hardware / Networking,0.01
+Fresher (No Industry),Automobile / Auto Ancillaries,0.01
+Fresher (No Industry),Advertising / MR / PR / Events,0.01
+Fresher (No Industry),FMCG / F&B,0.01
+Fresher (No Industry),Insurance,0.01
+Fresher (No Industry),Hotel / Restaurant,0.01
+Fresher (No Industry),Power / Energy,0.01
+Fresher (No Industry),Management Consulting / Strategy,0.01
+Fresher (No Industry),Travel / Tourism,0.01
+Fresher (No Industry),Textile / Garments / Fashion,0
+Fresher (No Industry),KPO / Analytics,0
+Fresher (No Industry),Consumer Durables / Electronics,0
+Fresher (No Industry),Quality Certification,0
+Fresher (No Industry),Logistics / Courier / Transportation,0
+Fresher (No Industry),Media / Dotcom / Entertainment,0
+Fresher (No Industry),Real Estate,0
+Fresher (No Industry),Architecture / Interior Design,0
+Fresher (No Industry),NGO / Social Work,0
+Fresher (No Industry),Government Department,0
+Fresher (No Industry),Export-Import / Trading,0
+Fresher (No Industry),Industrial Design,0
+Fresher (No Industry),Legal,0
+Fresher (No Industry),Retail,0
+Fresher (No Industry),Personal Care / Beauty,0
+Fresher (No Industry),Agriculture / Dairy,0
+Fresher (No Industry),Paper / Wood,0
+Fresher (No Industry),Oil & Gas / Petroleum,0
+Fresher (No Industry),Printing / Packaging,0
+Fresher (No Industry),Fertilizers / Pesticides,0
+Fresher (No Industry),M,0
+Fresher (No Industry),Environment / Waste Management,0
+Fresher (No Industry),Gems / Jewellery,0
+Fresher (No Industry),Chemical / Plastic / Rubber / Glass,0
+Fresher (No Industry),Security / Detective Services,0
+Fresher (No Industry),BPO / Call Cente,0
+Fresher (No Industry),Metal / Iron / Steel,0
+Fresher (No Industry),Animation,0
+Fresher (No Industry),Medical / Health,0
+Fresher (No Industry),Merchant Navy,0
+Fresher (No Industry),Cement / Building Material,0
+Fresher (No Industry),Astrology,0
+Fresher (No Industry),Sports / Fitness,0
+Fresher (No Industry),Auto,0
+Fresher (No Industry),Furnishings / Sanitaryware / Electricals,0
+Fresher (No Industry),Aviation / Airlin,0
+Fresher (No Industry),Paint,0
+Fresher (No Industry),Unskilled Labor / Domestic Help,0
+Fresher (No Industry),A,0
+Fresher (No Industry),Banking /,0
+Fresher (No Industry),Matrimony,0
+Fresher (No Industry),Mining,0
+Fresher (No Industry),Fresher (No ,0
+Fresher (No Industry),Gifts / Toys / Stationary,0
+Fresher (No Industry),Internet / E,0
+Fresher (No Industry),Te,0
+Fresher (No Industry),Vete,0
+Fresher (No Industry),Veterinary Science / Pet Care,0
+Furnishings / Sanitaryware / Electricals,BPO / Call Center,0.11
+Furnishings / Sanitaryware / Electricals,Banking / Financial Services,0.08
+Furnishings / Sanitaryware / Electricals,Manufacturing,0.06
+Furnishings / Sanitaryware / Electricals,IT - Software,0.06
+Furnishings / Sanitaryware / Electricals,Fresher (No Industry),0.05
+Furnishings / Sanitaryware / Electricals,Advertising / MR / PR / Events,0.05
+Furnishings / Sanitaryware / Electricals,Recruitment Services,0.05
+Furnishings / Sanitaryware / Electricals,Engineering / Construction,0.04
+Furnishings / Sanitaryware / Electricals,Automobile / Auto Ancillaries,0.03
+Furnishings / Sanitaryware / Electricals,Internet / E-Commerce,0.03
+Furnishings / Sanitaryware / Electricals,Quality Certification,0.03
+Furnishings / Sanitaryware / Electricals,Hotel / Restaurant,0.03
+Furnishings / Sanitaryware / Electricals,Retail,0.03
+Furnishings / Sanitaryware / Electricals,FMCG / F&B,0.03
+Furnishings / Sanitaryware / Electricals,Paper / Wood,0.03
+Furnishings / Sanitaryware / Electricals,Consumer Durables / Electronics,0.02
+Furnishings / Sanitaryware / Electricals,Education / Training,0.02
+Furnishings / Sanitaryware / Electricals,Pharma / Biotech,0.02
+Furnishings / Sanitaryware / Electricals,Real Estate,0.02
+Furnishings / Sanitaryware / Electricals,Logistics / Courier / Transportation,0.02
+Furnishings / Sanitaryware / Electricals,Medical / Healthcare,0.02
+Furnishings / Sanitaryware / Electricals,Textile / Garments / Fashion,0.02
+Furnishings / Sanitaryware / Electricals,Furnishings / Sanitaryware / Electricals,0.01
+Furnishings / Sanitaryware / Electricals,Insurance,0.01
+Furnishings / Sanitaryware / Electricals,Telecom / ISP,0.01
+Furnishings / Sanitaryware / Electricals,IT - Hardware / Networking,0.01
+Furnishings / Sanitaryware / Electricals,NGO / Social Work,0.01
+Furnishings / Sanitaryware / Electricals,Sculpture / Craft,0.01
+Furnishings / Sanitaryware / Electricals,Agriculture / Dairy,0.01
+Furnishings / Sanitaryware / Electricals,Architecture / Interior Design,0.01
+Furnishings / Sanitaryware / Electricals,Export-Import / Trading,0.01
+Furnishings / Sanitaryware / Electricals,Management Consulting / Strategy,0.01
+Furnishings / Sanitaryware / Electricals,Metal / Iron / Steel,0.01
+Furnishings / Sanitaryware / Electricals,Security / Detective Services,0.01
+Furnishings / Sanitaryware / Electricals,Travel / Tourism,0.01
+Furnishings / Sanitaryware / Electricals,Aviation / Airline,0
+Furnishings / Sanitaryware / Electricals,Chemical / Plastic / Rubber / Glass,0
+Furnishings / Sanitaryware / Electricals,Gems / Jewellery,0
+Furnishings / Sanitaryware / Electricals,Government Department,0
+Furnishings / Sanitaryware / Electricals,KPO / Analytics,0
+Furnishings / Sanitaryware / Electricals,Media / Dotcom / Entertainment,0
+Furnishings / Sanitaryware / Electricals,Oil & Gas / Petroleum,0
+Furnishings / Sanitaryware / Electricals,Printing / Packaging,0
+Furnishings / Sanitaryware / Electricals,Sports / Fitness,0
+Furnishings / Sanitaryware / Electricals,Trav,0
+Furnishings / Sanitaryware / Electricals,Unskilled Labor / Domestic Help,0
+Gems / Jewellery,BPO / Call Center,0.13
+Gems / Jewellery,Gems / Jewellery,0.09
+Gems / Jewellery,IT - Software,0.09
+Gems / Jewellery,Banking / Financial Services,0.07
+Gems / Jewellery,Manufacturing,0.07
+Gems / Jewellery,Retail,0.06
+Gems / Jewellery,Quality Certification,0.05
+Gems / Jewellery,Fresher (No Industry),0.05
+Gems / Jewellery,Advertising / MR / PR / Events,0.04
+Gems / Jewellery,Recruitment Services,0.04
+Gems / Jewellery,FMCG / F&B,0.03
+Gems / Jewellery,Textile / Garments / Fashion,0.03
+Gems / Jewellery,Hotel / Restaurant,0.03
+Gems / Jewellery,Pharma / Biotech,0.03
+Gems / Jewellery,Automobile / Auto Ancillaries,0.02
+Gems / Jewellery,Real Estate,0.02
+Gems / Jewellery,Internet / E-Commerce,0.02
+Gems / Jewellery,Media / Dotcom / Entertainment,0.02
+Gems / Jewellery,Insurance,0.01
+Gems / Jewellery,Education / Training,0.01
+Gems / Jewellery,Logistics / Courier / Transportation,0.01
+Gems / Jewellery,Telecom / ISP,0.01
+Gems / Jewellery,Travel / Tourism,0.01
+Gems / Jewellery,Agriculture / Dairy,0.01
+Gems / Jewellery,Chemical / Plastic / Rubber / Glass,0.01
+Gems / Jewellery,Export-Import / Trading,0.01
+Gems / Jewellery,Fertilizers / Pesticides,0.01
+Gems / Jewellery,Government Department,0.01
+Gems / Jewellery,KPO / Analytics,0.01
+Gems / Jewellery,Matrimony,0.01
+Gems / Jewellery,Medical / Healthcare,0.01
+Gems / Jewellery,Personal Care / Beauty,0.01
+Gems / Jewellery,Power / Energy,0.01
+Gems / Jewellery,Printing / Packaging,0.01
+Gems / Jewellery,Animation,0
+Gems / Jewellery,Architecture / Interior Design,0
+Gems / Jewellery,Aviation / Airline,0
+Gems / Jewellery,Consumer Durables / Electronics,0
+Gems / Jewellery,Environment / Waste Management,0
+Gems / Jewellery,Furnishings / Sanitaryware / Electricals,0
+Gems / Jewellery,Management Consulting / Strategy,0
+Gems / Jewellery,Metal / Iron / Steel,0
+Gifts / Toys / Stationary,BPO / Call Center,0.15
+Gifts / Toys / Stationary,Fresher (No Industry),0.1
+Gifts / Toys / Stationary,IT - Software,0.08
+Gifts / Toys / Stationary,Manufacturing,0.07
+Gifts / Toys / Stationary,Recruitment Services,0.07
+Gifts / Toys / Stationary,Quality Certification,0.05
+Gifts / Toys / Stationary,Banking / Financial Services,0.04
+Gifts / Toys / Stationary,Education / Training,0.04
+Gifts / Toys / Stationary,Export-Import / Trading,0.04
+Gifts / Toys / Stationary,Internet / E-Commerce,0.04
+Gifts / Toys / Stationary,Advertising / MR / PR / Events,0.03
+Gifts / Toys / Stationary,Logistics / Courier / Transportation,0.03
+Gifts / Toys / Stationary,Pharma / Biotech,0.03
+Gifts / Toys / Stationary,Travel / Tourism,0.03
+Gifts / Toys / Stationary,Automobile / Auto Ancillaries,0.02
+Gifts / Toys / Stationary,FMCG / F&B,0.02
+Gifts / Toys / Stationary,Insurance,0.02
+Gifts / Toys / Stationary,Media / Dotcom / Entertainment,0.02
+Gifts / Toys / Stationary,Retail,0.02
+Gifts / Toys / Stationary,Architecture / Interior Design,0.01
+Gifts / Toys / Stationary,Aviation / Airline,0.01
+Gifts / Toys / Stationary,Consumer Durables / Electronics,0.01
+Gifts / Toys / Stationary,Engineering / Construction,0.01
+Gifts / Toys / Stationary,Environment / Waste Management,0.01
+Gifts / Toys / Stationary,Hotel / Restaurant,0.01
+Gifts / Toys / Stationary,Industrial Design,0.01
+Gifts / Toys / Stationary,IT - Hardware / Networking,0.01
+Gifts / Toys / Stationary,Management Consulting / Strategy,0.01
+Gifts / Toys / Stationary,Medical / Healthcare,0.01
+Gifts / Toys / Stationary,Oil & Gas / Petroleum,0.01
+Gifts / Toys / Stationary,Security / Detective Services,0.01
+Gifts / Toys / Stationary,Telecom / ISP,0.01
+Gifts / Toys / Stationary,Textile / Garments / Fashion,0.01
+Government Department,BPO / Call Center,0.53
+Government Department,IT - Software,0.05
+Government Department,Fresher (No Industry),0.05
+Government Department,Manufacturing,0.04
+Government Department,Banking / Financial Services,0.04
+Government Department,Education / Training,0.03
+Government Department,Recruitment Services,0.02
+Government Department,Medical / Healthcare,0.02
+Government Department,Engineering / Construction,0.02
+Government Department,Pharma / Biotech,0.02
+Government Department,Advertising / MR / PR / Events,0.02
+Government Department,Hotel / Restaurant,0.01
+Government Department,Internet / E-Commerce,0.01
+Government Department,FMCG / F&B,0.01
+Government Department,IT - Hardware / Networking,0.01
+Government Department,Media / Dotcom / Entertainment,0.01
+Government Department,Real Estate,0.01
+Government Department,Insurance,0.01
+Government Department,Automobile / Auto Ancillaries,0.01
+Government Department,Government Department,0.01
+Government Department,Logistics / Courier / Transportation,0.01
+Government Department,Aviation / Airline,0.01
+Government Department,Quality Certification,0.01
+Government Department,Telecom / ISP,0
+Government Department,Export-Import / Trading,0
+Government Department,NGO / Social Work,0
+Government Department,Textile / Garments / Fashion,0
+Government Department,KPO / Analytics,0
+Government Department,Management Consulting / Strategy,0
+Government Department,Power / Energy,0
+Government Department,Consumer Durables / Electronics,0
+Government Department,Printing / Packaging,0
+Government Department,Retail,0
+Government Department,Security / Detective Services,0
+Government Department,Travel / Tourism,0
+Government Department,Cement / Building Material,0
+Government Department,Fertilizers / Pesticides,0
+Government Department,Legal,0
+Government Department,Metal / Iron / Steel,0
+Government Department,Oil & Gas / Petroleum,0
+Government Department,Paper / Wood,0
+Government Department,Agriculture / Dairy,0
+Government Department,Architecture / Interior Design,0
+Government Department,Astrology,0
+Government Department,Furnishings / Sanitaryware / Electricals,0
+Government Department,Gems / Jewellery,0
+Government Department,Industrial Design,0
+Government Department,M,0
+Government Department,Matrimony,0
+Government Department,Mining,0
+Government Department,Paint,0
+Government Department,Personal Care / Beauty,0
+Hotel / Restaurant,Hotel / Restaurant,0.57
+Hotel / Restaurant,BPO / Call Center,0.09
+Hotel / Restaurant,Banking / Financial Services,0.05
+Hotel / Restaurant,FMCG / F&B,0.03
+Hotel / Restaurant,Fresher (No Industry),0.03
+Hotel / Restaurant,Recruitment Services,0.03
+Hotel / Restaurant,IT - Software,0.02
+Hotel / Restaurant,Manufacturing,0.02
+Hotel / Restaurant,Education / Training,0.02
+Hotel / Restaurant,Travel / Tourism,0.01
+Hotel / Restaurant,Advertising / MR / PR / Events,0.01
+Hotel / Restaurant,Medical / Healthcare,0.01
+Hotel / Restaurant,Quality Certification,0.01
+Hotel / Restaurant,Aviation / Airline,0.01
+Hotel / Restaurant,Automobile / Auto Ancillaries,0.01
+Hotel / Restaurant,Engineering / Construction,0.01
+Hotel / Restaurant,Insurance,0.01
+Hotel / Restaurant,Pharma / Biotech,0.01
+Hotel / Restaurant,Internet / E-Commerce,0.01
+Hotel / Restaurant,Real Estate,0.01
+Hotel / Restaurant,Management Consulting / Strategy,0
+Hotel / Restaurant,Textile / Garments / Fashion,0
+Hotel / Restaurant,Retail,0
+Hotel / Restaurant,Logistics / Courier / Transportation,0
+Hotel / Restaurant,KPO / Analytics,0
+Hotel / Restaurant,Telecom / ISP,0
+Hotel / Restaurant,IT - Hardware / Networking,0
+Hotel / Restaurant,Chemical / Plastic / Rubber / Glass,0
+Hotel / Restaurant,Export-Import / Trading,0
+Hotel / Restaurant,Power / Energy,0
+Hotel / Restaurant,Architecture / Interior Design,0
+Hotel / Restaurant,Consumer Durables / Electronics,0
+Hotel / Restaurant,NGO / Social Work,0
+Hotel / Restaurant,Paper / Wood,0
+Hotel / Restaurant,Security / Detective Services,0
+Hotel / Restaurant,Fertilizers / Pesticides,0
+Hotel / Restaurant,Gems / Jewellery,0
+Hotel / Restaurant,Government Department,0
+Hotel / Restaurant,M,0
+Hotel / Restaurant,Furnishings / Sanitaryware / Electricals,0
+Hotel / Restaurant,Media / Dotcom / Entertainment,0
+Hotel / Restaurant,Agriculture / Dairy,0
+Hotel / Restaurant,Animation,0
+Hotel / Restaurant,Industrial Design,0
+Hotel / Restaurant,Legal,0
+Hotel / Restaurant,Metal / Iron / Steel,0
+Hotel / Restaurant,Printing / Packaging,0
+Hotel / Restaurant,Environment / Waste Management,0
+Hotel / Restaurant,Mining,0
+Hotel / Restaurant,Oil & Gas / Petroleum,0
+Hotel / Restaurant,Personal Care / Beauty,0
+Hotel / Restaurant,Sculpture / Craft,0
+Hotel / Restaurant,Unskilled Labor / Domestic Help,0
+Industrial Design,IT - Software,0.18
+Industrial Design,Manufacturing,0.15
+Industrial Design,BPO / Call Center,0.14
+Industrial Design,Engineering / Construction,0.11
+Industrial Design,Advertising / MR / PR / Events,0.04
+Industrial Design,Education / Training,0.04
+Industrial Design,Fresher (No Industry),0.03
+Industrial Design,Textile / Garments / Fashion,0.03
+Industrial Design,Automobile / Auto Ancillaries,0.03
+Industrial Design,Architecture / Interior Design,0.02
+Industrial Design,Recruitment Services,0.02
+Industrial Design,Internet / E-Commerce,0.02
+Industrial Design,Printing / Packaging,0.02
+Industrial Design,Pharma / Biotech,0.02
+Industrial Design,Consumer Durables / Electronics,0.02
+Industrial Design,FMCG / F&B,0.01
+Industrial Design,Telecom / ISP,0.01
+Industrial Design,Hotel / Restaurant,0.01
+Industrial Design,Banking / Financial Services,0.01
+Industrial Design,Medical / Healthcare,0.01
+Industrial Design,Chemical / Plastic / Rubber / Glass,0.01
+Industrial Design,IT - Hardware / Networking,0.01
+Industrial Design,Logistics / Courier / Transportation,0.01
+Industrial Design,Oil & Gas / Petroleum,0.01
+Industrial Design,Management Consulting / Strategy,0
+Industrial Design,Media / Dotcom / Entertainment,0
+Industrial Design,Power / Energy,0
+Industrial Design,Quality Certification,0
+Industrial Design,Aviation / Airline,0
+Industrial Design,Cement / Building Material,0
+Industrial Design,Export-Import / Trading,0
+Industrial Design,Fertilizers / Pesticides,0
+Industrial Design,Furnishings / Sanitaryware / Electricals,0
+Industrial Design,Gems / Jewellery,0
+Industrial Design,Government Department,0
+Industrial Design,Industrial Design,0
+Industrial Design,Insurance,0
+Industrial Design,Paper / Wood,0
+Industrial Design,Retail,0
+Industrial Design,Travel / Tourism,0
+Insurance,Insurance,0.27
+Insurance,BPO / Call Center,0.19
+Insurance,Banking / Financial Services,0.14
+Insurance,Quality Certification,0.06
+Insurance,IT - Software,0.06
+Insurance,Fresher (No Industry),0.04
+Insurance,Education / Training,0.02
+Insurance,Advertising / MR / PR / Events,0.02
+Insurance,Recruitment Services,0.02
+Insurance,Internet / E-Commerce,0.02
+Insurance,Manufacturing,0.01
+Insurance,FMCG / F&B,0.01
+Insurance,Sculpture / Craft,0.01
+Insurance,Pharma / Biotech,0.01
+Insurance,Telecom / ISP,0.01
+Insurance,Travel / Tourism,0.01
+Insurance,Medical / Healthcare,0.01
+Insurance,Real Estate,0.01
+Insurance,Automobile / Auto Ancillaries,0.01
+Insurance,Hotel / Restaurant,0.01
+Insurance,Paper / Wood,0.01
+Insurance,KPO / Analytics,0
+Insurance,Banking /,0
+Insurance,Furnishings / Sanitaryware / Electricals,0
+Insurance,Retail,0
+Insurance,Engineering / Construction,0
+Insurance,Export-Import / Trading,0
+Insurance,NGO / Social Work,0
+Insurance,Aviation / Airline,0
+Insurance,Consumer Durables / Electronics,0
+Insurance,Management Consulting / Strategy,0
+Insurance,Personal Care / Beauty,0
+Insurance,Printing / Packaging,0
+Insurance,Textile / Garments / Fashion,0
+Insurance,Gems / Jewellery,0
+Insurance,IT - Hardware / Networking,0
+Insurance,Legal,0
+Insurance,Logistics / Courier / Transportation,0
+Insurance,Media / Dotcom / Entertainment,0
+Insurance,Agriculture / Dairy,0
+Insurance,Government Department,0
+Insurance,Power / Energy,0
+Insurance,Architecture / Interior Design,0
+Insurance,Fertilizers / Pesticides,0
+Insurance,Security / Detective Services,0
+Internet / E-Commerce,BPO / Call Center,0.25
+Internet / E-Commerce,IT - Software,0.17
+Internet / E-Commerce,Internet / E-Commerce,0.14
+Internet / E-Commerce,Advertising / MR / PR / Events,0.06
+Internet / E-Commerce,Banking / Financial Services,0.04
+Internet / E-Commerce,Quality Certification,0.03
+Internet / E-Commerce,Education / Training,0.03
+Internet / E-Commerce,Recruitment Services,0.03
+Internet / E-Commerce,Fresher (No Industry),0.02
+Internet / E-Commerce,FMCG / F&B,0.02
+Internet / E-Commerce,Textile / Garments / Fashion,0.02
+Internet / E-Commerce,Manufacturing,0.02
+Internet / E-Commerce,Media / Dotcom / Entertainment,0.01
+Internet / E-Commerce,Telecom / ISP,0.01
+Internet / E-Commerce,Medical / Healthcare,0.01
+Internet / E-Commerce,Automobile / Auto Ancillaries,0.01
+Internet / E-Commerce,Consumer Durables / Electronics,0.01
+Internet / E-Commerce,Logistics / Courier / Transportation,0.01
+Internet / E-Commerce,Retail,0.01
+Internet / E-Commerce,Insurance,0.01
+Internet / E-Commerce,KPO / Analytics,0.01
+Internet / E-Commerce,Pharma / Biotech,0.01
+Internet / E-Commerce,Travel / Tourism,0.01
+Internet / E-Commerce,Hotel / Restaurant,0.01
+Internet / E-Commerce,Real Estate,0.01
+Internet / E-Commerce,Paper / Wood,0.01
+Internet / E-Commerce,Sculpture / Craft,0.01
+Internet / E-Commerce,IT - Hardware / Networking,0
+Internet / E-Commerce,Engineering / Construction,0
+Internet / E-Commerce,Export-Import / Trading,0
+Internet / E-Commerce,Gems / Jewellery,0
+Internet / E-Commerce,Management Consulting / Strategy,0
+Internet / E-Commerce,Printing / Packaging,0
+Internet / E-Commerce,Personal Care / Beauty,0
+Internet / E-Commerce,M,0
+Internet / E-Commerce,Furnishings / Sanitaryware / Electricals,0
+Internet / E-Commerce,Metal / Iron / Steel,0
+Internet / E-Commerce,Architecture / Interior Design,0
+Internet / E-Commerce,Aviation / Airline,0
+Internet / E-Commerce,Fertilizers / Pesticides,0
+Internet / E-Commerce,NGO / Social Work,0
+Internet / E-Commerce,Power / Energy,0
+Internet / E-Commerce,Government Department,0
+Internet / E-Commerce,Legal,0
+Internet / E-Commerce,Security / Detective Services,0
+Internet / E-Commerce,Agriculture / Dairy,0
+Internet / E-Commerce,Animation,0
+Internet / E-Commerce,Cement / Building Material,0
+Internet / E-Commerce,Oil & Gas / Petroleum,0
+Internet / E-Commerce,Chemical / Plastic / Rubber / Glass,0
+Internet / E-Commerce,Environment / Waste Management,0
+Internet / E-Commerce,Printing / Packa,0
+Internet / E-Commerce,Sports / Fitness,0
+Internet / E-Commerce,Trav,0
+Internet / E-Commerce,A,0
+Internet / E-Commerce,BPO / Call Cente,0
+Internet / E-Commerce,Industrial Design,0
+Internet / E-Commerce,Matrimony,0
+Internet / E-Commerce,Secu,0
+IT - Hardware / Networking,BPO / Call Center,0.27
+IT - Hardware / Networking,IT - Software,0.19
+IT - Hardware / Networking,IT - Hardware / Networking,0.17
+IT - Hardware / Networking,KPO / Analytics,0.05
+IT - Hardware / Networking,Telecom / ISP,0.04
+IT - Hardware / Networking,Education / Training,0.03
+IT - Hardware / Networking,Manufacturing,0.02
+IT - Hardware / Networking,Fresher (No Industry),0.02
+IT - Hardware / Networking,Recruitment Services,0.02
+IT - Hardware / Networking,Banking / Financial Services,0.02
+IT - Hardware / Networking,Advertising / MR / PR / Events,0.02
+IT - Hardware / Networking,FMCG / F&B,0.01
+IT - Hardware / Networking,Medical / Healthcare,0.01
+IT - Hardware / Networking,Quality Certification,0.01
+IT - Hardware / Networking,Internet / E-Commerce,0.01
+IT - Hardware / Networking,Engineering / Construction,0.01
+IT - Hardware / Networking,Pharma / Biotech,0.01
+IT - Hardware / Networking,Hotel / Restaurant,0.01
+IT - Hardware / Networking,NGO / Social Work,0.01
+IT - Hardware / Networking,Automobile / Auto Ancillaries,0.01
+IT - Hardware / Networking,Media / Dotcom / Entertainment,0.01
+IT - Hardware / Networking,Aviation / Airline,0
+IT - Hardware / Networking,Paper / Wood,0
+IT - Hardware / Networking,Retail,0
+IT - Hardware / Networking,Insurance,0
+IT - Hardware / Networking,Logistics / Courier / Transportation,0
+IT - Hardware / Networking,Consumer Durables / Electronics,0
+IT - Hardware / Networking,Textile / Garments / Fashion,0
+IT - Hardware / Networking,Real Estate,0
+IT - Hardware / Networking,Travel / Tourism,0
+IT - Hardware / Networking,Export-Import / Trading,0
+IT - Hardware / Networking,Power / Energy,0
+IT - Hardware / Networking,Management Consulting / Strategy,0
+IT - Hardware / Networking,Furnishings / Sanitaryware / Electricals,0
+IT - Hardware / Networking,Industrial Design,0
+IT - Hardware / Networking,Sculpture / Craft,0
+IT - Hardware / Networking,Environment / Waste Management,0
+IT - Hardware / Networking,Architecture / Interior Design,0
+IT - Hardware / Networking,Fertilizers / Pesticides,0
+IT - Hardware / Networking,Cement / Building Material,0
+IT - Hardware / Networking,Chemical / Plastic / Rubber / Glass,0
+IT - Hardware / Networking,Gems / Jewellery,0
+IT - Hardware / Networking,Oil & Gas / Petroleum,0
+IT - Hardware / Networking,Personal Care / Beauty,0
+IT - Hardware / Networking,Aviation / Airlin,0
+IT - Hardware / Networking,Legal,0
+IT - Hardware / Networking,Security / Detective Services,0
+IT - Hardware / Networking,Agriculture / Dairy,0
+IT - Hardware / Networking,Government Department,0
+IT - Hardware / Networking,Metal / Iron / Steel,0
+IT - Hardware / Networking,Printing / Packaging,0
+IT - Software,IT - Software,0.64
+IT - Software,BPO / Call Center,0.11
+IT - Software,Advertising / MR / PR / Events,0.03
+IT - Software,Internet / E-Commerce,0.03
+IT - Software,Recruitment Services,0.02
+IT - Software,Banking / Financial Services,0.02
+IT - Software,IT - Hardware / Networking,0.01
+IT - Software,Education / Training,0.01
+IT - Software,Fresher (No Industry),0.01
+IT - Software,Manufacturing,0.01
+IT - Software,Telecom / ISP,0.01
+IT - Software,KPO / Analytics,0.01
+IT - Software,FMCG / F&B,0.01
+IT - Software,Media / Dotcom / Entertainment,0.01
+IT - Software,Quality Certification,0.01
+IT - Software,Pharma / Biotech,0.01
+IT - Software,Medical / Healthcare,0
+IT - Software,Logistics / Courier / Transportation,0
+IT - Software,Automobile / Auto Ancillaries,0
+IT - Software,Engineering / Construction,0
+IT - Software,Printing / Packaging,0
+IT - Software,Travel / Tourism,0
+IT - Software,Hotel / Restaurant,0
+IT - Software,Insurance,0
+IT - Software,Textile / Garments / Fashion,0
+IT - Software,Management Consulting / Strategy,0
+IT - Software,Retail,0
+IT - Software,Consumer Durables / Electronics,0
+IT - Software,Sculpture / Craft,0
+IT - Software,Personal Care / Beauty,0
+IT - Software,Aviation / Airline,0
+IT - Software,Real Estate,0
+IT - Software,Power / Energy,0
+IT - Software,Industrial Design,0
+IT - Software,NGO / Social Work,0
+IT - Software,Export-Import / Trading,0
+IT - Software,M,0
+IT - Software,Architecture / Interior Design,0
+IT - Software,Paper / Wood,0
+IT - Software,Legal,0
+IT - Software,Oil & Gas / Petroleum,0
+IT - Software,Government Department,0
+IT - Software,Cement / Building Material,0
+IT - Software,Security / Detective Services,0
+IT - Software,Chemical / Plastic / Rubber / Glass,0
+IT - Software,Animation,0
+IT - Software,Environment / Waste Management,0
+IT - Software,Fertilizers / Pesticides,0
+IT - Software,Gems / Jewellery,0
+IT - Software,Furnishings / Sanitaryware / Electricals,0
+IT - Software,IT,0
+IT - Software,Agriculture / Dairy,0
+IT - Software,Metal / Iron / Steel,0
+IT - Software,Astrology,0
+IT - Software,A,0
+IT - Software,BPO / Call Cente,0
+IT - Software,Matrimony,0
+IT - Software,Mining,0
+IT - Software,Paint,0
+IT - Software,Veterinary Science / Pet Care,0
+IT - Software,Banking /,0
+IT - Software,Logistics / Courier / Tra,0
+IT - Software,Secu,0
+IT - Software,Sports / Fitness,0
+KPO / Analytics,BPO / Call Center,0.36
+KPO / Analytics,IT - Software,0.14
+KPO / Analytics,Banking / Financial Services,0.08
+KPO / Analytics,Education / Training,0.04
+KPO / Analytics,Recruitment Services,0.04
+KPO / Analytics,Advertising / MR / PR / Events,0.03
+KPO / Analytics,Internet / E-Commerce,0.03
+KPO / Analytics,Fresher (No Industry),0.03
+KPO / Analytics,FMCG / F&B,0.03
+KPO / Analytics,Medical / Healthcare,0.02
+KPO / Analytics,Telecom / ISP,0.02
+KPO / Analytics,KPO / Analytics,0.02
+KPO / Analytics,Manufacturing,0.02
+KPO / Analytics,Insurance,0.01
+KPO / Analytics,IT - Hardware / Networking,0.01
+KPO / Analytics,Travel / Tourism,0.01
+KPO / Analytics,Quality Certification,0.01
+KPO / Analytics,Engineering / Construction,0.01
+KPO / Analytics,Legal,0.01
+KPO / Analytics,Management Consulting / Strategy,0.01
+KPO / Analytics,Automobile / Auto Ancillaries,0.01
+KPO / Analytics,Pharma / Biotech,0.01
+KPO / Analytics,Real Estate,0.01
+KPO / Analytics,Export-Import / Trading,0.01
+KPO / Analytics,Hotel / Restaurant,0.01
+KPO / Analytics,Aviation / Airline,0
+KPO / Analytics,Logistics / Courier / Transportation,0
+KPO / Analytics,Media / Dotcom / Entertainment,0
+KPO / Analytics,Personal Care / Beauty,0
+KPO / Analytics,Power / Energy,0
+KPO / Analytics,Retail,0
+KPO / Analytics,Security / Detective Services,0
+KPO / Analytics,Textile / Garments / Fashion,0
+KPO / Analytics,Animation,0
+KPO / Analytics,Architecture / Interior Design,0
+KPO / Analytics,Oil & Gas / Petroleum,0
+KPO / Analytics,Chemical / Plastic / Rubber / Glass,0
+KPO / Analytics,Consumer Durables / Electronics,0
+KPO / Analytics,Furnishings / Sanitaryware / Electricals,0
+KPO / Analytics,Gems / Jewellery,0
+KPO / Analytics,Merchant Navy,0
+KPO / Analytics,Metal / Iron / Steel,0
+KPO / Analytics,NGO / Social Work,0
+KPO / Analytics,Paper / Wood,0
+Legal,Legal,0.21
+Legal,Recruitment Services,0.12
+Legal,BPO / Call Center,0.12
+Legal,Manufacturing,0.11
+Legal,Banking / Financial Services,0.09
+Legal,FMCG / F&B,0.04
+Legal,IT - Software,0.03
+Legal,Fresher (No Industry),0.03
+Legal,Textile / Garments / Fashion,0.03
+Legal,Real Estate,0.02
+Legal,Education / Training,0.02
+Legal,Internet / E-Commerce,0.02
+Legal,Management Consulting / Strategy,0.02
+Legal,Gems / Jewellery,0.01
+Legal,Logistics / Courier / Transportation,0.01
+Legal,Medical / Healthcare,0.01
+Legal,Pharma / Biotech,0.01
+Legal,Export-Import / Trading,0.01
+Legal,Advertising / MR / PR / Events,0.01
+Legal,Telecom / ISP,0.01
+Legal,Automobile / Auto Ancillaries,0.01
+Legal,Hotel / Restaurant,0.01
+Legal,Insurance,0.01
+Legal,Quality Certification,0.01
+Legal,Security / Detective Services,0.01
+Legal,Engineering / Construction,0.01
+Legal,Environment / Waste Management,0.01
+Legal,Fertilizers / Pesticides,0
+Legal,Paper / Wood,0
+Legal,Retail,0
+Legal,Agriculture / Dairy,0
+Legal,Architecture / Interior Design,0
+Legal,Chemical / Plastic / Rubber / Glass,0
+Legal,IT - Hardware / Networking,0
+Legal,Furnishings / Sanitaryware / Electricals,0
+Legal,KPO / Analytics,0
+Legal,Media / Dotcom / Entertainment,0
+Legal,NGO / Social Work,0
+Legal,Power / Energy,0
+Legal,Printing / Packaging,0
+Legal,Aviation / Airline,0
+Legal,Matrimony,0
+Legal,Personal Care / Beauty,0
+Legal,Animation,0
+Legal,Consumer Durables / Electronics,0
+Legal,Sports / Fitness,0
+Legal,Travel / Tourism,0
+Logistics / Courier / Transportation,BPO / Call Center,0.2
+Logistics / Courier / Transportation,Logistics / Courier / Transportation,0.12
+Logistics / Courier / Transportation,FMCG / F&B,0.06
+Logistics / Courier / Transportation,IT - Software,0.06
+Logistics / Courier / Transportation,Fresher (No Industry),0.06
+Logistics / Courier / Transportation,Textile / Garments / Fashion,0.05
+Logistics / Courier / Transportation,Manufacturing,0.05
+Logistics / Courier / Transportation,Internet / E-Commerce,0.04
+Logistics / Courier / Transportation,Banking / Financial Services,0.04
+Logistics / Courier / Transportation,Advertising / MR / PR / Events,0.03
+Logistics / Courier / Transportation,Recruitment Services,0.03
+Logistics / Courier / Transportation,Pharma / Biotech,0.02
+Logistics / Courier / Transportation,Education / Training,0.02
+Logistics / Courier / Transportation,Telecom / ISP,0.02
+Logistics / Courier / Transportation,Automobile / Auto Ancillaries,0.01
+Logistics / Courier / Transportation,Engineering / Construction,0.01
+Logistics / Courier / Transportation,Travel / Tourism,0.01
+Logistics / Courier / Transportation,Export-Import / Trading,0.01
+Logistics / Courier / Transportation,Medical / Healthcare,0.01
+Logistics / Courier / Transportation,Real Estate,0.01
+Logistics / Courier / Transportation,Hotel / Restaurant,0.01
+Logistics / Courier / Transportation,Retail,0.01
+Logistics / Courier / Transportation,Insurance,0.01
+Logistics / Courier / Transportation,Quality Certification,0.01
+Logistics / Courier / Transportation,IT - Hardware / Networking,0.01
+Logistics / Courier / Transportation,Paper / Wood,0.01
+Logistics / Courier / Transportation,Gems / Jewellery,0.01
+Logistics / Courier / Transportation,Chemical / Plastic / Rubber / Glass,0
+Logistics / Courier / Transportation,Consumer Durables / Electronics,0
+Logistics / Courier / Transportation,Power / Energy,0
+Logistics / Courier / Transportation,Sculpture / Craft,0
+Logistics / Courier / Transportation,KPO / Analytics,0
+Logistics / Courier / Transportation,Media / Dotcom / Entertainment,0
+Logistics / Courier / Transportation,Oil & Gas / Petroleum,0
+Logistics / Courier / Transportation,Management Consulting / Strategy,0
+Logistics / Courier / Transportation,Printing / Packaging,0
+Logistics / Courier / Transportation,Security / Detective Services,0
+Logistics / Courier / Transportation,Agriculture / Dairy,0
+Logistics / Courier / Transportation,Architecture / Interior Design,0
+Logistics / Courier / Transportation,Aviation / Airline,0
+Logistics / Courier / Transportation,Cement / Building Material,0
+Logistics / Courier / Transportation,Environment / Waste Management,0
+Logistics / Courier / Transportation,Fertilizers / Pesticides,0
+Logistics / Courier / Transportation,Personal Care / Beauty,0
+Logistics / Courier / Transportation,Animation,0
+Logistics / Courier / Transportation,Government Department,0
+Logistics / Courier / Transportation,Legal,0
+Logistics / Courier / Transportation,Mining,0
+Logistics / Courier / Transportation,NGO / Social Work,0
+Logistics / Courier / Transportation,Chemical / Plast,0
+Logistics / Courier / Transportation,Engineering / Constructio,0
+Logistics / Courier / Transportation,Fresher (No ,0
+Logistics / Courier / Transportation,Gifts / Toys / Stationary,0
+Logistics / Courier / Transportation,Industrial Design,0
+Logistics / Courier / Transportation,Metal / Iron / Steel,0
+Logistics / Courier / Transportation,Paint,0
+Logistics / Courier / Transportation,Sports / Fitness,0
+Logistics / Courier / Transportation,Trav,0
+Logistics / Courier / Transportation,Unskilled Labor / Domestic Help,0
+Management Consulting / Strategy,BPO / Call Center,0.15
+Management Consulting / Strategy,IT - Software,0.11
+Management Consulting / Strategy,Banking / Financial Services,0.1
+Management Consulting / Strategy,Recruitment Services,0.09
+Management Consulting / Strategy,Manufacturing,0.06
+Management Consulting / Strategy,Education / Training,0.04
+Management Consulting / Strategy,Advertising / MR / PR / Events,0.04
+Management Consulting / Strategy,Fresher (No Industry),0.03
+Management Consulting / Strategy,Quality Certification,0.03
+Management Consulting / Strategy,Internet / E-Commerce,0.03
+Management Consulting / Strategy,FMCG / F&B,0.03
+Management Consulting / Strategy,Automobile / Auto Ancillaries,0.02
+Management Consulting / Strategy,Pharma / Biotech,0.02
+Management Consulting / Strategy,Engineering / Construction,0.02
+Management Consulting / Strategy,Logistics / Courier / Transportation,0.02
+Management Consulting / Strategy,Medical / Healthcare,0.02
+Management Consulting / Strategy,Insurance,0.01
+Management Consulting / Strategy,Management Consulting / Strategy,0.01
+Management Consulting / Strategy,Textile / Garments / Fashion,0.01
+Management Consulting / Strategy,Real Estate,0.01
+Management Consulting / Strategy,Retail,0.01
+Management Consulting / Strategy,Hotel / Restaurant,0.01
+Management Consulting / Strategy,Power / Energy,0.01
+Management Consulting / Strategy,Travel / Tourism,0.01
+Management Consulting / Strategy,Telecom / ISP,0.01
+Management Consulting / Strategy,KPO / Analytics,0.01
+Management Consulting / Strategy,Export-Import / Trading,0.01
+Management Consulting / Strategy,Legal,0.01
+Management Consulting / Strategy,IT - Hardware / Networking,0.01
+Management Consulting / Strategy,Sculpture / Craft,0.01
+Management Consulting / Strategy,NGO / Social Work,0.01
+Management Consulting / Strategy,Printing / Packaging,0.01
+Management Consulting / Strategy,Aviation / Airline,0
+Management Consulting / Strategy,Consumer Durables / Electronics,0
+Management Consulting / Strategy,Paper / Wood,0
+Management Consulting / Strategy,Security / Detective Services,0
+Management Consulting / Strategy,Cement / Building Material,0
+Management Consulting / Strategy,M,0
+Management Consulting / Strategy,Personal Care / Beauty,0
+Management Consulting / Strategy,Animation,0
+Management Consulting / Strategy,Media / Dotcom / Entertainment,0
+Management Consulting / Strategy,Oil & Gas / Petroleum,0
+Management Consulting / Strategy,Agriculture / Dairy,0
+Management Consulting / Strategy,Architecture / Interior Design,0
+Management Consulting / Strategy,Chemical / Plastic / Rubber / Glass,0
+Management Consulting / Strategy,Environment / Waste Management,0
+Management Consulting / Strategy,Mining,0
+Management Consulting / Strategy,Astrology,0
+Management Consulting / Strategy,Fertilizers / Pesticides,0
+Management Consulting / Strategy,Gems / Jewellery,0
+Management Consulting / Strategy,Government Department,0
+Manufacturing,Manufacturing,0.22
+Manufacturing,BPO / Call Center,0.12
+Manufacturing,Fresher (No Industry),0.06
+Manufacturing,IT - Software,0.06
+Manufacturing,Engineering / Construction,0.05
+Manufacturing,Automobile / Auto Ancillaries,0.05
+Manufacturing,Textile / Garments / Fashion,0.04
+Manufacturing,Banking / Financial Services,0.04
+Manufacturing,FMCG / F&B,0.04
+Manufacturing,Pharma / Biotech,0.03
+Manufacturing,Recruitment Services,0.02
+Manufacturing,Education / Training,0.02
+Manufacturing,Medical / Healthcare,0.02
+Manufacturing,Paper / Wood,0.02
+Manufacturing,Internet / E-Commerce,0.02
+Manufacturing,Logistics / Courier / Transportation,0.01
+Manufacturing,Telecom / ISP,0.01
+Manufacturing,Advertising / MR / PR / Events,0.01
+Manufacturing,Architecture / Interior Design,0.01
+Manufacturing,Quality Certification,0.01
+Manufacturing,Power / Energy,0.01
+Manufacturing,Export-Import / Trading,0.01
+Manufacturing,Consumer Durables / Electronics,0.01
+Manufacturing,Hotel / Restaurant,0.01
+Manufacturing,IT - Hardware / Networking,0.01
+Manufacturing,Insurance,0.01
+Manufacturing,Chemical / Plastic / Rubber / Glass,0.01
+Manufacturing,Real Estate,0.01
+Manufacturing,Retail,0.01
+Manufacturing,KPO / Analytics,0.01
+Manufacturing,Fertilizers / Pesticides,0
+Manufacturing,Auto,0
+Manufacturing,Travel / Tourism,0
+Manufacturing,Cement / Building Material,0
+Manufacturing,Oil & Gas / Petroleum,0
+Manufacturing,Printing / Packaging,0
+Manufacturing,Gems / Jewellery,0
+Manufacturing,Aviation / Airline,0
+Manufacturing,Management Consulting / Strategy,0
+Manufacturing,Metal / Iron / Steel,0
+Manufacturing,Personal Care / Beauty,0
+Manufacturing,Media / Dotcom / Entertainment,0
+Manufacturing,Legal,0
+Manufacturing,NGO / Social Work,0
+Manufacturing,Agriculture / Dairy,0
+Manufacturing,Environment / Waste Management,0
+Manufacturing,Furnishings / Sanitaryware / Electricals,0
+Manufacturing,Sculpture / Craft,0
+Manufacturing,Industrial Design,0
+Manufacturing,Mining,0
+Manufacturing,Paint,0
+Manufacturing,Security / Detective Services,0
+Manufacturing,Animation,0
+Manufacturing,Government Department,0
+Manufacturing,M,0
+Manufacturing,Sports / Fitness,0
+Manufacturing,Unskilled Labor / Domestic Help,0
+Manufacturing,A,0
+Manufacturing,Matrimony,0
+Manufacturing,Printing / Packa,0
+Manufacturing,Astrology,0
+Manufacturing,Aviation / Airlin,0
+Manufacturing,Banking /,0
+Manufacturing,Chemical / Plast,0
+Manufacturing,Fresher (No ,0
+Manufacturing,Gifts / Toys / Stationary,0
+Manufacturing,Merchant Navy,0
+Matrimony,BPO / Call Center,0.33
+Matrimony,Quality Certification,0.1
+Matrimony,Banking / Financial Services,0.07
+Matrimony,Internet / E-Commerce,0.07
+Matrimony,Advertising / MR / PR / Events,0.05
+Matrimony,Automobile / Auto Ancillaries,0.05
+Matrimony,Education / Training,0.05
+Matrimony,Fresher (No Industry),0.05
+Matrimony,IT - Software,0.05
+Matrimony,Media / Dotcom / Entertainment,0.05
+Matrimony,Aviation / Airline,0.02
+Matrimony,Environment / Waste Management,0.02
+Matrimony,Hotel / Restaurant,0.02
+Matrimony,KPO / Analytics,0.02
+Matrimony,Manufacturing,0.02
+Matrimony,Travel / Tourism,0.02
+Media / Dotcom / Entertainment,BPO / Call Center,0.16
+Media / Dotcom / Entertainment,IT - Software,0.15
+Media / Dotcom / Entertainment,Media / Dotcom / Entertainment,0.1
+Media / Dotcom / Entertainment,Advertising / MR / PR / Events,0.09
+Media / Dotcom / Entertainment,Internet / E-Commerce,0.06
+Media / Dotcom / Entertainment,Education / Training,0.05
+Media / Dotcom / Entertainment,Banking / Financial Services,0.04
+Media / Dotcom / Entertainment,Manufacturing,0.03
+Media / Dotcom / Entertainment,Recruitment Services,0.03
+Media / Dotcom / Entertainment,Fresher (No Industry),0.03
+Media / Dotcom / Entertainment,Textile / Garments / Fashion,0.02
+Media / Dotcom / Entertainment,M,0.02
+Media / Dotcom / Entertainment,Quality Certification,0.02
+Media / Dotcom / Entertainment,FMCG / F&B,0.02
+Media / Dotcom / Entertainment,Printing / Packaging,0.02
+Media / Dotcom / Entertainment,Automobile / Auto Ancillaries,0.01
+Media / Dotcom / Entertainment,Medical / Healthcare,0.01
+Media / Dotcom / Entertainment,Insurance,0.01
+Media / Dotcom / Entertainment,Pharma / Biotech,0.01
+Media / Dotcom / Entertainment,Telecom / ISP,0.01
+Media / Dotcom / Entertainment,Hotel / Restaurant,0.01
+Media / Dotcom / Entertainment,Real Estate,0.01
+Media / Dotcom / Entertainment,Travel / Tourism,0.01
+Media / Dotcom / Entertainment,Printing / Packa,0.01
+Media / Dotcom / Entertainment,IT - Hardware / Networking,0.01
+Media / Dotcom / Entertainment,Paper / Wood,0.01
+Media / Dotcom / Entertainment,Engineering / Construction,0.01
+Media / Dotcom / Entertainment,Legal,0.01
+Media / Dotcom / Entertainment,NGO / Social Work,0.01
+Media / Dotcom / Entertainment,Consumer Durables / Electronics,0
+Media / Dotcom / Entertainment,Gems / Jewellery,0
+Media / Dotcom / Entertainment,KPO / Analytics,0
+Media / Dotcom / Entertainment,Logistics / Courier / Transportation,0
+Media / Dotcom / Entertainment,Animation,0
+Media / Dotcom / Entertainment,Management Consulting / Strategy,0
+Media / Dotcom / Entertainment,Retail,0
+Media / Dotcom / Entertainment,Architecture / Interior Design,0
+Media / Dotcom / Entertainment,Aviation / Airline,0
+Media / Dotcom / Entertainment,Environment / Waste Management,0
+Media / Dotcom / Entertainment,Fertilizers / Pesticides,0
+Media / Dotcom / Entertainment,Oil & Gas / Petroleum,0
+Media / Dotcom / Entertainment,Export-Import / Trading,0
+Media / Dotcom / Entertainment,Power / Energy,0
+Media / Dotcom / Entertainment,Sculpture / Craft,0
+Media / Dotcom / Entertainment,Cement / Building Material,0
+Media / Dotcom / Entertainment,Chemical / Plastic / Rubber / Glass,0
+Media / Dotcom / Entertainment,Industrial Design,0
+Media / Dotcom / Entertainment,Metal / Iron / Steel,0
+Media / Dotcom / Entertainment,Military / Police / Arms & Ammunition,0
+Media / Dotcom / Entertainment,Personal Care / Beauty,0
+Medical / Healthcare,Medical / Healthcare,0.41
+Medical / Healthcare,BPO / Call Center,0.13
+Medical / Healthcare,IT - Software,0.09
+Medical / Healthcare,Pharma / Biotech,0.06
+Medical / Healthcare,Manufacturing,0.03
+Medical / Healthcare,Education / Training,0.03
+Medical / Healthcare,Banking / Financial Services,0.02
+Medical / Healthcare,Fresher (No Industry),0.02
+Medical / Healthcare,Recruitment Services,0.02
+Medical / Healthcare,Advertising / MR / PR / Events,0.02
+Medical / Healthcare,Quality Certification,0.02
+Medical / Healthcare,FMCG / F&B,0.01
+Medical / Healthcare,Internet / E-Commerce,0.01
+Medical / Healthcare,Engineering / Construction,0.01
+Medical / Healthcare,Insurance,0.01
+Medical / Healthcare,Hotel / Restaurant,0.01
+Medical / Healthcare,Textile / Garments / Fashion,0.01
+Medical / Healthcare,Paper / Wood,0.01
+Medical / Healthcare,Medical / Health,0.01
+Medical / Healthcare,Telecom / ISP,0
+Medical / Healthcare,IT - Hardware / Networking,0
+Medical / Healthcare,Media / Dotcom / Entertainment,0
+Medical / Healthcare,Automobile / Auto Ancillaries,0
+Medical / Healthcare,Retail,0
+Medical / Healthcare,Logistics / Courier / Transportation,0
+Medical / Healthcare,Personal Care / Beauty,0
+Medical / Healthcare,Power / Energy,0
+Medical / Healthcare,Travel / Tourism,0
+Medical / Healthcare,KPO / Analytics,0
+Medical / Healthcare,Consumer Durables / Electronics,0
+Medical / Healthcare,Management Consulting / Strategy,0
+Medical / Healthcare,Real Estate,0
+Medical / Healthcare,Aviation / Airline,0
+Medical / Healthcare,NGO / Social Work,0
+Medical / Healthcare,Export-Import / Trading,0
+Medical / Healthcare,Legal,0
+Medical / Healthcare,Chemical / Plastic / Rubber / Glass,0
+Medical / Healthcare,Oil & Gas / Petroleum,0
+Medical / Healthcare,Sculpture / Craft,0
+Medical / Healthcare,Security / Detective Services,0
+Medical / Healthcare,Architecture / Interior Design,0
+Medical / Healthcare,Furnishings / Sanitaryware / Electricals,0
+Medical / Healthcare,Government Department,0
+Medical / Healthcare,Printing / Packaging,0
+Medical / Healthcare,Agriculture / Dairy,0
+Medical / Healthcare,Cement / Building Material,0
+Medical / Healthcare,Fertilizers / Pesticides,0
+Medical / Healthcare,Gems / Jewellery,0
+Medical / Healthcare,Metal / Iron / Steel,0
+Medical / Healthcare,Animation,0
+Medical / Healthcare,Environment / Waste Management,0
+Medical / Healthcare,Sports / Fitness,0
+Medical / Healthcare,M,0
+Medical / Healthcare,Matrimony,0
+Medical / Healthcare,Paint,0
+Medical / Healthcare,A,0
+Medical / Healthcare,Astrology,0
+Medical / Healthcare,Industrial Design,0
+Medical / Healthcare,Trav,0
+Merchant Navy,BPO / Call Center,0.18
+Merchant Navy,Manufacturing,0.11
+Merchant Navy,Merchant Navy,0.11
+Merchant Navy,Engineering / Construction,0.09
+Merchant Navy,Banking / Financial Services,0.05
+Merchant Navy,Fresher (No Industry),0.05
+Merchant Navy,IT - Software,0.05
+Merchant Navy,Automobile / Auto Ancillaries,0.04
+Merchant Navy,Logistics / Courier / Transportation,0.04
+Merchant Navy,Power / Energy,0.04
+Merchant Navy,Advertising / MR / PR / Events,0.02
+Merchant Navy,Aviation / Airline,0.02
+Merchant Navy,Consumer Durables / Electronics,0.02
+Merchant Navy,Education / Training,0.02
+Merchant Navy,Environment / Waste Management,0.02
+Merchant Navy,FMCG / F&B,0.02
+Merchant Navy,Hotel / Restaurant,0.02
+Merchant Navy,KPO / Analytics,0.02
+Merchant Navy,Pharma / Biotech,0.02
+Merchant Navy,Real Estate,0.02
+Merchant Navy,Retail,0.02
+Merchant Navy,Security / Detective Services,0.02
+Merchant Navy,Telecom / ISP,0.02
+Merchant Navy,Textile / Garments / Fashion,0.02
+Metal / Iron / Steel,Manufacturing,0.19
+Metal / Iron / Steel,BPO / Call Center,0.11
+Metal / Iron / Steel,Fresher (No Industry),0.09
+Metal / Iron / Steel,Engineering / Construction,0.07
+Metal / Iron / Steel,Textile / Garments / Fashion,0.04
+Metal / Iron / Steel,Automobile / Auto Ancillaries,0.04
+Metal / Iron / Steel,Pharma / Biotech,0.04
+Metal / Iron / Steel,Banking / Financial Services,0.04
+Metal / Iron / Steel,IT - Software,0.04
+Metal / Iron / Steel,FMCG / F&B,0.03
+Metal / Iron / Steel,Recruitment Services,0.03
+Metal / Iron / Steel,Logistics / Courier / Transportation,0.02
+Metal / Iron / Steel,Education / Training,0.02
+Metal / Iron / Steel,Metal / Iron / Steel,0.02
+Metal / Iron / Steel,Paper / Wood,0.02
+Metal / Iron / Steel,Advertising / MR / PR / Events,0.01
+Metal / Iron / Steel,Power / Energy,0.01
+Metal / Iron / Steel,Chemical / Plastic / Rubber / Glass,0.01
+Metal / Iron / Steel,Telecom / ISP,0.01
+Metal / Iron / Steel,Insurance,0.01
+Metal / Iron / Steel,Oil & Gas / Petroleum,0.01
+Metal / Iron / Steel,Hotel / Restaurant,0.01
+Metal / Iron / Steel,Medical / Healthcare,0.01
+Metal / Iron / Steel,Real Estate,0.01
+Metal / Iron / Steel,Consumer Durables / Electronics,0.01
+Metal / Iron / Steel,Export-Import / Trading,0.01
+Metal / Iron / Steel,Media / Dotcom / Entertainment,0.01
+Metal / Iron / Steel,Internet / E-Commerce,0.01
+Metal / Iron / Steel,Printing / Packaging,0.01
+Metal / Iron / Steel,Quality Certification,0.01
+Metal / Iron / Steel,Cement / Building Material,0.01
+Metal / Iron / Steel,Environment / Waste Management,0.01
+Metal / Iron / Steel,Gems / Jewellery,0.01
+Metal / Iron / Steel,Management Consulting / Strategy,0.01
+Metal / Iron / Steel,Retail,0.01
+Metal / Iron / Steel,Security / Detective Services,0.01
+Metal / Iron / Steel,Travel / Tourism,0.01
+Metal / Iron / Steel,Architecture / Interior Design,0
+Metal / Iron / Steel,Furnishings / Sanitaryware / Electricals,0
+Metal / Iron / Steel,IT - Hardware / Networking,0
+Metal / Iron / Steel,KPO / Analytics,0
+Metal / Iron / Steel,Agriculture / Dairy,0
+Metal / Iron / Steel,Engineering / Constructio,0
+Metal / Iron / Steel,Fertilizers / Pesticides,0
+Metal / Iron / Steel,Mining,0
+Metal / Iron / Steel,NGO / Social Work,0
+Metal / Iron / Steel,Animation,0
+Metal / Iron / Steel,Legal,0
+Metal / Iron / Steel,Paint,0
+Metal / Iron / Steel,Personal Care / Beauty,0
+Military / Police / Arms & Ammunition,BPO / Call Center,0.21
+Military / Police / Arms & Ammunition,IT - Software,0.1
+Military / Police / Arms & Ammunition,Manufacturing,0.1
+Military / Police / Arms & Ammunition,Engineering / Construction,0.07
+Military / Police / Arms & Ammunition,Fresher (No Industry),0.07
+Military / Police / Arms & Ammunition,Medical / Healthcare,0.06
+Military / Police / Arms & Ammunition,Security / Detective Services,0.06
+Military / Police / Arms & Ammunition,Textile / Garments / Fashion,0.06
+Military / Police / Arms & Ammunition,Education / Training,0.04
+Military / Police / Arms & Ammunition,Banking / Financial Services,0.03
+Military / Police / Arms & Ammunition,Recruitment Services,0.03
+Military / Police / Arms & Ammunition,Hotel / Restaurant,0.02
+Military / Police / Arms & Ammunition,Internet / E-Commerce,0.02
+Military / Police / Arms & Ammunition,Advertising / MR / PR / Events,0.01
+Military / Police / Arms & Ammunition,Cement / Building Material,0.01
+Military / Police / Arms & Ammunition,FMCG / F&B,0.01
+Military / Police / Arms & Ammunition,Furnishings / Sanitaryware / Electricals,0.01
+Military / Police / Arms & Ammunition,Government Department,0.01
+Military / Police / Arms & Ammunition,Insurance,0.01
+Military / Police / Arms & Ammunition,Legal,0.01
+Military / Police / Arms & Ammunition,Metal / Iron / Steel,0.01
+Military / Police / Arms & Ammunition,Pharma / Biotech,0.01
+Military / Police / Arms & Ammunition,Real Estate,0.01
+Military / Police / Arms & Ammunition,Sculpture / Craft,0.01
+Mining,BPO / Call Center,0.19
+Mining,Engineering / Construction,0.09
+Mining,Banking / Financial Services,0.07
+Mining,Mining,0.07
+Mining,Recruitment Services,0.07
+Mining,Fresher (No Industry),0.06
+Mining,IT - Software,0.05
+Mining,Manufacturing,0.05
+Mining,Textile / Garments / Fashion,0.05
+Mining,Pharma / Biotech,0.04
+Mining,Medical / Healthcare,0.03
+Mining,Hotel / Restaurant,0.03
+Mining,Logistics / Courier / Transportation,0.03
+Mining,Cement / Building Material,0.01
+Mining,Consumer Durables / Electronics,0.01
+Mining,Education / Training,0.01
+Mining,FMCG / F&B,0.01
+Mining,IT - Hardware / Networking,0.01
+Mining,Oil & Gas / Petroleum,0.01
+Mining,Power / Energy,0.01
+Mining,Real Estate,0.01
+Mining,Telecom / ISP,0.01
+Mining,Advertising / MR / PR / Events,0.01
+Mining,Agriculture / Dairy,0.01
+Mining,Chemical / Plastic / Rubber / Glass,0.01
+Mining,Export-Import / Trading,0.01
+Mining,Internet / E-Commerce,0.01
+Mining,Legal,0.01
+Mining,Management Consulting / Strategy,0.01
+Mining,Paint,0.01
+Mining,Quality Certification,0.01
+Mining,Travel / Tourism,0.01
+NGO / Social Work,BPO / Call Center,0.3
+NGO / Social Work,NGO / Social Work,0.21
+NGO / Social Work,Education / Training,0.07
+NGO / Social Work,IT - Software,0.06
+NGO / Social Work,Banking / Financial Services,0.05
+NGO / Social Work,Fresher (No Industry),0.04
+NGO / Social Work,Recruitment Services,0.04
+NGO / Social Work,Manufacturing,0.03
+NGO / Social Work,FMCG / F&B,0.02
+NGO / Social Work,Internet / E-Commerce,0.02
+NGO / Social Work,Medical / Healthcare,0.02
+NGO / Social Work,Advertising / MR / PR / Events,0.02
+NGO / Social Work,Pharma / Biotech,0.01
+NGO / Social Work,Automobile / Auto Ancillaries,0.01
+NGO / Social Work,Engineering / Construction,0.01
+NGO / Social Work,Hotel / Restaurant,0.01
+NGO / Social Work,Telecom / ISP,0.01
+NGO / Social Work,Textile / Garments / Fashion,0.01
+NGO / Social Work,Government Department,0.01
+NGO / Social Work,Insurance,0.01
+NGO / Social Work,Logistics / Courier / Transportation,0.01
+NGO / Social Work,Paper / Wood,0.01
+NGO / Social Work,Quality Certification,0.01
+NGO / Social Work,Media / Dotcom / Entertainment,0
+NGO / Social Work,Retail,0
+NGO / Social Work,KPO / Analytics,0
+NGO / Social Work,Architecture / Interior Design,0
+NGO / Social Work,Consumer Durables / Electronics,0
+NGO / Social Work,IT - Hardware / Networking,0
+NGO / Social Work,Legal,0
+NGO / Social Work,Real Estate,0
+NGO / Social Work,Travel / Tourism,0
+NGO / Social Work,BPO / Call Cente,0
+NGO / Social Work,Furnishings / Sanitaryware / Electricals,0
+NGO / Social Work,Gems / Jewellery,0
+NGO / Social Work,Management Consulting / Strategy,0
+NGO / Social Work,Metal / Iron / Steel,0
+NGO / Social Work,Oil & Gas / Petroleum,0
+NGO / Social Work,Personal Care / Beauty,0
+NGO / Social Work,Printing / Packaging,0
+NGO / Social Work,Security / Detective Services,0
+None,BPO / Call Center,0.29
+None,IT - Software,0.2
+None,Banking / Financial Services,0.05
+None,Fresher (No Industry),0.05
+None,Education / Training,0.04
+None,Manufacturing,0.04
+None,Engineering / Construction,0.03
+None,Recruitment Services,0.03
+None,Internet / E-Commerce,0.02
+None,Medical / Healthcare,0.02
+None,Pharma / Biotech,0.02
+None,Telecom / ISP,0.02
+None,Advertising / MR / PR / Events,0.02
+None,FMCG / F&B,0.01
+None,IT - Hardware / Networking,0.01
+None,Automobile / Auto Ancillaries,0.01
+None,Hotel / Restaurant,0.01
+None,Textile / Garments / Fashion,0.01
+None,Quality Certification,0.01
+None,Insurance,0.01
+None,Real Estate,0.01
+None,Aviation / Airline,0.01
+None,KPO / Analytics,0.01
+None,Export-Import / Trading,0.01
+None,Travel / Tourism,0.01
+None,Architecture / Interior Design,0.01
+None,Media / Dotcom / Entertainment,0
+None,Legal,0
+None,Retail,0
+None,Logistics / Courier / Transportation,0
+None,Power / Energy,0
+None,Management Consulting / Strategy,0
+None,Printing / Packaging,0
+None,Consumer Durables / Electronics,0
+None,NGO / Social Work,0
+None,Personal Care / Beauty,0
+None,Environment / Waste Management,0
+None,Fertilizers / Pesticides,0
+None,Oil & Gas / Petroleum,0
+None,Paper / Wood,0
+None,Chemical / Plastic / Rubber / Glass,0
+None,Agriculture / Dairy,0
+None,Animation,0
+None,Government Department,0
+None,Gems / Jewellery,0
+None,Security / Detective Services,0
+None,Metal / Iron / Steel,0
+None,Astrology,0
+None,BPO / Call Cente,0
+None,Industrial Design,0
+None,Medical / Health,0
+None,Mining,0
+None,Paint,0
+None,Auto,0
+None,Cement / Building Material,0
+None,Gifts / Toys / Stationary,0
+None,M,0
+None,Merchant Navy,0
+None,Sports / Fitness,0
+None,Aviation / Airlin,0
+None,Banking /,0
+None,Furnishings / Sanitaryware / Electricals,0
+None,IT,0
+None,Matrimony,0
+None,Printing / Packa,0
+None,Trav,0
+None,Unskilled Labor / Domestic Help,0
+Oil & Gas / Petroleum,Engineering / Construction,0.18
+Oil & Gas / Petroleum,Manufacturing,0.12
+Oil & Gas / Petroleum,BPO / Call Center,0.12
+Oil & Gas / Petroleum,Oil & Gas / Petroleum,0.06
+Oil & Gas / Petroleum,IT - Software,0.06
+Oil & Gas / Petroleum,Recruitment Services,0.05
+Oil & Gas / Petroleum,Fresher (No Industry),0.05
+Oil & Gas / Petroleum,Pharma / Biotech,0.03
+Oil & Gas / Petroleum,Banking / Financial Services,0.03
+Oil & Gas / Petroleum,Automobile / Auto Ancillaries,0.03
+Oil & Gas / Petroleum,Education / Training,0.03
+Oil & Gas / Petroleum,FMCG / F&B,0.02
+Oil & Gas / Petroleum,Medical / Healthcare,0.02
+Oil & Gas / Petroleum,Power / Energy,0.02
+Oil & Gas / Petroleum,Advertising / MR / PR / Events,0.01
+Oil & Gas / Petroleum,Telecom / ISP,0.01
+Oil & Gas / Petroleum,Textile / Garments / Fashion,0.01
+Oil & Gas / Petroleum,Logistics / Courier / Transportation,0.01
+Oil & Gas / Petroleum,Hotel / Restaurant,0.01
+Oil & Gas / Petroleum,Mining,0.01
+Oil & Gas / Petroleum,Cement / Building Material,0.01
+Oil & Gas / Petroleum,Consumer Durables / Electronics,0.01
+Oil & Gas / Petroleum,Internet / E-Commerce,0.01
+Oil & Gas / Petroleum,Architecture / Interior Design,0.01
+Oil & Gas / Petroleum,Chemical / Plastic / Rubber / Glass,0.01
+Oil & Gas / Petroleum,Insurance,0.01
+Oil & Gas / Petroleum,Management Consulting / Strategy,0.01
+Oil & Gas / Petroleum,Quality Certification,0.01
+Oil & Gas / Petroleum,Fertilizers / Pesticides,0
+Oil & Gas / Petroleum,Aviation / Airline,0
+Oil & Gas / Petroleum,Export-Import / Trading,0
+Oil & Gas / Petroleum,IT - Hardware / Networking,0
+Oil & Gas / Petroleum,KPO / Analytics,0
+Oil & Gas / Petroleum,Legal,0
+Oil & Gas / Petroleum,Paper / Wood,0
+Oil & Gas / Petroleum,Real Estate,0
+Oil & Gas / Petroleum,Retail,0
+Oil & Gas / Petroleum,Metal / Iron / Steel,0
+Oil & Gas / Petroleum,M,0
+Oil & Gas / Petroleum,Paint,0
+Oil & Gas / Petroleum,Printing / Packaging,0
+Oil & Gas / Petroleum,Security / Detective Services,0
+Oil & Gas / Petroleum,Travel / Tourism,0
+Oil & Gas / Petroleum,Banking /,0
+Oil & Gas / Petroleum,Furnishings / Sanitaryware / Electricals,0
+Oil & Gas / Petroleum,Gems / Jewellery,0
+Oil & Gas / Petroleum,NGO / Social Work,0
+Oil & Gas / Petroleum,Personal Care / Beauty,0
+Oil & Gas / Petroleum,Unskilled Labor / Domestic Help,0
+Paint,BPO / Call Center,0.11
+Paint,Manufacturing,0.09
+Paint,FMCG / F&B,0.07
+Paint,Pharma / Biotech,0.07
+Paint,Fresher (No Industry),0.06
+Paint,IT - Software,0.06
+Paint,Banking / Financial Services,0.05
+Paint,Quality Certification,0.05
+Paint,Medical / Healthcare,0.04
+Paint,Textile / Garments / Fashion,0.04
+Paint,Insurance,0.03
+Paint,Management Consulting / Strategy,0.03
+Paint,Advertising / MR / PR / Events,0.03
+Paint,Chemical / Plastic / Rubber / Glass,0.03
+Paint,Cement / Building Material,0.02
+Paint,Education / Training,0.02
+Paint,Internet / E-Commerce,0.02
+Paint,Paint,0.02
+Paint,Automobile / Auto Ancillaries,0.02
+Paint,Engineering / Construction,0.02
+Paint,Paper / Wood,0.02
+Paint,Recruitment Services,0.02
+Paint,Retail,0.02
+Paint,Architecture / Interior Design,0.01
+Paint,Aviation / Airline,0.01
+Paint,Furnishings / Sanitaryware / Electricals,0.01
+Paint,Gems / Jewellery,0.01
+Paint,Hotel / Restaurant,0.01
+Paint,IT - Hardware / Networking,0.01
+Paint,Telecom / ISP,0.01
+Paint,Consumer Durables / Electronics,0.01
+Paint,Environment / Waste Management,0.01
+Paint,Export-Import / Trading,0.01
+Paint,Industrial Design,0.01
+Paint,KPO / Analytics,0.01
+Paint,Logistics / Courier / Transportation,0.01
+Paint,Printing / Packaging,0.01
+Paint,Real Estate,0.01
+Paint,Sculpture / Craft,0.01
+Paint,Travel / Tourism,0.01
+Paper / Wood,BPO / Call Center,0.24
+Paper / Wood,Paper / Wood,0.11
+Paper / Wood,Manufacturing,0.1
+Paper / Wood,IT - Software,0.06
+Paper / Wood,Fresher (No Industry),0.04
+Paper / Wood,Automobile / Auto Ancillaries,0.04
+Paper / Wood,Banking / Financial Services,0.04
+Paper / Wood,Education / Training,0.04
+Paper / Wood,Medical / Healthcare,0.04
+Paper / Wood,FMCG / F&B,0.03
+Paper / Wood,Quality Certification,0.03
+Paper / Wood,Recruitment Services,0.02
+Paper / Wood,Textile / Garments / Fashion,0.02
+Paper / Wood,Insurance,0.02
+Paper / Wood,Pharma / Biotech,0.02
+Paper / Wood,Engineering / Construction,0.01
+Paper / Wood,Fertilizers / Pesticides,0.01
+Paper / Wood,Real Estate,0.01
+Paper / Wood,Telecom / ISP,0.01
+Paper / Wood,Advertising / MR / PR / Events,0.01
+Paper / Wood,Export-Import / Trading,0.01
+Paper / Wood,Gems / Jewellery,0.01
+Paper / Wood,Hotel / Restaurant,0.01
+Paper / Wood,KPO / Analytics,0.01
+Paper / Wood,Oil & Gas / Petroleum,0.01
+Paper / Wood,Power / Energy,0.01
+Paper / Wood,Printing / Packaging,0.01
+Paper / Wood,Animation,0
+Paper / Wood,Architecture / Interior Design,0
+Paper / Wood,Banking /,0
+Paper / Wood,Furnishings / Sanitaryware / Electricals,0
+Paper / Wood,Legal,0
+Paper / Wood,Logistics / Courier / Transportation,0
+Personal Care / Beauty,BPO / Call Center,0.21
+Personal Care / Beauty,IT - Software,0.11
+Personal Care / Beauty,Personal Care / Beauty,0.06
+Personal Care / Beauty,Internet / E-Commerce,0.06
+Personal Care / Beauty,Banking / Financial Services,0.05
+Personal Care / Beauty,Fresher (No Industry),0.05
+Personal Care / Beauty,Retail,0.05
+Personal Care / Beauty,Advertising / MR / PR / Events,0.04
+Personal Care / Beauty,Education / Training,0.04
+Personal Care / Beauty,Manufacturing,0.04
+Personal Care / Beauty,FMCG / F&B,0.03
+Personal Care / Beauty,Hotel / Restaurant,0.03
+Personal Care / Beauty,Pharma / Biotech,0.03
+Personal Care / Beauty,Quality Certification,0.02
+Personal Care / Beauty,Recruitment Services,0.02
+Personal Care / Beauty,Insurance,0.01
+Personal Care / Beauty,Paper / Wood,0.01
+Personal Care / Beauty,Printing / Packaging,0.01
+Personal Care / Beauty,Travel / Tourism,0.01
+Personal Care / Beauty,Automobile / Auto Ancillaries,0.01
+Personal Care / Beauty,Engineering / Construction,0.01
+Personal Care / Beauty,KPO / Analytics,0.01
+Personal Care / Beauty,Media / Dotcom / Entertainment,0.01
+Personal Care / Beauty,Chemical / Plastic / Rubber / Glass,0
+Personal Care / Beauty,Consumer Durables / Electronics,0
+Personal Care / Beauty,Fertilizers / Pesticides,0
+Personal Care / Beauty,Logistics / Courier / Transportation,0
+Personal Care / Beauty,Medical / Healthcare,0
+Personal Care / Beauty,Metal / Iron / Steel,0
+Personal Care / Beauty,Power / Energy,0
+Personal Care / Beauty,Telecom / ISP,0
+Personal Care / Beauty,Textile / Garments / Fashion,0
+Pharma / Biotech,Pharma / Biotech,0.33
+Pharma / Biotech,Medical / Healthcare,0.14
+Pharma / Biotech,BPO / Call Center,0.09
+Pharma / Biotech,Manufacturing,0.05
+Pharma / Biotech,IT - Software,0.04
+Pharma / Biotech,Fresher (No Industry),0.03
+Pharma / Biotech,Education / Training,0.03
+Pharma / Biotech,FMCG / F&B,0.03
+Pharma / Biotech,Management Consulting / Strategy,0.02
+Pharma / Biotech,Recruitment Services,0.02
+Pharma / Biotech,Banking / Financial Services,0.02
+Pharma / Biotech,Engineering / Construction,0.02
+Pharma / Biotech,Advertising / MR / PR / Events,0.01
+Pharma / Biotech,Quality Certification,0.01
+Pharma / Biotech,Internet / E-Commerce,0.01
+Pharma / Biotech,Textile / Garments / Fashion,0.01
+Pharma / Biotech,Chemical / Plastic / Rubber / Glass,0.01
+Pharma / Biotech,Automobile / Auto Ancillaries,0.01
+Pharma / Biotech,Medical / Health,0.01
+Pharma / Biotech,Logistics / Courier / Transportation,0.01
+Pharma / Biotech,Hotel / Restaurant,0.01
+Pharma / Biotech,Telecom / ISP,0.01
+Pharma / Biotech,Paper / Wood,0.01
+Pharma / Biotech,Export-Import / Trading,0.01
+Pharma / Biotech,Insurance,0.01
+Pharma / Biotech,Printing / Packaging,0.01
+Pharma / Biotech,Cement / Building Material,0.01
+Pharma / Biotech,Real Estate,0.01
+Pharma / Biotech,Consumer Durables / Electronics,0
+Pharma / Biotech,Retail,0
+Pharma / Biotech,KPO / Analytics,0
+Pharma / Biotech,IT - Hardware / Networking,0
+Pharma / Biotech,Fertilizers / Pesticides,0
+Pharma / Biotech,Paint,0
+Pharma / Biotech,Environment / Waste Management,0
+Pharma / Biotech,Gems / Jewellery,0
+Pharma / Biotech,Legal,0
+Pharma / Biotech,Media / Dotcom / Entertainment,0
+Pharma / Biotech,Oil & Gas / Petroleum,0
+Pharma / Biotech,Power / Energy,0
+Pharma / Biotech,Travel / Tourism,0
+Pharma / Biotech,Animation,0
+Pharma / Biotech,Furnishings / Sanitaryware / Electricals,0
+Pharma / Biotech,Personal Care / Beauty,0
+Pharma / Biotech,Chemical / Plast,0
+Pharma / Biotech,M,0
+Pharma / Biotech,NGO / Social Work,0
+Pharma / Biotech,Agriculture / Dairy,0
+Pharma / Biotech,Architecture / Interior Design,0
+Pharma / Biotech,Aviation / Airline,0
+Pharma / Biotech,Metal / Iron / Steel,0
+Pharma / Biotech,Mining,0
+Pharma / Biotech,Printing / Packa,0
+Pharma / Biotech,Sculpture / Craft,0
+Politics,BPO / Call Center,0.63
+Politics,Fresher (No Industry),0.05
+Politics,Management Consulting / Strategy,0.05
+Politics,Telecom / ISP,0.05
+Politics,Advertising / MR / PR / Events,0.03
+Politics,Animation,0.03
+Politics,Banking / Financial Services,0.03
+Politics,Engineering / Construction,0.03
+Politics,Environment / Waste Management,0.03
+Politics,IT - Software,0.03
+Politics,KPO / Analytics,0.03
+Politics,Recruitment Services,0.03
+Politics,Security / Detective Services,0.03
+Power / Energy,Engineering / Construction,0.15
+Power / Energy,Manufacturing,0.15
+Power / Energy,BPO / Call Center,0.11
+Power / Energy,Power / Energy,0.09
+Power / Energy,Fresher (No Industry),0.07
+Power / Energy,IT - Software,0.07
+Power / Energy,Automobile / Auto Ancillaries,0.02
+Power / Energy,Banking / Financial Services,0.02
+Power / Energy,Education / Training,0.02
+Power / Energy,Medical / Healthcare,0.02
+Power / Energy,Telecom / ISP,0.02
+Power / Energy,Pharma / Biotech,0.02
+Power / Energy,Recruitment Services,0.02
+Power / Energy,Textile / Garments / Fashion,0.02
+Power / Energy,Advertising / MR / PR / Events,0.01
+Power / Energy,FMCG / F&B,0.01
+Power / Energy,Quality Certification,0.01
+Power / Energy,Oil & Gas / Petroleum,0.01
+Power / Energy,Consumer Durables / Electronics,0.01
+Power / Energy,Internet / E-Commerce,0.01
+Power / Energy,Paper / Wood,0.01
+Power / Energy,Real Estate,0.01
+Power / Energy,Environment / Waste Management,0.01
+Power / Energy,Hotel / Restaurant,0.01
+Power / Energy,KPO / Analytics,0.01
+Power / Energy,Management Consulting / Strategy,0.01
+Power / Energy,Cement / Building Material,0.01
+Power / Energy,Insurance,0.01
+Power / Energy,Architecture / Interior Design,0
+Power / Energy,Export-Import / Trading,0
+Power / Energy,Gems / Jewellery,0
+Power / Energy,Metal / Iron / Steel,0
+Power / Energy,Printing / Packaging,0
+Power / Energy,Retail,0
+Power / Energy,Travel / Tourism,0
+Power / Energy,Agriculture / Dairy,0
+Power / Energy,Fertilizers / Pesticides,0
+Power / Energy,IT - Hardware / Networking,0
+Power / Energy,Legal,0
+Power / Energy,Aviation / Airline,0
+Power / Energy,Furnishings / Sanitaryware / Electricals,0
+Power / Energy,Chemical / Plastic / Rubber / Glass,0
+Power / Energy,Industrial Design,0
+Power / Energy,Media / Dotcom / Entertainment,0
+Power / Energy,Personal Care / Beauty,0
+Power / Energy,Powe,0
+Power / Energy,Animation,0
+Power / Energy,Logistics / Courier / Transportation,0
+Power / Energy,Mining,0
+Power / Energy,NGO / Social Work,0
+Power / Energy,Paint,0
+Power / Energy,Sculpture / Craft,0
+Power / Energy,Unskilled Labor / Domestic Help,0
+Printing / Packaging,Printing / Packaging,0.15
+Printing / Packaging,BPO / Call Center,0.14
+Printing / Packaging,IT - Software,0.11
+Printing / Packaging,Manufacturing,0.08
+Printing / Packaging,Advertising / MR / PR / Events,0.06
+Printing / Packaging,Fresher (No Industry),0.05
+Printing / Packaging,FMCG / F&B,0.04
+Printing / Packaging,Banking / Financial Services,0.03
+Printing / Packaging,Pharma / Biotech,0.03
+Printing / Packaging,Automobile / Auto Ancillaries,0.03
+Printing / Packaging,Recruitment Services,0.02
+Printing / Packaging,Textile / Garments / Fashion,0.02
+Printing / Packaging,Education / Training,0.02
+Printing / Packaging,Internet / E-Commerce,0.02
+Printing / Packaging,Medical / Healthcare,0.02
+Printing / Packaging,Engineering / Construction,0.02
+Printing / Packaging,Logistics / Courier / Transportation,0.01
+Printing / Packaging,Paper / Wood,0.01
+Printing / Packaging,Hotel / Restaurant,0.01
+Printing / Packaging,Quality Certification,0.01
+Printing / Packaging,Chemical / Plastic / Rubber / Glass,0.01
+Printing / Packaging,Real Estate,0.01
+Printing / Packaging,IT - Hardware / Networking,0.01
+Printing / Packaging,Export-Import / Trading,0.01
+Printing / Packaging,Telecom / ISP,0.01
+Printing / Packaging,Fertilizers / Pesticides,0.01
+Printing / Packaging,Retail,0.01
+Printing / Packaging,Cement / Building Material,0
+Printing / Packaging,Consumer Durables / Electronics,0
+Printing / Packaging,Management Consulting / Strategy,0
+Printing / Packaging,KPO / Analytics,0
+Printing / Packaging,Metal / Iron / Steel,0
+Printing / Packaging,Printing / Packa,0
+Printing / Packaging,Architecture / Interior Design,0
+Printing / Packaging,Aviation / Airline,0
+Printing / Packaging,Furnishings / Sanitaryware / Electricals,0
+Printing / Packaging,Gems / Jewellery,0
+Printing / Packaging,Industrial Design,0
+Printing / Packaging,Legal,0
+Printing / Packaging,Travel / Tourism,0
+Printing / Packaging,Agriculture / Dairy,0
+Printing / Packaging,Animation,0
+Printing / Packaging,Auto,0
+Printing / Packaging,Media / Dotcom / Entertainment,0
+Printing / Packaging,Personal Care / Beauty,0
+Printing / Packaging,Power / Energy,0
+Quality Certification,BPO / Call Center,0.21
+Quality Certification,Manufacturing,0.13
+Quality Certification,Pharma / Biotech,0.08
+Quality Certification,Textile / Garments / Fashion,0.07
+Quality Certification,Fresher (No Industry),0.06
+Quality Certification,Engineering / Construction,0.05
+Quality Certification,Banking / Financial Services,0.05
+Quality Certification,IT - Software,0.04
+Quality Certification,Education / Training,0.03
+Quality Certification,Quality Certification,0.03
+Quality Certification,Internet / E-Commerce,0.03
+Quality Certification,FMCG / F&B,0.02
+Quality Certification,Recruitment Services,0.02
+Quality Certification,Insurance,0.02
+Quality Certification,Management Consulting / Strategy,0.02
+Quality Certification,Chemical / Plastic / Rubber / Glass,0.02
+Quality Certification,Medical / Healthcare,0.02
+Quality Certification,Cement / Building Material,0.01
+Quality Certification,IT - Hardware / Networking,0.01
+Quality Certification,KPO / Analytics,0.01
+Quality Certification,Automobile / Auto Ancillaries,0.01
+Quality Certification,Aviation / Airline,0.01
+Quality Certification,Paper / Wood,0.01
+Quality Certification,Power / Energy,0.01
+Quality Certification,Telecom / ISP,0.01
+Quality Certification,Advertising / MR / PR / Events,0
+Quality Certification,Consumer Durables / Electronics,0
+Quality Certification,Furnishings / Sanitaryware / Electricals,0
+Quality Certification,Gems / Jewellery,0
+Quality Certification,Legal,0
+Quality Certification,Logistics / Courier / Transportation,0
+Quality Certification,Media / Dotcom / Entertainment,0
+Quality Certification,NGO / Social Work,0
+Quality Certification,Paint,0
+Quality Certification,Travel / Tourism,0
+Real Estate,BPO / Call Center,0.14
+Real Estate,Real Estate,0.13
+Real Estate,Banking / Financial Services,0.08
+Real Estate,IT - Software,0.07
+Real Estate,Manufacturing,0.06
+Real Estate,Medical / Healthcare,0.05
+Real Estate,Engineering / Construction,0.05
+Real Estate,Advertising / MR / PR / Events,0.04
+Real Estate,Recruitment Services,0.03
+Real Estate,Education / Training,0.03
+Real Estate,Fresher (No Industry),0.03
+Real Estate,Internet / E-Commerce,0.03
+Real Estate,Quality Certification,0.03
+Real Estate,FMCG / F&B,0.02
+Real Estate,Insurance,0.02
+Real Estate,Automobile / Auto Ancillaries,0.02
+Real Estate,Pharma / Biotech,0.02
+Real Estate,Hotel / Restaurant,0.01
+Real Estate,Telecom / ISP,0.01
+Real Estate,Travel / Tourism,0.01
+Real Estate,Legal,0.01
+Real Estate,Logistics / Courier / Transportation,0.01
+Real Estate,Retail,0.01
+Real Estate,Gems / Jewellery,0.01
+Real Estate,Media / Dotcom / Entertainment,0.01
+Real Estate,Paper / Wood,0.01
+Real Estate,Power / Energy,0.01
+Real Estate,Export-Import / Trading,0.01
+Real Estate,Government Department,0.01
+Real Estate,Architecture / Interior Design,0.01
+Real Estate,Consumer Durables / Electronics,0.01
+Real Estate,IT - Hardware / Networking,0.01
+Real Estate,Textile / Garments / Fashion,0.01
+Real Estate,KPO / Analytics,0
+Real Estate,Personal Care / Beauty,0
+Real Estate,Aviation / Airline,0
+Real Estate,Management Consulting / Strategy,0
+Real Estate,Metal / Iron / Steel,0
+Real Estate,NGO / Social Work,0
+Real Estate,Chemical / Plastic / Rubber / Glass,0
+Real Estate,Environment / Waste Management,0
+Real Estate,Fertilizers / Pesticides,0
+Real Estate,Oil & Gas / Petroleum,0
+Real Estate,Printing / Packaging,0
+Real Estate,Banking /,0
+Real Estate,Furnishings / Sanitaryware / Electricals,0
+Real Estate,Cement / Building Material,0
+Real Estate,Security / Detective Services,0
+Real Estate,Sports / Fitness,0
+Real Estate,Gifts / Toys / Stationary,0
+Real Estate,M,0
+Real Estate,Matrimony,0
+Real Estate,Sculpture / Craft,0
+Recruitment Services,Recruitment Services,0.29
+Recruitment Services,BPO / Call Center,0.18
+Recruitment Services,IT - Software,0.09
+Recruitment Services,Pharma / Biotech,0.05
+Recruitment Services,Banking / Financial Services,0.04
+Recruitment Services,Fresher (No Industry),0.04
+Recruitment Services,Education / Training,0.03
+Recruitment Services,Manufacturing,0.03
+Recruitment Services,Automobile / Auto Ancillaries,0.02
+Recruitment Services,Advertising / MR / PR / Events,0.02
+Recruitment Services,Quality Certification,0.02
+Recruitment Services,FMCG / F&B,0.02
+Recruitment Services,Engineering / Construction,0.01
+Recruitment Services,Internet / E-Commerce,0.01
+Recruitment Services,Real Estate,0.01
+Recruitment Services,Hotel / Restaurant,0.01
+Recruitment Services,Medical / Healthcare,0.01
+Recruitment Services,IT - Hardware / Networking,0.01
+Recruitment Services,KPO / Analytics,0.01
+Recruitment Services,Logistics / Courier / Transportation,0.01
+Recruitment Services,Management Consulting / Strategy,0.01
+Recruitment Services,Retail,0.01
+Recruitment Services,Telecom / ISP,0.01
+Recruitment Services,Textile / Garments / Fashion,0.01
+Recruitment Services,Media / Dotcom / Entertainment,0.01
+Recruitment Services,Sculpture / Craft,0.01
+Recruitment Services,Travel / Tourism,0
+Recruitment Services,Animation,0
+Recruitment Services,Consumer Durables / Electronics,0
+Recruitment Services,Chemical / Plastic / Rubber / Glass,0
+Recruitment Services,Insurance,0
+Recruitment Services,M,0
+Recruitment Services,NGO / Social Work,0
+Recruitment Services,Architecture / Interior Design,0
+Recruitment Services,Fertilizers / Pesticides,0
+Recruitment Services,Legal,0
+Recruitment Services,Metal / Iron / Steel,0
+Recruitment Services,Oil & Gas / Petroleum,0
+Recruitment Services,Paper / Wood,0
+Recruitment Services,Personal Care / Beauty,0
+Recruitment Services,Security / Detective Services,0
+Recruitment Services,Aviation / Airline,0
+Recruitment Services,Cement / Building Material,0
+Recruitment Services,Gems / Jewellery,0
+Recruitment Services,Astrology,0
+Recruitment Services,Export-Import / Trading,0
+Recruitment Services,Matrimony,0
+Religion / Spirituality,BPO / Call Center,0.33
+Religion / Spirituality,Banking / Financial Services,0.15
+Religion / Spirituality,Education / Training,0.11
+Religion / Spirituality,Internet / E-Commerce,0.11
+Religion / Spirituality,Insurance,0.07
+Religion / Spirituality,Manufacturing,0.07
+Religion / Spirituality,Advertising / MR / PR / Events,0.04
+Religion / Spirituality,Engineering / Construction,0.04
+Religion / Spirituality,Recruitment Services,0.04
+Religion / Spirituality,Textile / Garments / Fashion,0.04
+Retail,BPO / Call Center,0.17
+Retail,Retail,0.09
+Retail,Quality Certification,0.08
+Retail,IT - Software,0.06
+Retail,Banking / Financial Services,0.06
+Retail,Textile / Garments / Fashion,0.05
+Retail,Fresher (No Industry),0.04
+Retail,FMCG / F&B,0.04
+Retail,Advertising / MR / PR / Events,0.04
+Retail,Manufacturing,0.04
+Retail,Education / Training,0.03
+Retail,Internet / E-Commerce,0.03
+Retail,Hotel / Restaurant,0.02
+Retail,Insurance,0.02
+Retail,Recruitment Services,0.02
+Retail,Medical / Healthcare,0.02
+Retail,Pharma / Biotech,0.02
+Retail,Consumer Durables / Electronics,0.01
+Retail,Real Estate,0.01
+Retail,Gems / Jewellery,0.01
+Retail,Logistics / Courier / Transportation,0.01
+Retail,Telecom / ISP,0.01
+Retail,Automobile / Auto Ancillaries,0.01
+Retail,Paper / Wood,0.01
+Retail,Travel / Tourism,0.01
+Retail,Export-Import / Trading,0.01
+Retail,Power / Energy,0.01
+Retail,Engineering / Construction,0.01
+Retail,Aviation / Airline,0.01
+Retail,Personal Care / Beauty,0.01
+Retail,KPO / Analytics,0
+Retail,Media / Dotcom / Entertainment,0
+Retail,Fertilizers / Pesticides,0
+Retail,IT - Hardware / Networking,0
+Retail,Sculpture / Craft,0
+Retail,Architecture / Interior Design,0
+Retail,Environment / Waste Management,0
+Retail,Management Consulting / Strategy,0
+Retail,Furnishings / Sanitaryware / Electricals,0
+Retail,Legal,0
+Retail,NGO / Social Work,0
+Retail,Security / Detective Services,0
+Retail,Trav,0
+Retail,Agriculture / Dairy,0
+Retail,Chemical / Plastic / Rubber / Glass,0
+Retail,Printing / Packaging,0
+Retail,Government Department,0
+Retail,Mining,0
+Retail,Oil & Gas / Petroleum,0
+Retail,Banking /,0
+Retail,Cement / Building Material,0
+Retail,M,0
+Retail,Matrimony,0
+Retail,Metal / Iron / Steel,0
+Retail,Unskilled Labor / Domestic Help,0
+Retail,A,0
+Retail,Animation,0
+Retail,Paint,0
+Sculpture / Craft,BPO / Call Center,0.26
+Sculpture / Craft,Education / Training,0.17
+Sculpture / Craft,IT - Software,0.13
+Sculpture / Craft,Fresher (No Industry),0.09
+Sculpture / Craft,Insurance,0.09
+Sculpture / Craft,Advertising / MR / PR / Events,0.04
+Sculpture / Craft,Banking / Financial Services,0.04
+Sculpture / Craft,Internet / E-Commerce,0.04
+Sculpture / Craft,IT - Hardware / Networking,0.04
+Sculpture / Craft,Manufacturing,0.04
+Sculpture / Craft,Recruitment Services,0.04
+Security / Detective Services,BPO / Call Center,0.16
+Security / Detective Services,Security / Detective Services,0.09
+Security / Detective Services,IT - Software,0.08
+Security / Detective Services,Banking / Financial Services,0.08
+Security / Detective Services,Manufacturing,0.07
+Security / Detective Services,Recruitment Services,0.05
+Security / Detective Services,Advertising / MR / PR / Events,0.04
+Security / Detective Services,Education / Training,0.04
+Security / Detective Services,Pharma / Biotech,0.04
+Security / Detective Services,Fresher (No Industry),0.04
+Security / Detective Services,Automobile / Auto Ancillaries,0.03
+Security / Detective Services,Logistics / Courier / Transportation,0.03
+Security / Detective Services,Engineering / Construction,0.02
+Security / Detective Services,Internet / E-Commerce,0.02
+Security / Detective Services,Telecom / ISP,0.02
+Security / Detective Services,IT - Hardware / Networking,0.01
+Security / Detective Services,Medical / Healthcare,0.01
+Security / Detective Services,Sculpture / Craft,0.01
+Security / Detective Services,FMCG / F&B,0.01
+Security / Detective Services,Insurance,0.01
+Security / Detective Services,NGO / Social Work,0.01
+Security / Detective Services,Textile / Garments / Fashion,0.01
+Security / Detective Services,Hotel / Restaurant,0.01
+Security / Detective Services,Retail,0.01
+Security / Detective Services,Travel / Tourism,0.01
+Security / Detective Services,Aviation / Airline,0
+Security / Detective Services,Chemical / Plastic / Rubber / Glass,0
+Security / Detective Services,Consumer Durables / Electronics,0
+Security / Detective Services,Furnishings / Sanitaryware / Electricals,0
+Security / Detective Services,KPO / Analytics,0
+Security / Detective Services,Management Consulting / Strategy,0
+Security / Detective Services,Personal Care / Beauty,0
+Security / Detective Services,Quality Certification,0
+Security / Detective Services,Real Estate,0
+Security / Detective Services,Agriculture / Dairy,0
+Security / Detective Services,Architecture / Interior Design,0
+Security / Detective Services,Matrimony,0
+Security / Detective Services,Metal / Iron / Steel,0
+Security / Detective Services,Oil & Gas / Petroleum,0
+Security / Detective Services,Sports / Fitness,0
+Sports / Fitness,BPO / Call Center,0.18
+Sports / Fitness,IT - Software,0.07
+Sports / Fitness,Education / Training,0.07
+Sports / Fitness,Medical / Healthcare,0.07
+Sports / Fitness,Quality Certification,0.06
+Sports / Fitness,Banking / Financial Services,0.05
+Sports / Fitness,Sports / Fitness,0.05
+Sports / Fitness,Hotel / Restaurant,0.04
+Sports / Fitness,Recruitment Services,0.04
+Sports / Fitness,Media / Dotcom / Entertainment,0.04
+Sports / Fitness,Advertising / MR / PR / Events,0.03
+Sports / Fitness,Fresher (No Industry),0.03
+Sports / Fitness,Internet / E-Commerce,0.03
+Sports / Fitness,Retail,0.03
+Sports / Fitness,Textile / Garments / Fashion,0.03
+Sports / Fitness,FMCG / F&B,0.02
+Sports / Fitness,Automobile / Auto Ancillaries,0.02
+Sports / Fitness,Logistics / Courier / Transportation,0.02
+Sports / Fitness,Manufacturing,0.02
+Sports / Fitness,Architecture / Interior Design,0.01
+Sports / Fitness,Insurance,0.01
+Sports / Fitness,M,0.01
+Sports / Fitness,Real Estate,0.01
+Sports / Fitness,Education / Trai,0.01
+Sports / Fitness,Engineering / Construction,0.01
+Sports / Fitness,Fertilizers / Pesticides,0.01
+Sports / Fitness,Furnishings / Sanitaryware / Electricals,0.01
+Sports / Fitness,Gems / Jewellery,0.01
+Sports / Fitness,Government Department,0.01
+Sports / Fitness,IT - Hardware / Networking,0.01
+Sports / Fitness,Legal,0.01
+Sports / Fitness,Oil & Gas / Petroleum,0.01
+Telecom / ISP,BPO / Call Center,0.25
+Telecom / ISP,Telecom / ISP,0.14
+Telecom / ISP,IT - Software,0.1
+Telecom / ISP,Banking / Financial Services,0.06
+Telecom / ISP,Fresher (No Industry),0.04
+Telecom / ISP,Manufacturing,0.04
+Telecom / ISP,FMCG / F&B,0.03
+Telecom / ISP,Quality Certification,0.03
+Telecom / ISP,Education / Training,0.03
+Telecom / ISP,Advertising / MR / PR / Events,0.02
+Telecom / ISP,Pharma / Biotech,0.02
+Telecom / ISP,Recruitment Services,0.02
+Telecom / ISP,Engineering / Construction,0.02
+Telecom / ISP,Insurance,0.02
+Telecom / ISP,IT - Hardware / Networking,0.02
+Telecom / ISP,Internet / E-Commerce,0.02
+Telecom / ISP,Consumer Durables / Electronics,0.01
+Telecom / ISP,Medical / Healthcare,0.01
+Telecom / ISP,Automobile / Auto Ancillaries,0.01
+Telecom / ISP,KPO / Analytics,0.01
+Telecom / ISP,Travel / Tourism,0.01
+Telecom / ISP,Retail,0.01
+Telecom / ISP,Textile / Garments / Fashion,0.01
+Telecom / ISP,Logistics / Courier / Transportation,0.01
+Telecom / ISP,Paper / Wood,0.01
+Telecom / ISP,Real Estate,0.01
+Telecom / ISP,Hotel / Restaurant,0
+Telecom / ISP,Power / Energy,0
+Telecom / ISP,Export-Import / Trading,0
+Telecom / ISP,Aviation / Airline,0
+Telecom / ISP,Gems / Jewellery,0
+Telecom / ISP,Media / Dotcom / Entertainment,0
+Telecom / ISP,Furnishings / Sanitaryware / Electricals,0
+Telecom / ISP,Legal,0
+Telecom / ISP,Management Consulting / Strategy,0
+Telecom / ISP,Cement / Building Material,0
+Telecom / ISP,Environment / Waste Management,0
+Telecom / ISP,Government Department,0
+Telecom / ISP,Oil & Gas / Petroleum,0
+Telecom / ISP,Personal Care / Beauty,0
+Telecom / ISP,Chemical / Plastic / Rubber / Glass,0
+Telecom / ISP,NGO / Social Work,0
+Telecom / ISP,Sculpture / Craft,0
+Telecom / ISP,Industrial Design,0
+Telecom / ISP,Security / Detective Services,0
+Telecom / ISP,Agriculture / Dairy,0
+Telecom / ISP,Printing / Packaging,0
+Telecom / ISP,Architecture / Interior Design,0
+Telecom / ISP,Fertilizers / Pesticides,0
+Telecom / ISP,Metal / Iron / Steel,0
+Telecom / ISP,Trav,0
+Telecom / ISP,Animation,0
+Telecom / ISP,Astrology,0
+Telecom / ISP,Banking /,0
+Telecom / ISP,BPO / Call Cente,0
+Telecom / ISP,Matrimony,0
+Telecom / ISP,Merchant Navy,0
+Telecom / ISP,Sports / Fitness,0
+Telecom / ISP,Unskilled Labor / Domestic Help,0
+Textile / Garments / Fashion,Textile / Garments / Fashion,0.37
+Textile / Garments / Fashion,Manufacturing,0.1
+Textile / Garments / Fashion,BPO / Call Center,0.08
+Textile / Garments / Fashion,Internet / E-Commerce,0.06
+Textile / Garments / Fashion,IT - Software,0.05
+Textile / Garments / Fashion,Export-Import / Trading,0.04
+Textile / Garments / Fashion,Fresher (No Industry),0.03
+Textile / Garments / Fashion,Banking / Financial Services,0.02
+Textile / Garments / Fashion,FMCG / F&B,0.02
+Textile / Garments / Fashion,Retail,0.02
+Textile / Garments / Fashion,Pharma / Biotech,0.02
+Textile / Garments / Fashion,Recruitment Services,0.02
+Textile / Garments / Fashion,Engineering / Construction,0.02
+Textile / Garments / Fashion,Advertising / MR / PR / Events,0.01
+Textile / Garments / Fashion,Automobile / Auto Ancillaries,0.01
+Textile / Garments / Fashion,Quality Certification,0.01
+Textile / Garments / Fashion,Education / Training,0.01
+Textile / Garments / Fashion,Metal / Iron / Steel,0.01
+Textile / Garments / Fashion,Real Estate,0.01
+Textile / Garments / Fashion,Medical / Healthcare,0.01
+Textile / Garments / Fashion,Paper / Wood,0.01
+Textile / Garments / Fashion,Logistics / Courier / Transportation,0.01
+Textile / Garments / Fashion,Hotel / Restaurant,0.01
+Textile / Garments / Fashion,Printing / Packaging,0.01
+Textile / Garments / Fashion,Fertilizers / Pesticides,0
+Textile / Garments / Fashion,Insurance,0
+Textile / Garments / Fashion,Legal,0
+Textile / Garments / Fashion,Management Consulting / Strategy,0
+Textile / Garments / Fashion,Telecom / ISP,0
+Textile / Garments / Fashion,Cement / Building Material,0
+Textile / Garments / Fashion,Chemical / Plastic / Rubber / Glass,0
+Textile / Garments / Fashion,Gems / Jewellery,0
+Textile / Garments / Fashion,Travel / Tourism,0
+Textile / Garments / Fashion,Aviation / Airline,0
+Textile / Garments / Fashion,Consumer Durables / Electronics,0
+Textile / Garments / Fashion,IT - Hardware / Networking,0
+Textile / Garments / Fashion,Environment / Waste Management,0
+Textile / Garments / Fashion,Power / Energy,0
+Textile / Garments / Fashion,Security / Detective Services,0
+Textile / Garments / Fashion,Animation,0
+Textile / Garments / Fashion,KPO / Analytics,0
+Textile / Garments / Fashion,Media / Dotcom / Entertainment,0
+Textile / Garments / Fashion,Personal Care / Beauty,0
+Textile / Garments / Fashion,Agriculture / Dairy,0
+Textile / Garments / Fashion,Government Department,0
+Textile / Garments / Fashion,NGO / Social Work,0
+Textile / Garments / Fashion,Sculpture / Craft,0
+Textile / Garments / Fashion,Architecture / Interior Design,0
+Textile / Garments / Fashion,Astrology,0
+Textile / Garments / Fashion,Furnishings / Sanitaryware / Electricals,0
+Textile / Garments / Fashion,Mining,0
+Textile / Garments / Fashion,Oil & Gas / Petroleum,0
+Textile / Garments / Fashion,Paint,0
+Textile / Garments / Fashion,Trav,0
+Textile / Garments / Fashion,Unskilled Labor / Domestic Help,0
+Travel / Tourism,Travel / Tourism,0.23
+Travel / Tourism,BPO / Call Center,0.22
+Travel / Tourism,IT - Software,0.08
+Travel / Tourism,Hotel / Restaurant,0.05
+Travel / Tourism,Banking / Financial Services,0.04
+Travel / Tourism,Education / Training,0.04
+Travel / Tourism,Advertising / MR / PR / Events,0.03
+Travel / Tourism,Manufacturing,0.03
+Travel / Tourism,Fresher (No Industry),0.03
+Travel / Tourism,Recruitment Services,0.03
+Travel / Tourism,Internet / E-Commerce,0.03
+Travel / Tourism,Quality Certification,0.03
+Travel / Tourism,Aviation / Airline,0.02
+Travel / Tourism,FMCG / F&B,0.01
+Travel / Tourism,Pharma / Biotech,0.01
+Travel / Tourism,Medical / Healthcare,0.01
+Travel / Tourism,Logistics / Courier / Transportation,0.01
+Travel / Tourism,Automobile / Auto Ancillaries,0.01
+Travel / Tourism,Export-Import / Trading,0.01
+Travel / Tourism,Consumer Durables / Electronics,0.01
+Travel / Tourism,Real Estate,0.01
+Travel / Tourism,KPO / Analytics,0.01
+Travel / Tourism,Engineering / Construction,0.01
+Travel / Tourism,Legal,0.01
+Travel / Tourism,Retail,0.01
+Travel / Tourism,Insurance,0
+Travel / Tourism,IT - Hardware / Networking,0
+Travel / Tourism,Media / Dotcom / Entertainment,0
+Travel / Tourism,Telecom / ISP,0
+Travel / Tourism,Textile / Garments / Fashion,0
+Travel / Tourism,Chemical / Plastic / Rubber / Glass,0
+Travel / Tourism,Paper / Wood,0
+Travel / Tourism,Sculpture / Craft,0
+Travel / Tourism,Gems / Jewellery,0
+Travel / Tourism,Printing / Packaging,0
+Travel / Tourism,Trav,0
+Travel / Tourism,Agriculture / Dairy,0
+Travel / Tourism,Metal / Iron / Steel,0
+Travel / Tourism,Security / Detective Services,0
+Travel / Tourism,A,0
+Travel / Tourism,Architecture / Interior Design,0
+Travel / Tourism,Furnishings / Sanitaryware / Electricals,0
+Travel / Tourism,M,0
+Travel / Tourism,Management Consulting / Strategy,0
+Travel / Tourism,Environment / Waste Management,0
+Travel / Tourism,Fertilizers / Pesticides,0
+Travel / Tourism,Government Department,0
+Travel / Tourism,Logistics / Courier / Tra,0
+Travel / Tourism,Power / Energy,0
+Unskilled Labor / Domestic Help,BPO / Call Center,0.2
+Unskilled Labor / Domestic Help,Recruitment Services,0.11
+Unskilled Labor / Domestic Help,IT - Software,0.1
+Unskilled Labor / Domestic Help,Fresher (No Industry),0.09
+Unskilled Labor / Domestic Help,Manufacturing,0.08
+Unskilled Labor / Domestic Help,Hotel / Restaurant,0.07
+Unskilled Labor / Domestic Help,Advertising / MR / PR / Events,0.04
+Unskilled Labor / Domestic Help,Education / Training,0.03
+Unskilled Labor / Domestic Help,Banking / Financial Services,0.02
+Unskilled Labor / Domestic Help,Logistics / Courier / Transportation,0.02
+Unskilled Labor / Domestic Help,Oil & Gas / Petroleum,0.02
+Unskilled Labor / Domestic Help,Pharma / Biotech,0.02
+Unskilled Labor / Domestic Help,Travel / Tourism,0.02
+Unskilled Labor / Domestic Help,Automobile / Auto Ancillaries,0.01
+Unskilled Labor / Domestic Help,Aviation / Airline,0.01
+Unskilled Labor / Domestic Help,Engineering / Construction,0.01
+Unskilled Labor / Domestic Help,Export-Import / Trading,0.01
+Unskilled Labor / Domestic Help,Fertilizers / Pesticides,0.01
+Unskilled Labor / Domestic Help,FMCG / F&B,0.01
+Unskilled Labor / Domestic Help,Insurance,0.01
+Unskilled Labor / Domestic Help,IT - Hardware / Networking,0.01
+Unskilled Labor / Domestic Help,KPO / Analytics,0.01
+Unskilled Labor / Domestic Help,Management Consulting / Strategy,0.01
+Unskilled Labor / Domestic Help,Matrimony,0.01
+Unskilled Labor / Domestic Help,Medical / Healthcare,0.01
+Unskilled Labor / Domestic Help,Printing / Packaging,0.01
+Unskilled Labor / Domestic Help,Quality Certification,0.01
+Veterinary Science / Pet Care,BPO / Call Center,0.22
+Veterinary Science / Pet Care,Education / Training,0.14
+Veterinary Science / Pet Care,IT - Software,0.1
+Veterinary Science / Pet Care,Banking / Financial Services,0.08
+Veterinary Science / Pet Care,Fresher (No Industry),0.06
+Veterinary Science / Pet Care,Management Consulting / Strategy,0.06
+Veterinary Science / Pet Care,Medical / Healthcare,0.06
+Veterinary Science / Pet Care,Insurance,0.04
+Veterinary Science / Pet Care,Manufacturing,0.04
+Veterinary Science / Pet Care,Pharma / Biotech,0.04
+Veterinary Science / Pet Care,Veterinary Science / Pet Care,0.04
+Veterinary Science / Pet Care,Advertising / MR / PR / Events,0.02
+Veterinary Science / Pet Care,Automobile / Auto Ancillaries,0.02
+Veterinary Science / Pet Care,FMCG / F&B,0.02
+Veterinary Science / Pet Care,Internet / E-Commerce,0.02
+Veterinary Science / Pet Care,Media / Dotcom / Entertainment,0.02
+Veterinary Science / Pet Care,Printing / Packaging,0.02

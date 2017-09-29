@@ -1,0 +1,1069 @@
+job_maxsal,user_ctc,max_salary_score
+"< Rs 50,000 / Yr",Rs 0 / Yr,0.564021164
+"< Rs 50,000 / Yr",Rs 1.0 - 1.5 Lakh / Yr,0.071957672
+"< Rs 50,000 / Yr",Rs 1.5 - 2.0 Lakh / Yr,0.046560847
+"< Rs 50,000 / Yr",Rs 10 - 12 Lakh / Yr,0.003174603
+"< Rs 50,000 / Yr",Rs 12 - 14 Lakh / Yr,0.005291005
+"< Rs 50,000 / Yr",Rs 14 - 16 Lakh / Yr,0.004232804
+"< Rs 50,000 / Yr",Rs 16 - 18 Lakh / Yr,0.001058201
+"< Rs 50,000 / Yr",Rs 18 - 20 Lakh / Yr,0.001058201
+"< Rs 50,000 / Yr",Rs 2.0 - 2.5 Lakh / Yr,0.084656085
+"< Rs 50,000 / Yr",Rs 2.5 - 3.0 Lakh / Yr,0.027513228
+"< Rs 50,000 / Yr",Rs 20 - 22 Lakh / Yr,0.001058201
+"< Rs 50,000 / Yr",Rs 3.0 - 3.5 Lakh / Yr,0.063492063
+"< Rs 50,000 / Yr",Rs 3.5 - 4.0 Lakh / Yr,0.022222222
+"< Rs 50,000 / Yr",Rs 4.0 - 4.5 Lakh / Yr,0.032804233
+"< Rs 50,000 / Yr",Rs 4.5 - 5.0 Lakh / Yr,0.004232804
+"< Rs 50,000 / Yr",Rs 5 - 6 Lakh / Yr,0.024338624
+"< Rs 50,000 / Yr","Rs 50,000 - 1 Lakh / Yr",0.011640212
+"< Rs 50,000 / Yr",Rs 6 - 7 Lakh / Yr,0.011640212
+"< Rs 50,000 / Yr",Rs 7 - 8 Lakh / Yr,0.010582011
+"< Rs 50,000 / Yr",Rs 8 - 9 Lakh / Yr,0.006349206
+"< Rs 50,000 / Yr",Rs 9 - 10 Lakh / Yr,0.002116402
+> Rs 50 Lakh / Yr,"< Rs 50,000 / Yr",0.002207506
+> Rs 50 Lakh / Yr,Rs 0 / Yr,0.293598234
+> Rs 50 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.041942605
+> Rs 50 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.04415011
+> Rs 50 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.039735099
+> Rs 50 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.037527594
+> Rs 50 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.017660044
+> Rs 50 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.011037528
+> Rs 50 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.024282561
+> Rs 50 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.086092715
+> Rs 50 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.037527594
+> Rs 50 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.008830022
+> Rs 50 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.004415011
+> Rs 50 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.01986755
+> Rs 50 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.011037528
+> Rs 50 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.050772627
+> Rs 50 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.017660044
+> Rs 50 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.011037528
+> Rs 50 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.002207506
+> Rs 50 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.002207506
+> Rs 50 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.037527594
+> Rs 50 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.015452539
+> Rs 50 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.002207506
+> Rs 50 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.002207506
+> Rs 50 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.048565121
+> Rs 50 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.011037528
+> Rs 50 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.004415011
+> Rs 50 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.039735099
+> Rs 50 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.035320088
+> Rs 50 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.01986755
+> Rs 50 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.01986755
+Rs 1.0 - 1.5 Lakh / Yr,"< Rs 50,000 / Yr",0.002772131
+Rs 1.0 - 1.5 Lakh / Yr,Rs 0 / Yr,0.533173166
+Rs 1.0 - 1.5 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.158011458
+Rs 1.0 - 1.5 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.061541305
+Rs 1.0 - 1.5 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.004435409
+Rs 1.0 - 1.5 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.002217705
+Rs 1.0 - 1.5 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.002587322
+Rs 1.0 - 1.5 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000924044
+Rs 1.0 - 1.5 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000554426
+Rs 1.0 - 1.5 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.085566439
+Rs 1.0 - 1.5 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.01737202
+Rs 1.0 - 1.5 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000369617
+Rs 1.0 - 1.5 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000184809
+Rs 1.0 - 1.5 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000369617
+Rs 1.0 - 1.5 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000369617
+Rs 1.0 - 1.5 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.032156718
+Rs 1.0 - 1.5 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.010903715
+Rs 1.0 - 1.5 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000739235
+Rs 1.0 - 1.5 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.012566993
+Rs 1.0 - 1.5 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.003326557
+Rs 1.0 - 1.5 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000369617
+Rs 1.0 - 1.5 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.008316393
+Rs 1.0 - 1.5 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000554426
+Rs 1.0 - 1.5 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.04915912
+Rs 1.0 - 1.5 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.004435409
+Rs 1.0 - 1.5 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.004620218
+Rs 1.0 - 1.5 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.001663279
+Rs 1.0 - 1.5 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.000739235
+Rs 1.5 - 2.0 Lakh / Yr,"< Rs 50,000 / Yr",0.00191014
+Rs 1.5 - 2.0 Lakh / Yr,Rs 0 / Yr,0.414666556
+Rs 1.5 - 2.0 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.198156299
+Rs 1.5 - 2.0 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.106635661
+Rs 1.5 - 2.0 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.002242339
+Rs 1.5 - 2.0 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.001577942
+Rs 1.5 - 2.0 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.001245744
+Rs 1.5 - 2.0 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000249149
+Rs 1.5 - 2.0 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000664397
+Rs 1.5 - 2.0 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.142679179
+Rs 1.5 - 2.0 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.030645295
+Rs 1.5 - 2.0 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000415248
+Rs 1.5 - 2.0 Lakh / Yr,Rs 22 - 24 Lakh / Yr,8.30E-05
+Rs 1.5 - 2.0 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000166099
+Rs 1.5 - 2.0 Lakh / Yr,Rs 28 - 30 Lakh / Yr,8.30E-05
+Rs 1.5 - 2.0 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.040694294
+Rs 1.5 - 2.0 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.012706586
+Rs 1.5 - 2.0 Lakh / Yr,Rs 30 - 32 Lakh / Yr,8.30E-05
+Rs 1.5 - 2.0 Lakh / Yr,Rs 34 - 36 Lakh / Yr,8.30E-05
+Rs 1.5 - 2.0 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.011128644
+Rs 1.5 - 2.0 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.003737231
+Rs 1.5 - 2.0 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000166099
+Rs 1.5 - 2.0 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.006311768
+Rs 1.5 - 2.0 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000664397
+Rs 1.5 - 2.0 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.014699776
+Rs 1.5 - 2.0 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.003737231
+Rs 1.5 - 2.0 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.00207624
+Rs 1.5 - 2.0 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.001744041
+Rs 1.5 - 2.0 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.000747446
+Rs 10 - 12 Lakh / Yr,Rs 0 / Yr,0.044656489
+Rs 10 - 12 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.016793893
+Rs 10 - 12 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.014885496
+Rs 10 - 12 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.057633588
+Rs 10 - 12 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.035496183
+Rs 10 - 12 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.020992366
+Rs 10 - 12 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.006870229
+Rs 10 - 12 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.008015267
+Rs 10 - 12 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.056870229
+Rs 10 - 12 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.036641221
+Rs 10 - 12 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.003816794
+Rs 10 - 12 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.001908397
+Rs 10 - 12 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.004580153
+Rs 10 - 12 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000763359
+Rs 10 - 12 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.072137405
+Rs 10 - 12 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.059160305
+Rs 10 - 12 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.001526718
+Rs 10 - 12 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.000381679
+Rs 10 - 12 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.001526718
+Rs 10 - 12 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.070610687
+Rs 10 - 12 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.053435115
+Rs 10 - 12 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000763359
+Rs 10 - 12 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.101145038
+Rs 10 - 12 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.003435115
+Rs 10 - 12 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.004961832
+Rs 10 - 12 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.117175573
+Rs 10 - 12 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.08740458
+Rs 10 - 12 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.065267176
+Rs 10 - 12 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.051145038
+Rs 12 - 14 Lakh / Yr,"< Rs 50,000 / Yr",0.00118624
+Rs 12 - 14 Lakh / Yr,Rs 0 / Yr,0.070778964
+Rs 12 - 14 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.019375247
+Rs 12 - 14 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.013048636
+Rs 12 - 14 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.089363385
+Rs 12 - 14 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.05061289
+Rs 12 - 14 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.036378015
+Rs 12 - 14 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.015421115
+Rs 12 - 14 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.017398181
+Rs 12 - 14 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.044681692
+Rs 12 - 14 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.020561487
+Rs 12 - 14 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.008699091
+Rs 12 - 14 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.005140372
+Rs 12 - 14 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.013839462
+Rs 12 - 14 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.002372479
+Rs 12 - 14 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.002767892
+Rs 12 - 14 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.05179913
+Rs 12 - 14 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.030446817
+Rs 12 - 14 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.003954132
+Rs 12 - 14 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.00118624
+Rs 12 - 14 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.002372479
+Rs 12 - 14 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.000395413
+Rs 12 - 14 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.054567023
+Rs 12 - 14 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.033214709
+Rs 12 - 14 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.001581653
+Rs 12 - 14 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.000790826
+Rs 12 - 14 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.000790826
+Rs 12 - 14 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.001977066
+Rs 12 - 14 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.101621194
+Rs 12 - 14 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.008303677
+Rs 12 - 14 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.001977066
+Rs 12 - 14 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.109134045
+Rs 12 - 14 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.067615658
+Rs 12 - 14 Lakh / Yr,Rs 75 Lakh - 1 Crore / Yr,0.000790826
+Rs 12 - 14 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.063266113
+Rs 12 - 14 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.052589957
+Rs 14 - 16 Lakh / Yr,Rs 0 / Yr,0.074581431
+Rs 14 - 16 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.022070015
+Rs 14 - 16 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.020547945
+Rs 14 - 16 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.085235921
+Rs 14 - 16 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.092846271
+Rs 14 - 16 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.046423135
+Rs 14 - 16 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.020547945
+Rs 14 - 16 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.01369863
+Rs 14 - 16 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.041856925
+Rs 14 - 16 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.02130898
+Rs 14 - 16 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.009893455
+Rs 14 - 16 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.00304414
+Rs 14 - 16 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.00304414
+Rs 14 - 16 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000761035
+Rs 14 - 16 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.00304414
+Rs 14 - 16 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.049467275
+Rs 14 - 16 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.04718417
+Rs 14 - 16 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.00152207
+Rs 14 - 16 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.000761035
+Rs 14 - 16 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.052511416
+Rs 14 - 16 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.041856925
+Rs 14 - 16 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.002283105
+Rs 14 - 16 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.000761035
+Rs 14 - 16 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.000761035
+Rs 14 - 16 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.057838661
+Rs 14 - 16 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.005327245
+Rs 14 - 16 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.002283105
+Rs 14 - 16 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.089041096
+Rs 14 - 16 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.073059361
+Rs 14 - 16 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.057838661
+Rs 14 - 16 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.058599696
+Rs 16 - 18 Lakh / Yr,Rs 0 / Yr,0.097931034
+Rs 16 - 18 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.023448276
+Rs 16 - 18 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.013793103
+Rs 16 - 18 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.108965517
+Rs 16 - 18 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.096551724
+Rs 16 - 18 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.071724138
+Rs 16 - 18 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.048275862
+Rs 16 - 18 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.024827586
+Rs 16 - 18 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.031724138
+Rs 16 - 18 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.023448276
+Rs 16 - 18 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.017931034
+Rs 16 - 18 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.004137931
+Rs 16 - 18 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.020689655
+Rs 16 - 18 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.002758621
+Rs 16 - 18 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.026206897
+Rs 16 - 18 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.019310345
+Rs 16 - 18 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.011034483
+Rs 16 - 18 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.004137931
+Rs 16 - 18 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.004137931
+Rs 16 - 18 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.002758621
+Rs 16 - 18 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.048275862
+Rs 16 - 18 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.020689655
+Rs 16 - 18 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.00137931
+Rs 16 - 18 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.00137931
+Rs 16 - 18 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.002758621
+Rs 16 - 18 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.00137931
+Rs 16 - 18 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.042758621
+Rs 16 - 18 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.006896552
+Rs 16 - 18 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.052413793
+Rs 16 - 18 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.08137931
+Rs 16 - 18 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.044137931
+Rs 16 - 18 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.042758621
+Rs 18 - 20 Lakh / Yr,Rs 0 / Yr,0.079173838
+Rs 18 - 20 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.012048193
+Rs 18 - 20 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.024096386
+Rs 18 - 20 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.101549053
+Rs 18 - 20 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.084337349
+Rs 18 - 20 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.060240964
+Rs 18 - 20 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.037865749
+Rs 18 - 20 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.029259897
+Rs 18 - 20 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.036144578
+Rs 18 - 20 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.020654045
+Rs 18 - 20 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.018932874
+Rs 18 - 20 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.006884682
+Rs 18 - 20 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.008605852
+Rs 18 - 20 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.00172117
+Rs 18 - 20 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.049913941
+Rs 18 - 20 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.030981067
+Rs 18 - 20 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.003442341
+Rs 18 - 20 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.056798623
+Rs 18 - 20 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.017211704
+Rs 18 - 20 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.003442341
+Rs 18 - 20 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.060240964
+Rs 18 - 20 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.003442341
+Rs 18 - 20 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.00172117
+Rs 18 - 20 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.067125645
+Rs 18 - 20 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.048192771
+Rs 18 - 20 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.067125645
+Rs 18 - 20 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.068846816
+Rs 2.0 - 2.5 Lakh / Yr,"< Rs 50,000 / Yr",0.001661617
+Rs 2.0 - 2.5 Lakh / Yr,Rs 0 / Yr,0.338236732
+Rs 2.0 - 2.5 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.133124817
+Rs 2.0 - 2.5 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.173199101
+Rs 2.0 - 2.5 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.002394683
+Rs 2.0 - 2.5 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.001563874
+Rs 2.0 - 2.5 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.001612746
+Rs 2.0 - 2.5 Lakh / Yr,Rs 16 - 18 Lakh / Yr,4.89E-05
+Rs 2.0 - 2.5 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.00043984
+Rs 2.0 - 2.5 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.190743818
+Rs 2.0 - 2.5 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.044032841
+Rs 2.0 - 2.5 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000146613
+Rs 2.0 - 2.5 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000146613
+Rs 2.0 - 2.5 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000390969
+Rs 2.0 - 2.5 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000146613
+Rs 2.0 - 2.5 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.055566416
+Rs 2.0 - 2.5 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.013977128
+Rs 2.0 - 2.5 Lakh / Yr,Rs 30 - 32 Lakh / Yr,9.77E-05
+Rs 2.0 - 2.5 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.000146613
+Rs 2.0 - 2.5 Lakh / Yr,Rs 36 - 38 Lakh / Yr,4.89E-05
+Rs 2.0 - 2.5 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.013635031
+Rs 2.0 - 2.5 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.004887108
+Rs 2.0 - 2.5 Lakh / Yr,Rs 42 - 44 Lakh / Yr,9.77E-05
+Rs 2.0 - 2.5 Lakh / Yr,Rs 48 - 50 Lakh / Yr,4.89E-05
+Rs 2.0 - 2.5 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.006890822
+Rs 2.0 - 2.5 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000537582
+Rs 2.0 - 2.5 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.008747923
+Rs 2.0 - 2.5 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.00361646
+Rs 2.0 - 2.5 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.001466132
+Rs 2.0 - 2.5 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.001319519
+Rs 2.0 - 2.5 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.001026293
+Rs 2.5 - 3.0 Lakh / Yr,"< Rs 50,000 / Yr",0.001332047
+Rs 2.5 - 3.0 Lakh / Yr,Rs 0 / Yr,0.287262873
+Rs 2.5 - 3.0 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.105002067
+Rs 2.5 - 3.0 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.148592164
+Rs 2.5 - 3.0 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.00293969
+Rs 2.5 - 3.0 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.00206697
+Rs 2.5 - 3.0 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.002342566
+Rs 2.5 - 3.0 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000367461
+Rs 2.5 - 3.0 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000964586
+Rs 2.5 - 3.0 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.237839328
+Rs 2.5 - 3.0 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.061779431
+Rs 2.5 - 3.0 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000597125
+Rs 2.5 - 3.0 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000183731
+Rs 2.5 - 3.0 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000183731
+Rs 2.5 - 3.0 Lakh / Yr,Rs 26 - 28 Lakh / Yr,4.59E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000137798
+Rs 2.5 - 3.0 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.071333425
+Rs 2.5 - 3.0 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.022369207
+Rs 2.5 - 3.0 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000229663
+Rs 2.5 - 3.0 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.000137798
+Rs 2.5 - 3.0 Lakh / Yr,Rs 34 - 36 Lakh / Yr,9.19E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.000229663
+Rs 2.5 - 3.0 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.017638142
+Rs 2.5 - 3.0 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.006889899
+Rs 2.5 - 3.0 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000183731
+Rs 2.5 - 3.0 Lakh / Yr,Rs 42 - 44 Lakh / Yr,9.19E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 44 - 46 Lakh / Yr,4.59E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 46 - 48 Lakh / Yr,9.19E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 48 - 50 Lakh / Yr,9.19E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.010105186
+Rs 2.5 - 3.0 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000275596
+Rs 2.5 - 3.0 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.006752101
+Rs 2.5 - 3.0 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.005098526
+Rs 2.5 - 3.0 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.002618162
+Rs 2.5 - 3.0 Lakh / Yr,Rs 75 Lakh - 1 Crore / Yr,4.59E-05
+Rs 2.5 - 3.0 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.0022507
+Rs 2.5 - 3.0 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.001791374
+Rs 20 - 22 Lakh / Yr,Rs 0 / Yr,0.048780488
+Rs 20 - 22 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.004065041
+Rs 20 - 22 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.010162602
+Rs 20 - 22 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.075203252
+Rs 20 - 22 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.105691057
+Rs 20 - 22 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.097560976
+Rs 20 - 22 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.06300813
+Rs 20 - 22 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.040650407
+Rs 20 - 22 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.014227642
+Rs 20 - 22 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.022357724
+Rs 20 - 22 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.038617886
+Rs 20 - 22 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.006097561
+Rs 20 - 22 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.024390244
+Rs 20 - 22 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.010162602
+Rs 20 - 22 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.010162602
+Rs 20 - 22 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.040650407
+Rs 20 - 22 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.022357724
+Rs 20 - 22 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.012195122
+Rs 20 - 22 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.00203252
+Rs 20 - 22 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.00203252
+Rs 20 - 22 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.008130081
+Rs 20 - 22 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.028455285
+Rs 20 - 22 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.034552846
+Rs 20 - 22 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.00203252
+Rs 20 - 22 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.006097561
+Rs 20 - 22 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.00203252
+Rs 20 - 22 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.085365854
+Rs 20 - 22 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.008130081
+Rs 20 - 22 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.058943089
+Rs 20 - 22 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.036585366
+Rs 20 - 22 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.028455285
+Rs 20 - 22 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.050813008
+Rs 22 - 24 Lakh / Yr,Rs 0 / Yr,0.095343681
+Rs 22 - 24 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.026607539
+Rs 22 - 24 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.013303769
+Rs 22 - 24 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.084257206
+Rs 22 - 24 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.088691796
+Rs 22 - 24 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.088691796
+Rs 22 - 24 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.039911308
+Rs 22 - 24 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.055432373
+Rs 22 - 24 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.026607539
+Rs 22 - 24 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.011086475
+Rs 22 - 24 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.022172949
+Rs 22 - 24 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.015521064
+Rs 22 - 24 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.026607539
+Rs 22 - 24 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.00443459
+Rs 22 - 24 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.00443459
+Rs 22 - 24 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.048780488
+Rs 22 - 24 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.022172949
+Rs 22 - 24 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.011086475
+Rs 22 - 24 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.002217295
+Rs 22 - 24 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.002217295
+Rs 22 - 24 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.035476718
+Rs 22 - 24 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.031042129
+Rs 22 - 24 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.002217295
+Rs 22 - 24 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.035476718
+Rs 22 - 24 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.013303769
+Rs 22 - 24 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.00443459
+Rs 22 - 24 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.064301552
+Rs 22 - 24 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.050997783
+Rs 22 - 24 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.037694013
+Rs 22 - 24 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.035476718
+Rs 24 - 26 Lakh / Yr,"< Rs 50,000 / Yr",0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 0 / Yr,0.056372549
+Rs 24 - 26 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.019607843
+Rs 24 - 26 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.004901961
+Rs 24 - 26 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.085784314
+Rs 24 - 26 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.073529412
+Rs 24 - 26 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.100490196
+Rs 24 - 26 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.022058824
+Rs 24 - 26 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.102941176
+Rs 24 - 26 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.029411765
+Rs 24 - 26 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.022058824
+Rs 24 - 26 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.026960784
+Rs 24 - 26 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.026960784
+Rs 24 - 26 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.036764706
+Rs 24 - 26 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.009803922
+Rs 24 - 26 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.007352941
+Rs 24 - 26 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.041666667
+Rs 24 - 26 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.036764706
+Rs 24 - 26 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.012254902
+Rs 24 - 26 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.024509804
+Rs 24 - 26 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.019607843
+Rs 24 - 26 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.004901961
+Rs 24 - 26 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.056372549
+Rs 24 - 26 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.004901961
+Rs 24 - 26 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.00245098
+Rs 24 - 26 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.036764706
+Rs 24 - 26 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.046568627
+Rs 24 - 26 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.029411765
+Rs 24 - 26 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.046568627
+Rs 26 - 28 Lakh / Yr,Rs 0 / Yr,0.079096045
+Rs 26 - 28 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.011299435
+Rs 26 - 28 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.06779661
+Rs 26 - 28 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.033898305
+Rs 26 - 28 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.06779661
+Rs 26 - 28 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.050847458
+Rs 26 - 28 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.09039548
+Rs 26 - 28 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.011299435
+Rs 26 - 28 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.079096045
+Rs 26 - 28 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.079096045
+Rs 26 - 28 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.084745763
+Rs 26 - 28 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.011299435
+Rs 26 - 28 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.028248588
+Rs 26 - 28 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.033898305
+Rs 26 - 28 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.02259887
+Rs 26 - 28 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.011299435
+Rs 26 - 28 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.04519774
+Rs 26 - 28 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.016949153
+Rs 26 - 28 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.011299435
+Rs 26 - 28 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.02259887
+Rs 26 - 28 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.02259887
+Rs 26 - 28 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.039548023
+Rs 26 - 28 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.005649718
+Rs 26 - 28 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.016949153
+Rs 26 - 28 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.028248588
+Rs 28 - 30 Lakh / Yr,Rs 0 / Yr,0.090322581
+Rs 28 - 30 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.058064516
+Rs 28 - 30 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.035483871
+Rs 28 - 30 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.022580645
+Rs 28 - 30 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.041935484
+Rs 28 - 30 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.051612903
+Rs 28 - 30 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.035483871
+Rs 28 - 30 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.029032258
+Rs 28 - 30 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.106451613
+Rs 28 - 30 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.029032258
+Rs 28 - 30 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.019354839
+Rs 28 - 30 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.038709677
+Rs 28 - 30 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.041935484
+Rs 28 - 30 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.009677419
+Rs 28 - 30 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.006451613
+Rs 28 - 30 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.083870968
+Rs 28 - 30 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.048387097
+Rs 28 - 30 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.016129032
+Rs 28 - 30 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.003225806
+Rs 28 - 30 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.009677419
+Rs 28 - 30 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.003225806
+Rs 28 - 30 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.009677419
+Rs 28 - 30 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.048387097
+Rs 28 - 30 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.006451613
+Rs 28 - 30 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.003225806
+Rs 28 - 30 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.003225806
+Rs 28 - 30 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.038709677
+Rs 28 - 30 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.003225806
+Rs 28 - 30 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.035483871
+Rs 28 - 30 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.025806452
+Rs 28 - 30 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.022580645
+Rs 28 - 30 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.022580645
+Rs 3.0 - 3.5 Lakh / Yr,"< Rs 50,000 / Yr",0.003513849
+Rs 3.0 - 3.5 Lakh / Yr,Rs 0 / Yr,0.312686601
+Rs 3.0 - 3.5 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.138969271
+Rs 3.0 - 3.5 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.090717009
+Rs 3.0 - 3.5 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.005833448
+Rs 3.0 - 3.5 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.003008589
+Rs 3.0 - 3.5 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.002388498
+Rs 3.0 - 3.5 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.001056451
+Rs 3.0 - 3.5 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000872721
+Rs 3.0 - 3.5 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.173855128
+Rs 3.0 - 3.5 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.065086583
+Rs 3.0 - 3.5 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000964586
+Rs 3.0 - 3.5 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000183731
+Rs 3.0 - 3.5 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000620091
+Rs 3.0 - 3.5 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000114832
+Rs 3.0 - 3.5 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000160764
+Rs 3.0 - 3.5 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.089775389
+Rs 3.0 - 3.5 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.026870608
+Rs 3.0 - 3.5 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000390428
+Rs 3.0 - 3.5 Lakh / Yr,Rs 32 - 34 Lakh / Yr,4.59E-05
+Rs 3.0 - 3.5 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.000390428
+Rs 3.0 - 3.5 Lakh / Yr,Rs 36 - 38 Lakh / Yr,4.59E-05
+Rs 3.0 - 3.5 Lakh / Yr,Rs 38 - 40 Lakh / Yr,2.30E-05
+Rs 3.0 - 3.5 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.023839052
+Rs 3.0 - 3.5 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.008796105
+Rs 3.0 - 3.5 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000114832
+Rs 3.0 - 3.5 Lakh / Yr,Rs 46 - 48 Lakh / Yr,2.30E-05
+Rs 3.0 - 3.5 Lakh / Yr,Rs 48 - 50 Lakh / Yr,2.30E-05
+Rs 3.0 - 3.5 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.01302191
+Rs 3.0 - 3.5 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.001263148
+Rs 3.0 - 3.5 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.017615176
+Rs 3.0 - 3.5 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.007464058
+Rs 3.0 - 3.5 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.004248771
+Rs 3.0 - 3.5 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.003812411
+Rs 3.0 - 3.5 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.002204768
+Rs 3.5 - 4.0 Lakh / Yr,"< Rs 50,000 / Yr",0.001286353
+Rs 3.5 - 4.0 Lakh / Yr,Rs 0 / Yr,0.207550336
+Rs 3.5 - 4.0 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.072651007
+Rs 3.5 - 4.0 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.095134228
+Rs 3.5 - 4.0 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.003691275
+Rs 3.5 - 4.0 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.002516779
+Rs 3.5 - 4.0 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.00212528
+Rs 3.5 - 4.0 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000727069
+Rs 3.5 - 4.0 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.00106264
+Rs 3.5 - 4.0 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.203970917
+Rs 3.5 - 4.0 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.091275168
+Rs 3.5 - 4.0 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.001006711
+Rs 3.5 - 4.0 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000503356
+Rs 3.5 - 4.0 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000559284
+Rs 3.5 - 4.0 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000111857
+Rs 3.5 - 4.0 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.00033557
+Rs 3.5 - 4.0 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.151286353
+Rs 3.5 - 4.0 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.054809843
+Rs 3.5 - 4.0 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000223714
+Rs 3.5 - 4.0 Lakh / Yr,Rs 34 - 36 Lakh / Yr,5.59E-05
+Rs 3.5 - 4.0 Lakh / Yr,Rs 36 - 38 Lakh / Yr,5.59E-05
+Rs 3.5 - 4.0 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.041107383
+Rs 3.5 - 4.0 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.015212528
+Rs 3.5 - 4.0 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000223714
+Rs 3.5 - 4.0 Lakh / Yr,Rs 44 - 46 Lakh / Yr,5.59E-05
+Rs 3.5 - 4.0 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.000111857
+Rs 3.5 - 4.0 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.019519016
+Rs 3.5 - 4.0 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.001230425
+Rs 3.5 - 4.0 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.006152125
+Rs 3.5 - 4.0 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.011912752
+Rs 3.5 - 4.0 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.006487696
+Rs 3.5 - 4.0 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.0049217
+Rs 3.5 - 4.0 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.00212528
+Rs 30 - 32 Lakh / Yr,"< Rs 50,000 / Yr",0.00286533
+Rs 30 - 32 Lakh / Yr,Rs 0 / Yr,0.028653295
+Rs 30 - 32 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.00286533
+Rs 30 - 32 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.06017192
+Rs 30 - 32 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.063037249
+Rs 30 - 32 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.05730659
+Rs 30 - 32 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.051575931
+Rs 30 - 32 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.074498567
+Rs 30 - 32 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.034383954
+Rs 30 - 32 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.06017192
+Rs 30 - 32 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.025787966
+Rs 30 - 32 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.111747851
+Rs 30 - 32 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.034383954
+Rs 30 - 32 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.017191977
+Rs 30 - 32 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.014326648
+Rs 30 - 32 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.014326648
+Rs 30 - 32 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.042979943
+Rs 30 - 32 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.011461318
+Rs 30 - 32 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.014326648
+Rs 30 - 32 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.020057307
+Rs 30 - 32 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.00286533
+Rs 30 - 32 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.00286533
+Rs 30 - 32 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.008595989
+Rs 30 - 32 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.034383954
+Rs 30 - 32 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.06017192
+Rs 30 - 32 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.005730659
+Rs 30 - 32 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.034383954
+Rs 30 - 32 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.017191977
+Rs 30 - 32 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.034383954
+Rs 30 - 32 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.017191977
+Rs 32 - 34 Lakh / Yr,Rs 0 / Yr,0.154320988
+Rs 32 - 34 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.030864198
+Rs 32 - 34 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.018518519
+Rs 32 - 34 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.018518519
+Rs 32 - 34 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.12962963
+Rs 32 - 34 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.117283951
+Rs 32 - 34 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.055555556
+Rs 32 - 34 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.030864198
+Rs 32 - 34 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.037037037
+Rs 32 - 34 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.024691358
+Rs 32 - 34 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.030864198
+Rs 32 - 34 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.018518519
+Rs 32 - 34 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.074074074
+Rs 32 - 34 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.012345679
+Rs 32 - 34 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.037037037
+Rs 32 - 34 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.037037037
+Rs 32 - 34 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.024691358
+Rs 32 - 34 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.00617284
+Rs 32 - 34 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.018518519
+Rs 32 - 34 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.018518519
+Rs 32 - 34 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.00617284
+Rs 32 - 34 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.00617284
+Rs 32 - 34 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.024691358
+Rs 32 - 34 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.012345679
+Rs 32 - 34 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.024691358
+Rs 32 - 34 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.012345679
+Rs 32 - 34 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.00617284
+Rs 32 - 34 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.012345679
+Rs 34 - 36 Lakh / Yr,Rs 0 / Yr,0.032653061
+Rs 34 - 36 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.024489796
+Rs 34 - 36 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.012244898
+Rs 34 - 36 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.048979592
+Rs 34 - 36 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.07755102
+Rs 34 - 36 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.065306122
+Rs 34 - 36 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.036734694
+Rs 34 - 36 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.040816327
+Rs 34 - 36 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.020408163
+Rs 34 - 36 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.008163265
+Rs 34 - 36 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.06122449
+Rs 34 - 36 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.040816327
+Rs 34 - 36 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.073469388
+Rs 34 - 36 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.024489796
+Rs 34 - 36 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.020408163
+Rs 34 - 36 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.020408163
+Rs 34 - 36 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.016326531
+Rs 34 - 36 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.024489796
+Rs 34 - 36 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.032653061
+Rs 34 - 36 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.012244898
+Rs 34 - 36 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.004081633
+Rs 34 - 36 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.032653061
+Rs 34 - 36 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.020408163
+Rs 34 - 36 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.012244898
+Rs 34 - 36 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.004081633
+Rs 34 - 36 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.004081633
+Rs 34 - 36 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.024489796
+Rs 34 - 36 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.020408163
+Rs 34 - 36 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.069387755
+Rs 34 - 36 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.036734694
+Rs 34 - 36 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.036734694
+Rs 34 - 36 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.040816327
+Rs 36 - 38 Lakh / Yr,"< Rs 50,000 / Yr",0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 0 / Yr,0.059405941
+Rs 36 - 38 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.04950495
+Rs 36 - 38 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.059405941
+Rs 36 - 38 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.059405941
+Rs 36 - 38 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.03960396
+Rs 36 - 38 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.069306931
+Rs 36 - 38 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.00990099
+Rs 36 - 38 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.01980198
+Rs 36 - 38 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.059405941
+Rs 36 - 38 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.059405941
+Rs 36 - 38 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.069306931
+Rs 36 - 38 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.04950495
+Rs 36 - 38 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.02970297
+Rs 36 - 38 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.00990099
+Rs 38 - 40 Lakh / Yr,Rs 0 / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.044117647
+Rs 38 - 40 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.058823529
+Rs 38 - 40 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.058823529
+Rs 38 - 40 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.058823529
+Rs 38 - 40 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.058823529
+Rs 38 - 40 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.088235294
+Rs 38 - 40 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.044117647
+Rs 38 - 40 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.088235294
+Rs 38 - 40 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.044117647
+Rs 38 - 40 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.073529412
+Rs 38 - 40 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.029411765
+Rs 38 - 40 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.014705882
+Rs 38 - 40 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.088235294
+Rs 38 - 40 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.029411765
+Rs 4.0 - 4.5 Lakh / Yr,"< Rs 50,000 / Yr",0.000981655
+Rs 4.0 - 4.5 Lakh / Yr,Rs 0 / Yr,0.168783361
+Rs 4.0 - 4.5 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.068347751
+Rs 4.0 - 4.5 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.090066875
+Rs 4.0 - 4.5 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.003987975
+Rs 4.0 - 4.5 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.002208724
+Rs 4.0 - 4.5 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.001165716
+Rs 4.0 - 4.5 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000429474
+Rs 4.0 - 4.5 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000613535
+Rs 4.0 - 4.5 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.20602491
+Rs 4.0 - 4.5 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.096508988
+Rs 4.0 - 4.5 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000306767
+Rs 4.0 - 4.5 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000245414
+Rs 4.0 - 4.5 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000429474
+Rs 4.0 - 4.5 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000122707
+Rs 4.0 - 4.5 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000306767
+Rs 4.0 - 4.5 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.162218541
+Rs 4.0 - 4.5 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.075219339
+Rs 4.0 - 4.5 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000245414
+Rs 4.0 - 4.5 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.000122707
+Rs 4.0 - 4.5 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.00018406
+Rs 4.0 - 4.5 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.000122707
+Rs 4.0 - 4.5 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.051475551
+Rs 4.0 - 4.5 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.015951899
+Rs 4.0 - 4.5 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.000122707
+Rs 4.0 - 4.5 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.000122707
+Rs 4.0 - 4.5 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.023621081
+Rs 4.0 - 4.5 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000306767
+Rs 4.0 - 4.5 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.005399104
+Rs 4.0 - 4.5 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.012638812
+Rs 4.0 - 4.5 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.005767225
+Rs 4.0 - 4.5 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.00337444
+Rs 4.0 - 4.5 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.002576845
+Rs 4.5 - 5.0 Lakh / Yr,"< Rs 50,000 / Yr",0.000914077
+Rs 4.5 - 5.0 Lakh / Yr,Rs 0 / Yr,0.140767824
+Rs 4.5 - 5.0 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.051391428
+Rs 4.5 - 5.0 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.073024579
+Rs 4.5 - 5.0 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.006804794
+Rs 4.5 - 5.0 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.004062563
+Rs 4.5 - 5.0 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.002843794
+Rs 4.5 - 5.0 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.00050782
+Rs 4.5 - 5.0 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000812513
+Rs 4.5 - 5.0 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.180276254
+Rs 4.5 - 5.0 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.088157627
+Rs 4.5 - 5.0 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000812513
+Rs 4.5 - 5.0 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000406256
+Rs 4.5 - 5.0 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000609385
+Rs 4.5 - 5.0 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000203128
+Rs 4.5 - 5.0 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.155494617
+Rs 4.5 - 5.0 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.089477961
+Rs 4.5 - 5.0 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000304692
+Rs 4.5 - 5.0 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.082774731
+Rs 4.5 - 5.0 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.033617713
+Rs 4.5 - 5.0 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.000101564
+Rs 4.5 - 5.0 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.000304692
+Rs 4.5 - 5.0 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.036867764
+Rs 4.5 - 5.0 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.001117205
+Rs 4.5 - 5.0 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.00497664
+Rs 4.5 - 5.0 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.022648791
+Rs 4.5 - 5.0 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.009039204
+Rs 4.5 - 5.0 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.007414178
+Rs 4.5 - 5.0 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.003757871
+Rs 40 - 42 Lakh / Yr,Rs 0 / Yr,0.058252427
+Rs 40 - 42 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.058252427
+Rs 40 - 42 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.029126214
+Rs 40 - 42 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.029126214
+Rs 40 - 42 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.038834951
+Rs 40 - 42 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.13592233
+Rs 40 - 42 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.058252427
+Rs 40 - 42 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.097087379
+Rs 40 - 42 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.097087379
+Rs 40 - 42 Lakh / Yr,Rs 38 - 40 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.058252427
+Rs 40 - 42 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.029126214
+Rs 40 - 42 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.019417476
+Rs 40 - 42 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.009708738
+Rs 40 - 42 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.029126214
+Rs 42 - 44 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.142857143
+Rs 42 - 44 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.142857143
+Rs 42 - 44 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.142857143
+Rs 42 - 44 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.142857143
+Rs 42 - 44 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.285714286
+Rs 42 - 44 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.142857143
+Rs 44 - 46 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.125
+Rs 44 - 46 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.25
+Rs 44 - 46 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.125
+Rs 44 - 46 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.125
+Rs 44 - 46 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.125
+Rs 44 - 46 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.25
+Rs 46 - 48 Lakh / Yr,Rs 0 / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.052631579
+Rs 46 - 48 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.131578947
+Rs 46 - 48 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.078947368
+Rs 46 - 48 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.078947368
+Rs 46 - 48 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.078947368
+Rs 46 - 48 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.026315789
+Rs 46 - 48 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.026315789
+Rs 48 - 50 Lakh / Yr,Rs 0 / Yr,0.195652174
+Rs 48 - 50 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.086956522
+Rs 48 - 50 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.02173913
+Rs 48 - 50 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.02173913
+Rs 48 - 50 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.108695652
+Rs 48 - 50 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.043478261
+Rs 48 - 50 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.130434783
+Rs 48 - 50 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.086956522
+Rs 48 - 50 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.02173913
+Rs 48 - 50 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.065217391
+Rs 5 - 6 Lakh / Yr,"< Rs 50,000 / Yr",0.000908565
+Rs 5 - 6 Lakh / Yr,Rs 0 / Yr,0.158503345
+Rs 5 - 6 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.048979929
+Rs 5 - 6 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.05418353
+Rs 5 - 6 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.007681507
+Rs 5 - 6 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.005533989
+Rs 5 - 6 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.00313868
+Rs 5 - 6 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.000908565
+Rs 5 - 6 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.001486743
+Rs 5 - 6 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.14817874
+Rs 5 - 6 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.07433716
+Rs 5 - 6 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.001734534
+Rs 5 - 6 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000330387
+Rs 5 - 6 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000991162
+Rs 5 - 6 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000247791
+Rs 5 - 6 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.153299744
+Rs 5 - 6 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.090195755
+Rs 5 - 6 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000330387
+Rs 5 - 6 Lakh / Yr,Rs 32 - 34 Lakh / Yr,8.26E-05
+Rs 5 - 6 Lakh / Yr,Rs 34 - 36 Lakh / Yr,8.26E-05
+Rs 5 - 6 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.000495581
+Rs 5 - 6 Lakh / Yr,Rs 38 - 40 Lakh / Yr,8.26E-05
+Rs 5 - 6 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.088461221
+Rs 5 - 6 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.04501528
+Rs 5 - 6 Lakh / Yr,Rs 42 - 44 Lakh / Yr,8.26E-05
+Rs 5 - 6 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.000247791
+Rs 5 - 6 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.050466672
+Rs 5 - 6 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000743372
+Rs 5 - 6 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.003964649
+Rs 5 - 6 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.028495911
+Rs 5 - 6 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.015775997
+Rs 5 - 6 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.009829025
+Rs 5 - 6 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.005203601
+Rs 50 - 50 Lakh / Yr,Rs 0 / Yr,0.188087774
+Rs 50 - 50 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.040752351
+Rs 50 - 50 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.040752351
+Rs 50 - 50 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.037617555
+Rs 50 - 50 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.018808777
+Rs 50 - 50 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.018808777
+Rs 50 - 50 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.003134796
+Rs 50 - 50 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.009404389
+Rs 50 - 50 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.10031348
+Rs 50 - 50 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.018808777
+Rs 50 - 50 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.006269592
+Rs 50 - 50 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.003134796
+Rs 50 - 50 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.009404389
+Rs 50 - 50 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.009404389
+Rs 50 - 50 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.094043887
+Rs 50 - 50 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.040752351
+Rs 50 - 50 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.006269592
+Rs 50 - 50 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.003134796
+Rs 50 - 50 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.003134796
+Rs 50 - 50 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.056426332
+Rs 50 - 50 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.047021944
+Rs 50 - 50 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.006269592
+Rs 50 - 50 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.003134796
+Rs 50 - 50 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.05015674
+Rs 50 - 50 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.015673981
+Rs 50 - 50 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.012539185
+Rs 50 - 50 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.062695925
+Rs 50 - 50 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.043887147
+Rs 50 - 50 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.034482759
+Rs 50 - 50 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.015673981
+"Rs 50,000 - 1 Lakh / Yr","< Rs 50,000 / Yr",0.002352941
+"Rs 50,000 - 1 Lakh / Yr",Rs 0 / Yr,0.527058824
+"Rs 50,000 - 1 Lakh / Yr",Rs 1.0 - 1.5 Lakh / Yr,0.108235294
+"Rs 50,000 - 1 Lakh / Yr",Rs 1.5 - 2.0 Lakh / Yr,0.058823529
+"Rs 50,000 - 1 Lakh / Yr",Rs 10 - 12 Lakh / Yr,0.002352941
+"Rs 50,000 - 1 Lakh / Yr",Rs 12 - 14 Lakh / Yr,0.004705882
+"Rs 50,000 - 1 Lakh / Yr",Rs 16 - 18 Lakh / Yr,0.002352941
+"Rs 50,000 - 1 Lakh / Yr",Rs 18 - 20 Lakh / Yr,0.002352941
+"Rs 50,000 - 1 Lakh / Yr",Rs 2.0 - 2.5 Lakh / Yr,0.105882353
+"Rs 50,000 - 1 Lakh / Yr",Rs 2.5 - 3.0 Lakh / Yr,0.049411765
+"Rs 50,000 - 1 Lakh / Yr",Rs 20 - 22 Lakh / Yr,0.004705882
+"Rs 50,000 - 1 Lakh / Yr",Rs 3.0 - 3.5 Lakh / Yr,0.044705882
+"Rs 50,000 - 1 Lakh / Yr",Rs 3.5 - 4.0 Lakh / Yr,0.028235294
+"Rs 50,000 - 1 Lakh / Yr",Rs 4.0 - 4.5 Lakh / Yr,0.016470588
+"Rs 50,000 - 1 Lakh / Yr",Rs 4.5 - 5.0 Lakh / Yr,0.002352941
+"Rs 50,000 - 1 Lakh / Yr",Rs 5 - 6 Lakh / Yr,0.004705882
+"Rs 50,000 - 1 Lakh / Yr","Rs 50,000 - 1 Lakh / Yr",0.009411765
+"Rs 50,000 - 1 Lakh / Yr",Rs 6 - 7 Lakh / Yr,0.014117647
+"Rs 50,000 - 1 Lakh / Yr",Rs 7 - 8 Lakh / Yr,0.004705882
+"Rs 50,000 - 1 Lakh / Yr",Rs 8 - 9 Lakh / Yr,0.004705882
+"Rs 50,000 - 1 Lakh / Yr",Rs 9 - 10 Lakh / Yr,0.002352941
+Rs 6 - 7 Lakh / Yr,"< Rs 50,000 / Yr",0.000317158
+Rs 6 - 7 Lakh / Yr,Rs 0 / Yr,0.112591183
+Rs 6 - 7 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.041864891
+Rs 6 - 7 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.043926419
+Rs 6 - 7 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.010466223
+Rs 6 - 7 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.005867428
+Rs 6 - 7 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.004440216
+Rs 6 - 7 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.001268633
+Rs 6 - 7 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.001427212
+Rs 6 - 7 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.113542658
+Rs 6 - 7 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.067237552
+Rs 6 - 7 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.000951475
+Rs 6 - 7 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.000475737
+Rs 6 - 7 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.000792896
+Rs 6 - 7 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.000475737
+Rs 6 - 7 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000634317
+Rs 6 - 7 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.14779575
+Rs 6 - 7 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.084205519
+Rs 6 - 7 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.000634317
+Rs 6 - 7 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.000158579
+Rs 6 - 7 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.000158579
+Rs 6 - 7 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.098001903
+Rs 6 - 7 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.05661275
+Rs 6 - 7 Lakh / Yr,Rs 42 - 44 Lakh / Yr,0.000158579
+Rs 6 - 7 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.000158579
+Rs 6 - 7 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.104503647
+Rs 6 - 7 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000317158
+Rs 6 - 7 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.00364732
+Rs 6 - 7 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.052648271
+Rs 6 - 7 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.024896924
+Rs 6 - 7 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.012052014
+Rs 6 - 7 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.007770377
+Rs 7 - 8 Lakh / Yr,"< Rs 50,000 / Yr",0.00078416
+Rs 7 - 8 Lakh / Yr,Rs 0 / Yr,0.079396197
+Rs 7 - 8 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.033326799
+Rs 7 - 8 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.030386199
+Rs 7 - 8 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.014899039
+Rs 7 - 8 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.01117428
+Rs 7 - 8 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.00646932
+Rs 7 - 8 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.00352872
+Rs 7 - 8 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.00274456
+Rs 7 - 8 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.078612037
+Rs 7 - 8 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.048421878
+Rs 7 - 8 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.00254852
+Rs 7 - 8 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.00058812
+Rs 7 - 8 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.00215644
+Rs 7 - 8 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.00058812
+Rs 7 - 8 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.0009802
+Rs 7 - 8 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.144481474
+Rs 7 - 8 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.083905117
+Rs 7 - 8 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.00117624
+Rs 7 - 8 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.00039208
+Rs 7 - 8 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.00039208
+Rs 7 - 8 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.00019604
+Rs 7 - 8 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.109390316
+Rs 7 - 8 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.059988238
+Rs 7 - 8 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.00039208
+Rs 7 - 8 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.00019604
+Rs 7 - 8 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.00019604
+Rs 7 - 8 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.099392276
+Rs 7 - 8 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.0019604
+Rs 7 - 8 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.0039208
+Rs 7 - 8 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.096451676
+Rs 7 - 8 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.036267399
+Rs 7 - 8 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.026857479
+Rs 7 - 8 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.017839639
+Rs 8 - 9 Lakh / Yr,"< Rs 50,000 / Yr",0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 0 / Yr,0.061965812
+Rs 8 - 9 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.01531339
+Rs 8 - 9 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.017450142
+Rs 8 - 9 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.026709402
+Rs 8 - 9 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.013888889
+Rs 8 - 9 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.009259259
+Rs 8 - 9 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.003205128
+Rs 8 - 9 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.000712251
+Rs 8 - 9 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.052350427
+Rs 8 - 9 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.030270655
+Rs 8 - 9 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.003205128
+Rs 8 - 9 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.001068376
+Rs 8 - 9 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.002492877
+Rs 8 - 9 Lakh / Yr,Rs 26 - 28 Lakh / Yr,0.001068376
+Rs 8 - 9 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.073717949
+Rs 8 - 9 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.076210826
+Rs 8 - 9 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.001424501
+Rs 8 - 9 Lakh / Yr,Rs 32 - 34 Lakh / Yr,0.000712251
+Rs 8 - 9 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.100071225
+Rs 8 - 9 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.082977208
+Rs 8 - 9 Lakh / Yr,Rs 40 - 42 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 44 - 46 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 46 - 48 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 48 - 50 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.128205128
+Rs 8 - 9 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.000356125
+Rs 8 - 9 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.001780627
+Rs 8 - 9 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.125712251
+Rs 8 - 9 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.096509972
+Rs 8 - 9 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.048433048
+Rs 8 - 9 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.022792023
+Rs 9 - 10 Lakh / Yr,"< Rs 50,000 / Yr",0.000513875
+Rs 9 - 10 Lakh / Yr,Rs 0 / Yr,0.084789311
+Rs 9 - 10 Lakh / Yr,Rs 1.0 - 1.5 Lakh / Yr,0.023638232
+Rs 9 - 10 Lakh / Yr,Rs 1.5 - 2.0 Lakh / Yr,0.025179856
+Rs 9 - 10 Lakh / Yr,Rs 10 - 12 Lakh / Yr,0.042651593
+Rs 9 - 10 Lakh / Yr,Rs 12 - 14 Lakh / Yr,0.023124358
+Rs 9 - 10 Lakh / Yr,Rs 14 - 16 Lakh / Yr,0.010791367
+Rs 9 - 10 Lakh / Yr,Rs 16 - 18 Lakh / Yr,0.005138746
+Rs 9 - 10 Lakh / Yr,Rs 18 - 20 Lakh / Yr,0.006166495
+Rs 9 - 10 Lakh / Yr,Rs 2.0 - 2.5 Lakh / Yr,0.067317575
+Rs 9 - 10 Lakh / Yr,Rs 2.5 - 3.0 Lakh / Yr,0.038026721
+Rs 9 - 10 Lakh / Yr,Rs 20 - 22 Lakh / Yr,0.004110997
+Rs 9 - 10 Lakh / Yr,Rs 22 - 24 Lakh / Yr,0.002055498
+Rs 9 - 10 Lakh / Yr,Rs 24 - 26 Lakh / Yr,0.003597122
+Rs 9 - 10 Lakh / Yr,Rs 28 - 30 Lakh / Yr,0.001027749
+Rs 9 - 10 Lakh / Yr,Rs 3.0 - 3.5 Lakh / Yr,0.080678314
+Rs 9 - 10 Lakh / Yr,Rs 3.5 - 4.0 Lakh / Yr,0.046248715
+Rs 9 - 10 Lakh / Yr,Rs 30 - 32 Lakh / Yr,0.002569373
+Rs 9 - 10 Lakh / Yr,Rs 34 - 36 Lakh / Yr,0.001027749
+Rs 9 - 10 Lakh / Yr,Rs 36 - 38 Lakh / Yr,0.000513875
+Rs 9 - 10 Lakh / Yr,Rs 4.0 - 4.5 Lakh / Yr,0.082219938
+Rs 9 - 10 Lakh / Yr,Rs 4.5 - 5.0 Lakh / Yr,0.049331963
+Rs 9 - 10 Lakh / Yr,Rs 5 - 6 Lakh / Yr,0.116135663
+Rs 9 - 10 Lakh / Yr,Rs 50 - 50 Lakh / Yr,0.001541624
+Rs 9 - 10 Lakh / Yr,"Rs 50,000 - 1 Lakh / Yr",0.002055498
+Rs 9 - 10 Lakh / Yr,Rs 6 - 7 Lakh / Yr,0.116135663
+Rs 9 - 10 Lakh / Yr,Rs 7 - 8 Lakh / Yr,0.071942446
+Rs 9 - 10 Lakh / Yr,Rs 8 - 9 Lakh / Yr,0.058067831
+Rs 9 - 10 Lakh / Yr,Rs 9 - 10 Lakh / Yr,0.03340185
